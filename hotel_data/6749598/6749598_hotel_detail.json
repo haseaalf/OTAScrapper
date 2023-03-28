@@ -1,0 +1,620 @@
+{
+       "data": [
+              {
+                     "location_id": "6749598",
+                     "name": "Hevea Villas",
+                     "latitude": "-8.686575",
+                     "longitude": "115.161865",
+                     "num_reviews": "607",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Seminyak, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/5e/e2/85/hevea-2-bedroom-de-luxe.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/5e/e2/85/hevea-2-bedroom-de-luxe.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2642",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/5e/e2/85/hevea-2-bedroom-de-luxe.jpg",
+                                          "height": "1192"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/5e/e2/85/hevea-2-bedroom-de-luxe.jpg",
+                                          "height": "248"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/5e/e2/85/hevea-2-bedroom-de-luxe.jpg",
+                                          "height": "113"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2018-06-21T08:09:08-0400",
+                            "caption": "Hevea 2 Bedroom De Luxe ",
+                            "id": "324985477",
+                            "helpful_votes": "0",
+                            "published_date": "2018-06-21T08:09:08-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/6749598?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.838089466094971",
+                     "ranking_geo": "Seminyak",
+                     "ranking_geo_id": "469404",
+                     "ranking_position": "3",
+                     "ranking_denominator": "462",
+                     "ranking_category": "other",
+                     "ranking": "No. 3 dari 462 Penginapan khusus di Seminyak",
+                     "subcategory_type": "villa",
+                     "subcategory_type_label": "Vila",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$",
+                     "price": "Rp\u00a03.364.000 - Rp\u00a04.621.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "49145825",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=49145825&geo=6749598&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=4&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914961&managed=false&capped=false&gosox=4D5w91yZ-TWyEJ-f3_xcVdI2gWmdiZ8Titqn9qycCA3ocWfdXC2KunDYts8j7WDZj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn8oHfmgZAJRHe9w5g2gqyGfNpl9R2Dv6yHCZ-p-_TGghrmRt3EV86XY5fvUx2fyfmfD7F3lxWfhlTES_jMH_sk_KRootmdppwyfqEdaSXRI_ybIZEnGDRcx6H1ZpwlAoiKp00rmJfj214f3aX5pUVbH&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=a2d004bf-b4ee-4c96-ad3a-511c4a5b63ee&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1b3c513bb2acae9936565a94ab8e7d7a7&area=QC_META_API&ik=cbf3d09839c5427b990143820c0c65c9&dated=true&aok=61f7cbb5051f4a678df623db12ae1c44&tp=HR_MainCommerce",
+                                          "auction_offer_key": "61f7cbb5051f4a678df623db12ae1c44"
+                                   },
+                                   {
+                                          "content_id": "47221941",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=47221941&geo=6749598&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=4&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914961&managed=false&capped=false&gosox=HyKxBceq3JHrMhglnZaEgqhrSisX4AWH_5guVC0aU_wvgKviE0XGzDeS0gJEHVAnaB3Lwc9tPbUzPpruM10Q0gIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTpuNvOnXGOTzYbRN07H_p4zi5gTo97RTf6FHFZwX01KUZmVpfBMyu89JgVyYzMFRGjF_rWMmHGn6LR5XUd5upXOpWI3KgRVGqrScsywu8WXO02znwlz2fdhrEQipzTSCseI2d9YUAmLzf38jAiIfZq8&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=a2d004bf-b4ee-4c96-ad3a-511c4a5b63ee&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=17620a3a8dca834aa2ef5219f17337343&area=QC_META_API&ik=cbf3d09839c5427b990143820c0c65c9&dated=true&aok=d901a4e9b6114f07908c0d4b22f5e1cb&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d901a4e9b6114f07908c0d4b22f5e1cb"
+                                   },
+                                   {
+                                          "content_id": "60715028",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60715028&geo=6749598&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=4&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914961&managed=true&capped=false&gosox=9sP-aPblWfMUW7CDjI78UK6p-9bh1Vlao51LUNDilNKiPGDHXOXXVTZns3qkSx1k1X9GW9K-M6HKJsA2Rz8ZH4mzDhOMKMEAv9Uf6QEsf1mdXDJYUG4WNBFF4clqu1xvhjWNm0VwQjON8JfLZngBNZYGSRSK2mf_jndxSnoHCjxeMTB0lNehMeHJ-qo8Sl6QIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=a2d004bf-b4ee-4c96-ad3a-511c4a5b63ee&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1946bf4254db32fdcadf0e70e885e75b0&area=QC_META_API&ik=cbf3d09839c5427b990143820c0c65c9&dated=true&aok=9308d5d764984260a0c343905bbad67c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "9308d5d764984260a0c343905bbad67c"
+                                   },
+                                   {
+                                          "content_id": "119733186",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=119733186&geo=6749598&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=4&silo=18569&bucket=962380&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259914961&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01sIXHGwuCDVLs_QFb3rGDmLfnEGaWgIzTGOQF8X9WEGhdqtqUfc0z5Kab_J5UGhgYbcnxsKauapyA_FddDh8oA_7PRBDkpl9iOJpfBqcf80QFl-44L0XDP612LSQTcgb_g&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=a2d004bf-b4ee-4c96-ad3a-511c4a5b63ee&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=104653aa0556e7b9a1a57ad6fb94d195e&area=QC_META_API&ik=cbf3d09839c5427b990143820c0c65c9&dated=true&aok=2ecf390c74134a1ca6c63e17e4360d18&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2ecf390c74134a1ca6c63e17e4360d18"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": [
+                                   {
+                                          "value": "heveavillas@gmail.com",
+                                          "label": "Kirimkan e-mail kepada hotel",
+                                          "type": "email",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=6749598&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLEM&tm=259914961&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkVneTXK1OyrI6X4dHUlusAhmIWFD9l_pGu6fHR67KusJf-sZgc5PBDMFABU56aJbBg&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=1&cs=1317e5dab18f192c7a8c5497aa9b50df7"
+                                   },
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=6749598&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=259914961&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkVneTXK1OyrI6X4dHUlusAgaZlOo_WellNfycYHo-S_sdt_zSArWrrEN3lgJjgX2Ig&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=2&cs=16d0a2d46aca588ab26c011ed311a7f75",
+                                          "label": "Situs Web hotel",
+                                          "type": "url"
+                                   },
+                                   {
+                                          "value": "(0361) 731453",
+                                          "label": "Nomor telepon",
+                                          "type": "phone",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=6749598&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLTM&tm=259914961&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkVneTXK1OyrI6X4dHUlusAgFz-QXKk2L1iPOjvyEqmXmjUopuAVXiUPEFX7Y18k11A&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=3&cs=1a456e86491ae669719d907479849df79"
+                                   }
+                            ]
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "bee64ac7-03f4-4827-b7a0-0dc8bec14d5d",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g469404-d6749598-Reviews-Hevea_Villas-Seminyak_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g469404-d6749598-Hevea_Villas-Seminyak_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Seminyak",
+                                   "abbrv": null,
+                                   "location_id": "469404"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "other",
+                                   "name": "Penginapan Khusus"
+                            }
+                     ],
+                     "parent_display_name": "Seminyak",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "0361731453",
+                     "website": "http://www.heveavillas.com",
+                     "email": "heveavillas@gmail.com",
+                     "address_obj": {
+                            "street1": "Jl. Kayu Aya-Gang Nyuh Gading 14",
+                            "street2": "",
+                            "city": "Seminyak",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Kayu Aya-Gang Nyuh Gading 14, Seminyak 80361 Indonesia",
+                     "local_name": "Hevea Villas",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "kitchenette",
+                                   "name": "Dapur kecil"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Babysitting",
+                                   "name": "Penitipan anak"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Additional Bathroom",
+                                   "name": "Kamar Mandi Tambahan"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Kids Pool",
+                                   "name": "Kolam renang anak"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "BBQ Facilities",
+                                   "name": "Fasilitas BBQ"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            },
+                            {
+                                   "key": "Chinese - Amenities",
+                                   "name": "Bahasa Tiongkok"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Dining Area",
+                                   "name": "Area Makan"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Extra Long Beds",
+                                   "name": "Tempat Tidur Panjang Tambahan"
+                            },
+                            {
+                                   "key": "Fence Around Pool",
+                                   "name": "Kolam Renang Berpagar"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Free Private Parking Nearby",
+                                   "name": "Parkir Pribadi Gratis Terdekat"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Hand Massage",
+                                   "name": "Pijat Tangan"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Highchairs Available - Amenities",
+                                   "name": "Tersedia Kursi Bayi"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Interconnected rooms available",
+                                   "name": "Tersedia kamar terhubung"
+                            },
+                            {
+                                   "key": "Kids' Meals",
+                                   "name": "Makanan Anak-Anak"
+                            },
+                            {
+                                   "key": "Kitchenware",
+                                   "name": "Peralatan Dapur"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Mosquito Net",
+                                   "name": "Tirai Antinyamuk"
+                            },
+                            {
+                                   "key": "Outdoor Dining Area",
+                                   "name": "Area Makan Luar Ruangan"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Pool View",
+                                   "name": "Pemandangan Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Stovetop",
+                                   "name": "Tungku"
+                            },
+                            {
+                                   "key": "Sun Deck",
+                                   "name": "Beranda Terbuka"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Tile / Marble Floor",
+                                   "name": "Lantai Ubin/Marmer"
+                            },
+                            {
+                                   "key": "Umbrella",
+                                   "name": "Payung"
+                            },
+                            {
+                                   "key": "Wardrobe / Closet",
+                                   "name": "Lemari Pakaian/Lemari"
+                            },
+                            {
+                                   "key": "Wine / Champagne",
+                                   "name": "Minuman Anggur/Sampanye"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ],
+                     "owner_website": "/Commerce?p=TABAIndependentHotels&src=0&geo=6749598&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=259914961&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkVneTXK1OyrI6X4dHUlusAgaZlOo_WellNfycYHo-S_sdt_zSArWrrEN3lgJjgX2Ig&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=2&cs=16d0a2d46aca588ab26c011ed311a7f75"
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "25",
+              "auction_key": "1c8fec174e83447ab112ef6cb78e9d67",
+              "impression_key": "cbf3d09839c5427b990143820c0c65c9",
+              "pricing": "base"
+       }
+}

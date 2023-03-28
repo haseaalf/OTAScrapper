@@ -1,0 +1,409 @@
+{
+       "data": [
+              {
+                     "location_id": "618431",
+                     "name": "Lakshmi Villas",
+                     "latitude": "-8.682865",
+                     "longitude": "115.15569",
+                     "num_reviews": "132",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Seminyak, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/47/64/50/lakshmi-villas.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/47/64/50/lakshmi-villas.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1500",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/47/64/50/lakshmi-villas.jpg",
+                                          "height": "770"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/47/64/50/lakshmi-villas.jpg",
+                                          "height": "282"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/47/64/50/lakshmi-villas.jpg",
+                                          "height": "128"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2014-07-30T00:03:48-0400",
+                            "caption": "Villa Toba - night view",
+                            "id": "105342032",
+                            "helpful_votes": "1",
+                            "published_date": "2014-07-30T00:03:48-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/618431?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "3.9317407608032227",
+                     "ranking_geo": "Seminyak",
+                     "ranking_geo_id": "469404",
+                     "ranking_position": "53",
+                     "ranking_denominator": "462",
+                     "ranking_category": "other",
+                     "ranking": "No. 53 dari 462 Penginapan khusus di Seminyak",
+                     "subcategory_type": "villa",
+                     "subcategory_type_label": "Vila",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a03.561.000 - Rp\u00a09.318.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "205826281",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=205826281&geo=618431&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=3&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914883&managed=false&capped=false&gosox=MbwUIxhjHBYmJBNQS5sBYqhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateeBmyuJrJbOK3HH1U45n8OQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTop42kUG8dCz5aCaUq-wgY3Oy1c7ir_1Pk41qtcRujm2Ths7A6h0gyEMXwwfimSsyZqhlPpOkPBcg6bmrD0UfsAnfW8skp9epuRzZGKxkM_Ic0tq0QGN3avVoVz9gn11uiVzyecqo9slH23LYbPKmQs&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1ba36b8f-83e9-4366-a4e7-345356d4e45a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1707c4cb7b11b769fef032672b067026c&area=QC_META_API&ik=9f38adf43e2c4d9890e907a045833cd2&dated=true&aok=4255b7766259411d9058c2605972ee4f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4255b7766259411d9058c2605972ee4f"
+                                   },
+                                   {
+                                          "content_id": "205544437",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=205544437&geo=618431&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=3&silo=10473&bucket=903102&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914883&managed=false&capped=false&gosox=Mh4Mrhvt2szxRVTLJwrEO9I2gWmdiZ8Titqn9qycCA10a_lsOYBN7-89vR8C5nuyj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn9WBx94wvl7MBIeD-F5f72INpl9R2Dv6yHCZ-p-_TGghh6daw5_UFWTpNcGnXoqJsfYc7O3RUGsjolfV1I_lqKUNLL8FkMRlO0K_y1kTv4dRl-nhCwU5_KT-glRNtziTJTM4c32b0A8DPVIVSL3nM4z&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1ba36b8f-83e9-4366-a4e7-345356d4e45a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=174ad903bc905e1a1fa91e341f148ec5a&area=QC_META_API&ik=9f38adf43e2c4d9890e907a045833cd2&dated=true&aok=3db707fa51c545b3bee82123238b3230&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3db707fa51c545b3bee82123238b3230"
+                                   },
+                                   {
+                                          "content_id": "73819196",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=73819196&geo=618431&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=3&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914883&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxjUlTjMZlx_-CpO6zjP89M1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0NjvJjt-fa5yQ-UOXaScP2jHNLL8FkMRlO0K_y1kTv4dRl-nhCwU5_KT-glRNtziTJTM4c32b0A8DPVIVSL3nM4z&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1ba36b8f-83e9-4366-a4e7-345356d4e45a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=18f36699805aff7cf3d01df526d5107a7&area=QC_META_API&ik=9f38adf43e2c4d9890e907a045833cd2&dated=true&aok=51e13edf7ed94df0b17ffa8ca911430b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "51e13edf7ed94df0b17ffa8ca911430b"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "ec67126b-5e63-4d96-a94b-2a0700bc39cd",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g469404-d618431-Reviews-Lakshmi_Villas-Seminyak_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g469404-d618431-Lakshmi_Villas-Seminyak_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Seminyak",
+                                   "abbrv": null,
+                                   "location_id": "469404"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "other",
+                                   "name": "Penginapan Khusus"
+                            }
+                     ],
+                     "parent_display_name": "Seminyak",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 737498",
+                     "website": "http://www.lakshmivillas.com/",
+                     "email": "reservations@elitehavens.com",
+                     "address_obj": {
+                            "street1": "Jl. Oberoi No. 22, Petitenget",
+                            "street2": "Laksmana Estate",
+                            "city": "Seminyak",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Oberoi No. 22, Petitenget Laksmana Estate, Seminyak 80361 Indonesia",
+                     "local_name": "Lakshmi Villas",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "kitchenette",
+                                   "name": "Dapur kecil"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Babysitting",
+                                   "name": "Penitipan anak"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "BBQ Facilities",
+                                   "name": "Fasilitas BBQ"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Board Games / Puzzles",
+                                   "name": "Permainan Papan/Puzzle"
+                            },
+                            {
+                                   "key": "Books, DVDs, Music for Children",
+                                   "name": "Buku, DVD, dan Musik untuk Anak-Anak"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Iron",
+                                   "name": "Setrika"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Outdoor Furniture",
+                                   "name": "Furnitur Luar Ruangan"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Shoeshine",
+                                   "name": "Semir Sepatu"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Strollers",
+                                   "name": "Kereta Bayi"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "e5dcabbb9e0b48a3ae23fc5ba480a8e5",
+              "impression_key": "9f38adf43e2c4d9890e907a045833cd2",
+              "pricing": "base"
+       }
+}

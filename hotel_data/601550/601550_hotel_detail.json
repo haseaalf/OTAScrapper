@@ -1,0 +1,599 @@
+{
+       "data": [
+              {
+                     "location_id": "601550",
+                     "name": "Bulgari Resort Bali",
+                     "latitude": "-8.845436",
+                     "longitude": "115.12111",
+                     "num_reviews": "1020",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Pecatu, Bukit Peninsula, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/8e/81/6d/exterior.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/8e/81/6d/exterior.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "4000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/8e/81/6d/exterior.jpg",
+                                          "height": "2667"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/8e/81/6d/exterior.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/8e/81/6d/exterior.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2021-12-09T02:05:27-0500",
+                            "caption": "Exterior",
+                            "id": "562987373",
+                            "helpful_votes": "0",
+                            "published_date": "2021-12-09T02:05:27-0500",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/601550?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.587491512298584",
+                     "ranking_geo": "Pecatu",
+                     "ranking_geo_id": "1380108",
+                     "ranking_position": "6",
+                     "ranking_denominator": "74",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 6 dari 74 hotel di Pecatu",
+                     "subcategory_type": "resort",
+                     "subcategory_type_label": "Resor",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "open_now_text": "Sekarang Buka",
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a023.712.000 - Rp\u00a030.318.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "40370878",
+                                          "provider_display_name": "Bulgari",
+                                          "internal_provider_name": "Marriott1",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/bvlgari-384164.png",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "pay_at_stay_message": "Tidak perlu membayar di muka",
+                                          "display_price": "Rp\u00a020.250.000",
+                                          "display_price_int": "20250000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Marriott1&src=40370878&geo=601550&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=31871&bucket=900318&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914858&managed=false&capped=false&gosox=k4u4we9P1Byd-mX0C3B2z0QJdTJjvW_HW2M8a-Yokj2dE_VvJ1vvkHKUveMBDpQH5KhPt-AswqkSvq9LIirkuuk4EUsheXbohF544uxGNlgxIRVx2uTUPInw6XtuoPiSTO28Hr-n2Hywz9L9INPdRIdgZ6IxYn39xnyhkAIz2ZcJ2Jd3PdCAscNxwdGRFVoyjh_i8S8WsL7Y_tN-0FiN4PQghu1rcDSlwXJgeWYtABe-AxVgug2BgAMrBihAUBD3dOfSRvKvi8FyXU6_ilQUiQ&priceShown=20250000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2026&rate=20250000.00&fees=4252500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=151f6bc29316c4d658e39dd0f654496c6&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=e6aa75c4fc3342a89f35d9f2e2574242&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e6aa75c4fc3342a89f35d9f2e2574242"
+                                   },
+                                   {
+                                          "content_id": "33206236",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a020.250.000",
+                                          "display_price_int": "20250000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33206236&geo=601550&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=5091&bucket=907532&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914858&managed=false&capped=false&gosox=h-5Ym5fn4ilAT3jE6Lup5qhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewate-htG3P0HjBogYj5Rmpl0gAIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTtmMW76YacYEgq-QI8BHTjVb3a802Xyp60cPxc-e8czrWJEgydcjBc1RrCtkkAmpoa8V3gHu0yzHBj562QGdoqlXbUKqUUaY1z6Zt1uPIy5TuyttSNlRso4LqApCdxahcynts14RSipCNsR3uM7rKvI&priceShown=20250000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2026&rate=20250000.00&fees=4252500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_ac923905ae12fa2df43bf9cea37e2e3&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=172029b67ae67d5e1de692491d3d5377b&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=b724612a02df4d69a2fe3b6ff925e419&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b724612a02df4d69a2fe3b6ff925e419"
+                                   },
+                                   {
+                                          "content_id": "32636319",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a019.943.000",
+                                          "display_price_int": "19943000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32636319&geo=601550&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=9&crank=9&clt=M&ttype=MobileCR&tm=259914858&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1tCkMmNRvrNz8e08SeRTDnZ5pVhKtNVX9gAEZ8L4EnOFBJFMFrPZkzGCuE4wh7fulrB3IVyrixZPUe65Ml4MfJSI2vT-6ineKtPqIrei6prCSnIqR4MZot3sn3b1K3UKo0BHOh9r1KlpBEY2Duop2NgIQIU3Ug4uqH9NO-Fer2xdXLKBmk0H2SmQrxTApmDrV1Lv4voN42D8shuTGVXkXmQ-MYhXyS5nse-w4SlvzEgMFAUBnAh55QkEm28W3wDJnw95rFvEzzf4Pd3CtPThP8&priceShown=19943000&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=19943000.00000000000000&fees=4188000.00000000000000&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=196b6754aabdb5d642f6db90801f34a04&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=da62e800f9104698a17a4f4ff6b99968&tp=HR_MainCommerce",
+                                          "auction_offer_key": "da62e800f9104698a17a4f4ff6b99968"
+                                   },
+                                   {
+                                          "content_id": "64224989",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a020.250.000",
+                                          "display_price_int": "20250000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=64224989&geo=601550&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=18569&bucket=962380&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259914858&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0Gqlb5w_5cn-lB0bkJuoG2Fb4iHCXB4LkFJoEpxHvsixN8ylm5hW05fB8XeApaVUS-mTuH1WiI2s_rm6N526h71khR5MXb-aJFEkkHR583hhtW7TelUmST60bk8BrJ17cYTKjB7E-yyxPdg8fTqZw_iU-G7kLff6dQHjtJWZKrjdZtx1xxHQ-2oTGqVMqiBChmD4ntC_ZNMKwzntCsYVeE5CoIOWU7-Q7PVhrBKdSyOM2gpD-A9ZIre9--DzYDeIHrXwgEwlny9YihKNe4MQ6QOQ&priceShown=20250000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2026&rate=20250000.00&fees=4252500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_3ab8c9819f41136953ac73c72aa2d0a0&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=117c6dd76a799f89947972bb7fdc31e70&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=e22d5b3f4d5a497989b96a75f073c71c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e22d5b3f4d5a497989b96a75f073c71c"
+                                   },
+                                   {
+                                          "content_id": "174682195",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a020.250.000",
+                                          "display_price_int": "20250000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174682195&geo=601550&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=259914858&managed=false&capped=false&gosox=qGA5_kLcJVjA4coCiA7P1Hsr-Pon_YJVdWfnGgGPP0pt1KUEu3xXx-Qvmw8HGroJ1qTEsjctnGx4SbuHqG26cuch28PbAdZoxThvqUgcMgYEFOds-1kaWgMWVrXgYfXRYWDGRLiUFU-gONCmXXp79CXzZixshMxosyIJQAijXHOCfslV_D78JJq8e5iIStIySHXzNOijMt5ZKHRksN09eFWndrK5K_qvzS7d_Ae1p0CnI0wj8CyNp65trRPwi8Tx2Izr0qkxJkEQstD45doXs_d9U-IBV56QN-wjHfXf6iM&priceShown=20250000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2026&rate=20250000.00&fees=4252500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_38542d0c8730541cb099b5468f7f7f13&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=16d0b30e5ac9a95393f1c7a8433915860&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=16fae8d370ea4d4fa48d83860640a293&tp=HR_MainCommerce",
+                                          "auction_offer_key": "16fae8d370ea4d4fa48d83860640a293"
+                                   },
+                                   {
+                                          "content_id": "218509360",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a020.250.000",
+                                          "display_price_int": "20250000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218509360&geo=601550&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=44859&bucket=973414&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=259914858&managed=false&capped=false&gosox=wgS0QBLUUPQvPYQe9RBcIG4W7wOzeRxhQJhwewGUZ1HjEvaEEAgNaUygAB3RfLeQzqwlhMoVk9BRI2utPafLgrcTNCYfmC1FnzHFT6uhMyucnfpXICzhVxXaKfC6BNqDGUuy9P4mRcHq-NKbUeJt7MRzjejySKO-ibhQfRs4eoiaIfRuEcaA-3sD_nbTMJJQXYyJkrWRtHToixSZYuJVAyUqn67Hb1HdEhRy9qDgv-9zSK1GQkoRNLJ6qRhBcDw2CsIH22YymTeWCjNDG_nxeSL-qlR2VVIusPyj-S87vAs&priceShown=20250000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2026&rate=20250000.00&fees=4252500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_e1db01b9b04df3a5b9ce9ca1437c80a&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1766f24035cda268e0bc0f2e670559ab5&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=2aed4150814b4dd0ae2d2fc86993bf9e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2aed4150814b4dd0ae2d2fc86993bf9e"
+                                   },
+                                   {
+                                          "content_id": "33397699",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=33397699&geo=601550&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914858&managed=false&capped=false&gosox=a34MYHbelhDqrmAD4ysr2NI2gWmdiZ8Titqn9qycCA37FcPcTPOIAf2gPxqHl8E5j162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn-2iRR9F3PEV0GHHQUyuKx4Npl9R2Dv6yHCZ-p-_TGghtXwQZoZF035w57GSU3HL7RxtbSXhSEnLmQaOfu2LLuLYPo58mKHjPm2-r0szGYhf-D_f9fJ7S8RBq6-DfwUs1BOsTRd9xzLRrGkcAT2MNap&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=16eaf2031e08f9aadcfbc9909dc1d02eb&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=0d59094addd64a67beaa6e07ab4647d6&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0d59094addd64a67beaa6e07ab4647d6"
+                                   },
+                                   {
+                                          "content_id": "60259487",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60259487&geo=601550&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=259914858&managed=true&capped=false&gosox=J_PaunglF1QXQbGgkW-sHh8dfCntpDudEDSOoyR8ns-QihM7-VaCdobP55uQgDM81X9GW9K-M6HKJsA2Rz8ZH4THvxTkQYsHFpepN2Mos9l6MwsaiBc37nd-UEKcDZjZdxXy5sAVtifFMumsfVhYhD9QZCLw4H9G0wmCje99MoZ3md3EsToLv8RqhiavWdfb&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=107ac3aa10cd5573efe4916045829ab07&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=964588ee90c64eeb9d4b7784c86e0584&tp=HR_MainCommerce",
+                                          "auction_offer_key": "964588ee90c64eeb9d4b7784c86e0584"
+                                   },
+                                   {
+                                          "content_id": "34540393",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34540393&geo=601550&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=8&crank=8&clt=M&ttype=MobileCR&tm=259914858&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12p2knot88m50RvNwQ4usHZV1X9GW9K-M6HKJsA2Rz8ZH40JefZXv9xERLIOiqqahmBeZ_hkoAfSE9Vq_B92yKHfOxVTv_CTLsjqYpWSIXowbvnn0UWTN0R-B-O_hwz6c-3BuuWgIo2RKuSDvKZSq0QZMM5Domm8VjzrpSMq-AYNhg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bc675913-ae4a-4a48-aeec-156a94c7b32d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1f49c441fff5e212037522c6fd90ca4ca&area=QC_META_API&ik=408733df5c374cb49e733690434ff506&dated=true&aok=6c836ed545e94bb3a9cf98ce74b455cd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6c836ed545e94bb3a9cf98ce74b455cd"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": [
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=219317778&geo=601550&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=259914858&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZUfpR7C6GI55oUdWnjVv4Y5tLSEqjN9HiL6qJYeKEdLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&dated=true&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=1&cs=1a4f646a0efc1f4a3dd13cc573f46e457",
+                                          "label": "Situs Web hotel",
+                                          "type": "url"
+                                   },
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=219317778&geo=601550&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CDM&ttype=CLDealsMobile&tm=259914858&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZzqrecQr8FJfkPs197fikljddHIA1u07aqJhHFSZrNqw&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&dated=true&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=2&cs=1f10439136c66b0ec725f7510d2307890",
+                                          "label": "Penawaran hotel",
+                                          "type": "url_deals"
+                                   },
+                                   {
+                                          "value": "(0361) 8471000",
+                                          "label": "Nomor telepon",
+                                          "type": "phone",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=219317778&geo=601550&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=CLTM&tm=259914858&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkW6IDlOeGJIV02F-HcRdfYgd9BVhYtjbzm-0hesHFZCWU822tJWHTIWk3HLiHYlkXg&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=3&cs=179e34dce3e9dddd53eec61a2ba2e051d"
+                                   }
+                            ]
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": [
+                                   {
+                                          "headline": "Penawaran paket",
+                                          "url": "https://www.tripadvisor.co.id/ShowSpecialOffer-a_d.601550-a_offer.9590391-a_trafficSource.ba?adults=2&child_rm_ages=&inDay=28&inMonth=3&inYear=2023&outDay=29&outMonth=3&outYear=2023&rooms=1",
+                                          "offerless_click_tracking_url": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=219317778&geo=601550&from=api&area=OID:9590391%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=259914858&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkW6IDlOeGJIV02F-HcRdfYg-WIIar8upP1Y1grSvotbZZxp8KBa6HLoNCkjpAmsnsA&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&cs=1a2a29094d6e5716be5bcd2e44b623209",
+                                          "coupon_id": null,
+                                          "coupon_type": "PACKAGE",
+                                          "bl_language": null,
+                                          "description": "",
+                                          "valid_start_date": "2022-12-01T00:00:00-05:00",
+                                          "valid_end_date": "2023-11-30T00:00:00-05:00",
+                                          "valid_days": "Penawaran berlaku untuk hari berikut: .",
+                                          "taxes": null
+                                   }
+                            ]
+                     },
+                     "listing_key": "417f2fdd-da61-4fc4-b85a-0e64a9c08c7d",
+                     "description": "Mencari tempat menginap di Uluwatu? Coba lihat Bulgari Resort Bali, resor sesuai untuk keluarga yang menyuguhkan daya tarik terbaik Uluwatu ke kamar Anda.\nKamar memiliki tv layar datar, penyejuk udara, dan kulkas, dan Anda dapat menggunakan internet, karena wi-fi gratis tersedia, sehingga Anda dapat beristirahat dan menyegarkan diri dengan mudah.\nBvlgari Resort Bali menawarkan layanan concierge dan layanan kamar. Sebagai tamu Bulgari Resort Bali, Anda dapat menikmati kolam renang dan sarapan yang tersedia di properti. Para tamu yang mengemudi memiliki akses ke tempat parkir gratis.\nPengunjung yang ingin makan iga dapat menuju ke Warung di Alila Villas Uluwatu, DUGONG di Suarga Padang Padang, atau Warung Bejana. Atau mungkin Anda ingin mencicipi selera makanan laut such as DUGONG di Suarga Padang Padang, Sangkar Restaurant, atau Coco & Poke.\nMencari hal yang dapat dilakukan di Uluwatu? Sunset Point Uluwatu (1,6 km) adalah sebuah tempat menarik populer yang dapat dicapai dengan berjalan kaki dari Bulgari Hotels & Resorts Bali Hotel.\nKami yakin Anda akan menikmati menginap di Bulgari Resort Bali sambil menikmati apa yang Uluwatu tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1380108-d601550-Reviews-Bulgari_Resort_Bali-Pecatu_Bukit_Peninsula_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1380108-d601550-Bulgari_Resort_Bali-Pecatu_Bukit_Peninsula_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Pecatu",
+                                   "abbrv": null,
+                                   "location_id": "1380108"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Bukit Peninsula",
+                                   "abbrv": null,
+                                   "location_id": "24119709"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Pecatu",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "03618471000",
+                     "website": "https://www.marriott.com/hotels/travel/dpsbg-bulgari-resort-bali/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe&y_source=1_NDIyOTI5NS03NjktbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                     "email": "bali.reservations@bulgarihotels.com",
+                     "address_obj": {
+                            "street1": "Jl. Goa Lempeh, Banjar Dinas Kangin",
+                            "street2": "",
+                            "city": "Pecatu",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80364"
+                     },
+                     "address": "Jl. Goa Lempeh, Banjar Dinas Kangin, Pecatu 80364 Indonesia",
+                     "local_name": "Bulgari Resort Bali",
+                     "local_address": "Jl. Goa Lempeh, Banjar Dinas Kangin, 80364",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Adult Pool",
+                                   "name": "Kolam renang dewasa"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Beach",
+                                   "name": "Pantai Pribadi"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Additional Bathroom",
+                                   "name": "Kamar Mandi Tambahan"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Pool with View",
+                                   "name": "Kolam Renang dengan Pemandangan"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Valet Parking - Amenities",
+                                   "name": "Layanan Parkir Valet"
+                            },
+                            {
+                                   "key": "VIP Room Facilities",
+                                   "name": "Fasilitas Kamar VIP"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            }
+                     ],
+                     "owner_website": "/Commerce?p=Marriott_BA&src=219317778&geo=601550&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=259914858&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZUfpR7C6GI55oUdWnjVv4Y5tLSEqjN9HiL6qJYeKEdLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&dated=true&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=1&cs=1a4f646a0efc1f4a3dd13cc573f46e457"
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "67",
+              "auction_key": "fa9afacd49fb4e0f96600a9c8e359914",
+              "impression_key": "408733df5c374cb49e733690434ff506",
+              "pricing": "base"
+       }
+}

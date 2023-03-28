@@ -1,0 +1,284 @@
+{
+       "data": [
+              {
+                     "location_id": "1201703",
+                     "name": "Pantai Lima Villas",
+                     "latitude": "-8.649308",
+                     "longitude": "115.11892",
+                     "num_reviews": "77",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Canggu, Kuta Utara, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/8a/5e/74/villa-mary.jpg",
+                                          "height": "141"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/8a/5e/74/villa-mary.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1920",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/8a/5e/74/villa-mary.jpg",
+                                          "height": "1080"
+                                   },
+                                   "large": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/8a/5e/74/villa-mary.jpg",
+                                          "height": "576"
+                                   },
+                                   "medium": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/8a/5e/74/villa-mary.jpg",
+                                          "height": "309"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2015-03-19T01:19:29-0400",
+                            "caption": "Villa Mary",
+                            "id": "126508660",
+                            "helpful_votes": "0",
+                            "published_date": "2015-03-19T12:09:56-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1201703?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "3.6175293922424316",
+                     "ranking_geo": "Canggu",
+                     "ranking_geo_id": "311298",
+                     "ranking_position": "46",
+                     "ranking_denominator": "420",
+                     "ranking_category": "other",
+                     "ranking": "No. 46 dari 420 Penginapan khusus di Canggu",
+                     "subcategory_type": "villa",
+                     "subcategory_type_label": "Vila",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a012.864.000 - Rp\u00a022.227.000",
+                     "hac_offers": {
+                            "availability": "unavailable",
+                            "offers": [],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "1b440579-71fa-4458-85f6-93ae34514f4c",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g311298-d1201703-Reviews-Pantai_Lima_Villas-Canggu_North_Kuta_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g311298-d1201703-Pantai_Lima_Villas-Canggu_North_Kuta_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Canggu",
+                                   "abbrv": null,
+                                   "location_id": "311298"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kuta Utara",
+                                   "abbrv": null,
+                                   "location_id": "12622795"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "other",
+                                   "name": "Penginapan Khusus"
+                            }
+                     ],
+                     "parent_display_name": "Canggu",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 447 785390597",
+                     "website": "http://www.pantailima.com/",
+                     "email": "info@pantailima.com",
+                     "address_obj": {
+                            "street1": "Jl. Babadan, Pererenan",
+                            "street2": "",
+                            "city": "Canggu",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Babadan, Pererenan, Canggu 80361 Indonesia",
+                     "local_name": "Pantai Lima Villas",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "kitchenette",
+                                   "name": "Dapur kecil"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isPersistableOncePerGeo": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "1",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "1075c4de67114b019fb1717911783a24",
+              "impression_key": "9bf1d30d771f4ab08ab687448e9dbbac",
+              "pricing": "base"
+       }
+}

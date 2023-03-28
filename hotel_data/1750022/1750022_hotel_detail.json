@@ -1,0 +1,845 @@
+{
+       "data": [
+              {
+                     "location_id": "1750022",
+                     "name": "Chapung SeBali Resort and Spa",
+                     "latitude": "-8.479606",
+                     "longitude": "115.26011",
+                     "num_reviews": "909",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Ubud, Gianyar Regency, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/87/af/88/chapung-sebali-resort.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/87/af/88/chapung-sebali-resort.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "3200",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/87/af/88/chapung-sebali-resort.jpg",
+                                          "height": "2133"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/87/af/88/chapung-sebali-resort.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/87/af/88/chapung-sebali-resort.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2019-02-19T23:04:08-0500",
+                            "caption": "",
+                            "id": "377991048",
+                            "helpful_votes": "2",
+                            "published_date": "2019-02-19T23:04:08-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1750022?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.822576522827148",
+                     "ranking_geo": "Ubud",
+                     "ranking_geo_id": "297701",
+                     "ranking_position": "28",
+                     "ranking_denominator": "437",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 28 dari 437 hotel di Ubud",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a03.409.000 - Rp\u00a05.864.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "33225477",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33225477&geo=1750022&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259913823&managed=false&capped=false&gosox=h-5Ym5fn4ilAT3jE6Lup5qhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateDKinXB0RSUECxDCGFB2hcgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTo7RCWWueBrsbO2cWCPYFrHT1-CtRajtH7WHMlIXacBF13_5fFQUjls-y1WbuGhVx06PQC8nNjTtv3RPXskTTlnAzZMHl5qHvBmsdujcvm510c9z1WdPLLEDEvllk502mQjN1FU_r7VT01npIpfyQfw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1e23d36bb5402492e3d40a7427e5b7ae5&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=d1bf8740c52b41ea83c5cc0cb31cd173&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d1bf8740c52b41ea83c5cc0cb31cd173"
+                                   },
+                                   {
+                                          "content_id": "34601882",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34601882&geo=1750022&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259913823&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULXvCt8Edc7C0iIna_oXJpmeMizOYep82GEWvB-G9Drp71X9GW9K-M6HKJsA2Rz8ZH8tu35T7USqW0n7bXao7OO1ayBAv6osp6U1VOouia-ihlI4wgPZXApxgTDRRaaMIwxMFAx8W9K3-ZLYmQ1_uw_rDsXtsL9em0kDdEcKXaC4sXKuT116fYx-K5FOPR9Xotw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1c565ed34abd5b35b783e5ba6d322886c&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=f3cab2319e0841f8b4b24b8acd560a9b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f3cab2319e0841f8b4b24b8acd560a9b"
+                                   },
+                                   {
+                                          "content_id": "79205344",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79205344&geo=1750022&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=259913823&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01nzCif6CSfe0jwPMV_7194FayBAv6osp6U1VOouia-ih-LZRIlHqu84T35Jbn7yQgizeE7IGwamEab7cvtJZ9J87c4_ZcEbhjje61ie47Gq45BlJ8HZp3r4XB-dXDu4WpQ&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=132fed0a8e09e5c8fe61581fc3962961c&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=9d1788e89a8a423c9517b8d851f3f28f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "9d1788e89a8a423c9517b8d851f3f28f"
+                                   },
+                                   {
+                                          "content_id": "32463153",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=32463153&geo=1750022&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259913823&managed=false&capped=false&gosox=ChqPEGsW4coXhiZaAFY8ngmxtm98ZF_DRL63vOofqh7ASlUyTh9OJzhg7snnHaz6PIV6qEvB_1QjZhKNgGNtxMcfyl8G9EqMvLL1LyrpkmD08D54xlS-Yh7BP3VShL8fiMShykcf-t_lImP_P3J01muA-eBEYiLqXZU71p7ZPeWWRpTcKYyt-Ikyc-3wXWRsnfNZCOEkdkH9M7KkrHcWJ8FtZfUN9_xEgXGhyok4ejt_2k2pApim7PwufCJRCj-fIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=128e39b0b3c22a64f2e8ba016b8abaae0&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=01adcc12feb94cb1a1cbf4afacd5a90d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "01adcc12feb94cb1a1cbf4afacd5a90d"
+                                   },
+                                   {
+                                          "content_id": "60387890",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60387890&geo=1750022&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259913823&managed=true&capped=false&gosox=J_PaunglF1QXQbGgkW-sHh8dfCntpDudEDSOoyR8ns_id0Mi_SX-Q7oMbQdtEnnj1X9GW9K-M6HKJsA2Rz8ZH4THvxTkQYsHFpepN2Mos9mLEqUGn2IQL6pb0TONxwGenfNZCOEkdkH9M7KkrHcWJ8FtZfUN9_xEgXGhyok4ejt_2k2pApim7PwufCJRCj-fIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=14ad00c721c96db797b3fe32306665cb0&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=c104c7a069294999967b9309b70d9e38&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c104c7a069294999967b9309b70d9e38"
+                                   },
+                                   {
+                                          "content_id": "32669527",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32669527&geo=1750022&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=259913823&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzV2lkrD6nr1skTVjW6oLqZZayBAv6osp6U1VOouia-ihADEvsOf8LPpQOTx62GniQBMFAx8W9K3-ZLYmQ1_uw_rDsXtsL9em0kDdEcKXaC4sXKuT116fYx-K5FOPR9Xotw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=15db1a6a143a9730dfefc5685767273d2&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=c0a321ff004e43349a2e4693c25d19ea&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c0a321ff004e43349a2e4693c25d19ea"
+                                   },
+                                   {
+                                          "content_id": "119940251",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119940251&geo=1750022&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=42117&bucket=958557&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=259913823&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GuFEw1Vj2ZiBQdeDT9nBfItFW56ZaNfqyCZ36Q8HTA-tc3tFdouEqKFo5ZEjtKUvDAfZhWsMGdaEt7mypaRt33efUIxN2usJg_syFnmoDYA5UWtFQpbltssZIt8nj1X9nVl-eqV3m5pCz0EGEKNjrFo&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=76d87a60-5a6b-4bb5-a9e7-a02e143fd61a&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1440f678967d8635c6b198378afd7f26a&area=QC_META_API&ik=c4df4652ccdb4cb8aa4cd0202933dfd3&dated=true&aok=0acd53db978643ff97cf2a0cee42cba1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0acd53db978643ff97cf2a0cee42cba1"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "b79d94c7-745c-4dca-82fe-e0dde66b8c1a",
+                     "description": "Chapung SeBali Resort and Spa merupakan pilihan tepat saat mengunjungi Ubud. Kombinasi ideal antara harga, kenyamanan, dan kepraktisan, tempat ini menawarkan suasana yang romantis dengan fasilitas yang di desain untuk wisatawan seperti Anda.\nAnda akan menikmati kenyamanan kamar yang menawarkan tv layar datar, minibar, dan dapur kecil, dan anda dapat tetap menggunakan internet pada saat menginap karena Chapung Sebali Hotel menawarkan wi-fi gratis.\nHotel menawarkan layanan kamar dan layanan concierge. Dan, Chapung SeBali Resort and Spa juga menyediakan kolam renang dan sarapan, untuk memulihkan diri dari hari yang sibuk. Untuk tamu yang mengemudi, parkir gratis tersedia.\nSelama menginap di Chapung SeBali Resort and Spa, tamu dapat mengunjungi Pura Saraswati (2,0 km) dan Subak Juwuk Manis (Ubud Rice Field) (2,6 km), beberapa tempat terkenal di Ubud.\nSelama berada di sini, jangan lupa untuk mencicipi makanan italia, seperti Three Monkeys, Uma Cucina, dan Umah Pizza, semuanya berdekatan dengan Chapung Sebali Hotel.\nSelama berkunjung, jangan lupa untuk melihat air terjun terpopuler seperti Air Terjun Tegenungan, karena jaraknya berdekatan dengan hotel.\nAnda pasti akan menikmati menginap di Chapung SeBali Resort and Spa sambil menikmati semua yang Ubud dapat tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297701-d1750022-Reviews-Chapung_Sebali-Ubud_Gianyar_Regency_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297701-d1750022-Chapung_Sebali-Ubud_Gianyar_Regency_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Ubud",
+                                   "abbrv": null,
+                                   "location_id": "297701"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Gianyar Regency",
+                                   "abbrv": null,
+                                   "location_id": "15795170"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Ubud",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 8989102",
+                     "website": "http://www.chapung.com",
+                     "email": "gm@chapung.com",
+                     "address_obj": {
+                            "street1": "Jl. Raya Sebali",
+                            "street2": "Keliki",
+                            "city": "Ubud",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80561"
+                     },
+                     "address": "Jl. Raya Sebali Keliki, Ubud 80561 Indonesia",
+                     "local_name": "Chapung SeBali Resort and Spa",
+                     "local_address": "Jl. Raya Sebali, Keliki, 80561",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Hiking - Amenities",
+                                   "name": "Lintas Alam"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Pool with View",
+                                   "name": "Kolam Renang dengan Pemandangan"
+                            },
+                            {
+                                   "key": "Salon",
+                                   "name": "Salon"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Babysitting",
+                                   "name": "Penitipan anak"
+                            },
+                            {
+                                   "key": "Additional Bathroom",
+                                   "name": "Kamar Mandi Tambahan"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Bicycle Tours",
+                                   "name": "Tur Sepeda"
+                            },
+                            {
+                                   "key": "Bicycles Available",
+                                   "name": "Tersedia Sepeda"
+                            },
+                            {
+                                   "key": "Billiards",
+                                   "name": "Biliar"
+                            },
+                            {
+                                   "key": "Board Games / Puzzles",
+                                   "name": "Permainan Papan/Puzzle"
+                            },
+                            {
+                                   "key": "Body Wrap",
+                                   "name": "Body Wrap"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Canoeing Off-site",
+                                   "name": "Bermain Kano di Luar Lokasi"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Children's Television Networks",
+                                   "name": "Jaringan Televisi Anak-Anak"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Danish - Amenities",
+                                   "name": "Bahasa Denmark"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Dining Area",
+                                   "name": "Area Makan"
+                            },
+                            {
+                                   "key": "Electric Kettle",
+                                   "name": "Cerek Listrik"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Extra Long Beds",
+                                   "name": "Tempat Tidur Panjang Tambahan"
+                            },
+                            {
+                                   "key": "Fitness / Spa Locker Rooms",
+                                   "name": "Ruang Loker Kebugaran/Spa"
+                            },
+                            {
+                                   "key": "Foot Bath",
+                                   "name": "Kolam Rendam Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "French - Amenities",
+                                   "name": "Bahasa Prancis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "German - Amenities",
+                                   "name": "Bahasa Jerman"
+                            },
+                            {
+                                   "key": "Greek - Amenities",
+                                   "name": "Bahasa Yunani"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Hammam",
+                                   "name": "Pemandian Khas Turki"
+                            },
+                            {
+                                   "key": "Hand Massage",
+                                   "name": "Pijat Tangan"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Highchairs Available - Amenities",
+                                   "name": "Tersedia Kursi Bayi"
+                            },
+                            {
+                                   "key": "Horseback Riding - Amenities",
+                                   "name": "Menunggang Kuda"
+                            },
+                            {
+                                   "key": "Hot Spring Bath",
+                                   "name": "Pemandian Air Panas"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Interconnected rooms available",
+                                   "name": "Tersedia kamar terhubung"
+                            },
+                            {
+                                   "key": "iPod Docking Station",
+                                   "name": "Stasiun Dock iPod"
+                            },
+                            {
+                                   "key": "Iron",
+                                   "name": "Setrika"
+                            },
+                            {
+                                   "key": "Kids' Meals",
+                                   "name": "Makanan Anak-Anak"
+                            },
+                            {
+                                   "key": "Laptop Safe",
+                                   "name": "Brankas Laptop"
+                            },
+                            {
+                                   "key": "Makeup Services",
+                                   "name": "Layanan Rias"
+                            },
+                            {
+                                   "key": "Manicure",
+                                   "name": "Manikur"
+                            },
+                            {
+                                   "key": "Mosquito Net",
+                                   "name": "Tirai Antinyamuk"
+                            },
+                            {
+                                   "key": "Mountain View - Amenities",
+                                   "name": "Pemandangan Gunung"
+                            },
+                            {
+                                   "key": "Neck Massage",
+                                   "name": "Pijat Leher"
+                            },
+                            {
+                                   "key": "Newspaper",
+                                   "name": "Koran"
+                            },
+                            {
+                                   "key": "On-Demand Movies",
+                                   "name": "Film Sesuai Permintaan"
+                            },
+                            {
+                                   "key": "Open-air Bath",
+                                   "name": "Pemandian Terbuka"
+                            },
+                            {
+                                   "key": "Outdoor Dining Area",
+                                   "name": "Area Makan Luar Ruangan"
+                            },
+                            {
+                                   "key": "Outdoor Furniture",
+                                   "name": "Furnitur Luar Ruangan"
+                            },
+                            {
+                                   "key": "Pedicure",
+                                   "name": "Pedikur"
+                            },
+                            {
+                                   "key": "Personal Trainer",
+                                   "name": "Pelatih Pribadi"
+                            },
+                            {
+                                   "key": "Picnic Area",
+                                   "name": "Area Piknik"
+                            },
+                            {
+                                   "key": "Plunge Pool",
+                                   "name": "Kolam Berendam"
+                            },
+                            {
+                                   "key": "Pool View",
+                                   "name": "Pemandangan Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Radio",
+                                   "name": "Radio"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Separate Living Room",
+                                   "name": "Ruang Keluarga Terpisah"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            },
+                            {
+                                   "key": "Steam Room",
+                                   "name": "Ruang Sauna"
+                            },
+                            {
+                                   "key": "Sun Deck",
+                                   "name": "Beranda Terbuka"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Tile / Marble Floor",
+                                   "name": "Lantai Ubin/Marmer"
+                            },
+                            {
+                                   "key": "Valet Parking - Amenities",
+                                   "name": "Layanan Parkir Valet"
+                            },
+                            {
+                                   "key": "VIP Room Facilities",
+                                   "name": "Fasilitas Kamar VIP"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            },
+                            {
+                                   "key": "Walk-in Shower",
+                                   "name": "Shower Berdiri"
+                            },
+                            {
+                                   "key": "Walking Tours - Amenities",
+                                   "name": "Tur Jalan Kaki"
+                            },
+                            {
+                                   "key": "Wardrobe / Closet",
+                                   "name": "Lemari Pakaian/Lemari"
+                            },
+                            {
+                                   "key": "Waxing Services",
+                                   "name": "Layanan Waxing"
+                            },
+                            {
+                                   "key": "Wine / Champagne",
+                                   "name": "Minuman Anggur/Sampanye"
+                            },
+                            {
+                                   "key": "Yoga Classes - Amenities",
+                                   "name": "Kelas Yoga"
+                            },
+                            {
+                                   "key": "Yoga Room",
+                                   "name": "Ruang Yoga"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isPersistableOncePerGeo": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "57",
+              "auction_key": "79c50d208c1648dd936d5a010f72d19c",
+              "impression_key": "c4df4652ccdb4cb8aa4cd0202933dfd3",
+              "pricing": "base"
+       }
+}

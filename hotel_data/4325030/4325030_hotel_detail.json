@@ -1,0 +1,500 @@
+{
+       "data": [
+              {
+                     "location_id": "4325030",
+                     "name": "The Royal Surakarta Heritage - MGallery Collection",
+                     "latitude": "-7.571802",
+                     "longitude": "110.828674",
+                     "num_reviews": "969",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Solo, Jawa Tengah, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/05/4f/ec/exterior-view.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/05/4f/ec/exterior-view.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/05/4f/ec/exterior-view.jpg",
+                                          "height": "768"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/05/4f/ec/exterior-view.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/05/4f/ec/exterior-view.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2021-05-24T01:26:35-0400",
+                            "caption": "Exterior view",
+                            "id": "486887404",
+                            "helpful_votes": "0",
+                            "published_date": "2021-05-24T01:26:35-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/4325030?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.633371353149414",
+                     "ranking_geo": "Solo",
+                     "ranking_geo_id": "297713",
+                     "ranking_position": "10",
+                     "ranking_denominator": "153",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 10 dari 153 hotel di Solo",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0485.000 - Rp\u00a0621.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "50745736",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0450.000",
+                                          "display_price_int": "450000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=50745736&geo=4325030&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=5091&bucket=907352&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914705&managed=false&capped=false&gosox=d3-3SATp78DFiH2OIO0bGKhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOcCMteBo7tRYPhNA7NPX6vAIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTuz7UHl_ba2LDKt3gUZ4pSMW_T47gf2qagZcN5m_M_4HEzYqc37f5AU4NDCIEnd-qAkGkcFbqW4KtiZ4bCjOPwAow78QleGIUfPFuaIWyYUNnIRwM5E2sEqsrrkQFi8Lj_vGu-4jXrIjdQ9-vARj9r8&priceShown=450000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=297&rate=450000.00&fees=94500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_5edb25fda1a48aa22c93fd93186a3715&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1a524d8f2a2959c581ef702b8424918f9&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=1603bf5e1e164c6384747b05b0e67f91&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1603bf5e1e164c6384747b05b0e67f91"
+                                   },
+                                   {
+                                          "content_id": "51416008",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0450.000",
+                                          "display_price_int": "450000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=51416008&geo=4325030&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914705&managed=false&capped=false&gosox=4Wos5qKsn1xpMALJJhCwANI2gWmdiZ8Titqn9qycCA14jT7m_52qwh5A_rr2iO7Wmodv-eVjcGk1-lx-JFKcBEgaT_qNZjt_IN96resPesayFfzvV1R9itu7wzlaaedxc_6nlvEOi_njsoYZVPmJy5XAe6XPyxQlFt6EK9RaZfsYdomMHLtCHLFckk4jm2-6dZGSbjkolhIZZQb_Ff-szBFW5Zf76glcdnjKR0fNP5F9ZsLNepdTzejrH2JLymou4X7gjj_lfZAUYHfli6SCgg&priceShown=450000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=297&rate=450000.00&fees=94500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_74b02fd52acc7aa69048581bae7b298f&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1578d30df0ef2c612e7e54cb51b1a05e7&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=969d378a87794ab7a56f4f9c59729133&tp=HR_MainCommerce",
+                                          "auction_offer_key": "969d378a87794ab7a56f4f9c59729133"
+                                   },
+                                   {
+                                          "content_id": "174660549",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0405.000",
+                                          "display_price_int": "405000",
+                                          "strikethrough_price": "Rp\u00a0450.000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174660549&geo=4325030&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=259914705&managed=false&capped=false&gosox=p9NEpElxCEWyonM4pLGfqnsr-Pon_YJVdWfnGgGPP0pt1KUEu3xXx-Qvmw8HGroJzgKYnSXeibXd8oFdfQEN6P--MtYHHZ0le3C375msGo4EFOds-1kaWgMWVrXgYfXRYWDGRLiUFU-gONCmXXp79E6DYJOu88Z1xPwnINETZwrRXlzw-nqlJqtc9OhjWJNEvQViyTj118jIjgP1EFWM2AkGkcFbqW4KtiZ4bCjOPwAow78QleGIUfPFuaIWyYUNnIRwM5E2sEqsrrkQFi8Lj_vGu-4jXrIjdQ9-vARj9r8&priceShown=405000&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=405000.00&fees=85051.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_6292efa4f75102b8abb038f180cf31ef&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=15adbc72bf507366dc3034495fdb8e111&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=05e9ec6bb3744b3881de132824b1e2e7&tp=HR_MainCommerce",
+                                          "auction_offer_key": "05e9ec6bb3744b3881de132824b1e2e7"
+                                   },
+                                   {
+                                          "content_id": "52357607",
+                                          "provider_display_name": "MGallery",
+                                          "internal_provider_name": "Accor",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/MGA-384x164.png",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0450.000",
+                                          "display_price_int": "450000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Accor&src=52357607&geo=4325030&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=15994&bucket=903828&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914705&managed=false&capped=false&gosox=EjrQs6wbqCFrcBrbCNPplVQZcJblyHQJWTEgsqU8wIz3U1jzdcCNpJ032fC81RWOKxAkj9z_ClrAQ5goJ_IAkgzXClZ_Cc9JEENWMzoawf9a-Bk-3KKM6vfl7CQmZYSx6vMd-pC3rWXDnfoMSmdZKGnWedeWLrdqlkeDjthlTOK5pqohoHzJe7fsJwIBAtnG3HK1nIDsmqwixk8vVt0yst6Zu7eb2KkbktCNNEK0kf3hdOXbtDc8ThfLastc7QANpikYxWdhUxh6am4fx4Y1fQ&priceShown=450000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=297&rate=450000.00&fees=94500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=141844a9603d300691088066516877b40&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=58ca909dda39494799ff3d186c26ca62&tp=HR_MainCommerce",
+                                          "auction_offer_key": "58ca909dda39494799ff3d186c26ca62"
+                                   },
+                                   {
+                                          "content_id": "32662962",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0450.000",
+                                          "display_price_int": "450000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32662962&geo=4325030&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=259914705&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p4N0gG5bNPtxBH315ID6LQuRw2BLJHS-An31yUPYywl6FBJFMFrPZkzGCuE4wh7fuiLyvh5iRg-nAwjUJtVkQN4fUqoZVYW-zI92hB9kUNtUgefObnVqwsPoq6r5OxT9JDufw7P6cmabkvmxgcuAVpcmnS_GxxH7Zuxm_opw-qnYdyPDdZHAvrnQzkGjDlpEawJBcVVfPLd8blJEgnDqY2bPmypdgKAyjsX1gYHytkrWr8rK9BpfBwXNdyOW3kSccKMWqeqmiFjJ0rimoiU1Org&priceShown=450000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=297&rate=450000.00&fees=94500.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1d2aced54dbb22330cf8a144b45891599&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=a07906d8386a427c87805bc6047ed2c1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a07906d8386a427c87805bc6047ed2c1"
+                                   },
+                                   {
+                                          "content_id": "45358722",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=45358722&geo=4325030&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259914705&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12qvOb0bkKxtW1VaK6TssZl01X9GW9K-M6HKJsA2Rz8ZH0CYg2nouS_q6U-htStzCUm_Sx2Kd-S_y4qw4Y1Lpc3ro4nihg6aA-pghrVGuitpqXdzLS7ondsrPOkVujrp-SgvVYNlIx2CNP3WrGUcjxT669pxrDzKkWGRXSUYmixCyg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1ff426e2f0b6c7cb07e6fdbf293ec1ba1&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=b3369595dd91454ebd7ed19d3d862c68&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b3369595dd91454ebd7ed19d3d862c68"
+                                   },
+                                   {
+                                          "content_id": "79206473",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79206473&geo=4325030&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=18569&bucket=934050&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=259914705&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01kCZTglBHH-fVCNh80pswLdmaSN_DF0yHEsIczPMAUu4dWvrMNhXAUFSb72NsyTQlEz1-0rx33iFldJgJcc4R7EV6JXHqWp3871kF7vtj3DXIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=180291dec2395df6a9d2dd765edb4053f&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=84d6f223445d4ed0b67c1611bf60c47c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "84d6f223445d4ed0b67c1611bf60c47c"
+                                   },
+                                   {
+                                          "content_id": "218387851",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218387851&geo=4325030&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=44859&bucket=973414&nrank=6&crank=9&clt=M&ttype=MobileCR&tm=259914705&managed=false&capped=false&gosox=BugLHr0N8JmZCpolKFaqqQTeWYudSVr2iE8LBkkaVLJhwphiV__a45WxBOgBCOs9ZKyprFLOpnpdZD2rRc5ux5Xkk-cb5sUG6meIGofSndnv9UnSN4hV_PzTxkVZEEjleXenc8w0ajZXMmKxlmu2KzM9d7Q8cyN3hXzEVsQEPcrqK8fvdzwMbDoymLu3Q068oyl8hcuF7H72bwqTt1pusEz1-0rx33iFldJgJcc4R7EV6JXHqWp3871kF7vtj3DXIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=11520928b6be45652761dedc8be6563ac&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=259625e7deab4106a7d0b5680fd03f94&tp=HR_MainCommerce",
+                                          "auction_offer_key": "259625e7deab4106a7d0b5680fd03f94"
+                                   },
+                                   {
+                                          "content_id": "119929284",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119929284&geo=4325030&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958557&nrank=6&crank=8&clt=M&ttype=MobileCR&tm=259914705&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GvJ-haV5DmHLJzbF067Yudo2mX1HYO_rIcJn6n79MaCGGT4yQfb37YApXTvnUi_xBBmpHftFRTKxGY0ITBLW_VwhhuzRv0k-PEA39D8BfePa0FHFVukEDbq7dxOKmlROyt5D8j89LOjNuwvIgHZRH4Q&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=7c8b3b38-cc1e-4803-8f26-b34076c6df07&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1d45d3284b401f2936e0c968dc613158d&area=QC_META_API&ik=5c9bb2e11c3246739e223b2fed68dfb2&dated=true&aok=7b2bad2bf2ec4e8ca96b75c5138ba80a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7b2bad2bf2ec4e8ca96b75c5138ba80a"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Accor Hotels.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "0c7ff0a3-184d-453b-8633-0dac606325ae",
+                     "description": "Mencari tempat menginap di Solo? Coba lihat The Royal Surakarta Heritage Solo - MGallery Collection, hotel romantis yang menyuguhkan daya tarik terbaik Solo ke kamar Anda.\nAnda akan menikmati kenyamanan kamar yang menawarkan tv layar datar, minibar, dan penyejuk udara, dan anda dapat tetap menggunakan internet pada saat menginap karena The Royal Surakarta Heritage Solo - MGallery Collection menawarkan wi-fi gratis.\nHotel menawarkan layanan concierge dan layanan kamar. Dan, The Royal Surakarta Heritage Solo - MGallery Collection juga menyediakan kolam renang dan bar tepi kolam renang, untuk memulihkan diri dari hari yang sibuk. Untuk tamu yang mengemudi, parkir gratis tersedia.\nTempat terkenal terdekat seperti Gereja Katholik St. Antonius Purbayan (0,3 km) dan Masjid Al-Wustho Mangkunagaran (1,0 km) membuat The Royal Surakarta Heritage Solo - MGallery Collection tempat terbaik untuk menginap ketika mengunjunngi Solo.\nJika Anda merasa lapar, jangan lupa untuk mampir ke Manir's family kitchen, restoran india yang populer dengan warga sekitar dan pengunjung dari luar kota.\nJika tertarik menelusuri Solo, jangan lupa untuk melihat taman, seperti Alun-Alun Kidul.\nKami yakin Anda akan menikmati menginap di The Royal Surakarta Heritage Solo - MGallery Collection sambil menikmati apa yang Solo tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297713-d4325030-Reviews-The_Royal_Surakarta_Heritage_MGallery_Collection-Solo_Central_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297713-d4325030-The_Royal_Surakarta_Heritage_MGallery_Collection-Solo_Central_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Solo",
+                                   "abbrv": null,
+                                   "location_id": "297713"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Tengah",
+                                   "abbrv": null,
+                                   "location_id": "2301793"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Solo",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 271 666111",
+                     "website": "http://www.accorhotels.com/gb/hotel-9239-the-royal-surakarta-heritage-solo-mgallery-by-sofitel/index.shtml",
+                     "email": "reservation@theroyalsurakartaheritagesolo.com",
+                     "address_obj": {
+                            "street1": "Jl. Slamet Riyadi no. 6",
+                            "street2": "",
+                            "city": "Solo",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "57111"
+                     },
+                     "address": "Jl. Slamet Riyadi no. 6, Solo 57111 Indonesia",
+                     "local_name": "The Royal Surakarta Heritage - MGallery Collection",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Malay",
+                                   "name": "Bahasa Melayu"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Sauna",
+                                   "name": "Sauna"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "67",
+              "auction_key": "3e348fe1d43e415fbe772a922af30833",
+              "impression_key": "5c9bb2e11c3246739e223b2fed68dfb2",
+              "pricing": "base"
+       }
+}

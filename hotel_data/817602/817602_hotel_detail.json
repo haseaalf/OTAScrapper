@@ -1,0 +1,413 @@
+{
+       "data": [
+              {
+                     "location_id": "817602",
+                     "name": "Le Jardin Boutique Villas, Seminyak",
+                     "latitude": "-8.691416",
+                     "longitude": "115.16064",
+                     "num_reviews": "753",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Seminyak, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/47/6f/34/two-bedrooms-villa.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/47/6f/34/two-bedrooms-villa.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "800",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/47/6f/34/two-bedrooms-villa.jpg",
+                                          "height": "533"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/47/6f/34/two-bedrooms-villa.jpg",
+                                          "height": "366"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/47/6f/34/two-bedrooms-villa.jpg",
+                                          "height": "166"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2013-07-30T01:20:43-0400",
+                            "caption": "Two Bedrooms villa",
+                            "id": "71790388",
+                            "helpful_votes": "0",
+                            "published_date": "2013-07-30T01:20:41-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/817602?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.519656658172607",
+                     "ranking_geo": "Seminyak",
+                     "ranking_geo_id": "469404",
+                     "ranking_position": "29",
+                     "ranking_denominator": "156",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 29 dari 156 hotel di Seminyak",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$",
+                     "price": "Rp\u00a02.470.000 - Rp\u00a03.788.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "34553053",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34553053&geo=817602&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259915061&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12o9ztEBYHcCqRvRneCnGB8C1X9GW9K-M6HKJsA2Rz8ZH7LNH6V3oH5qh_VVe4EKCgsepkq1g7-fqkgvLD20rMyHKNZpg5b7x2DcCITzVyKKz_OmA4gcrk5MalpJzGxq0y66AjkhkQLk1CgINel6xAdv0K_rMpG5C70uKT-qzxZbnA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1878b930-ed24-47a2-bb10-8fbb41fb2fa1&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1163b0feff22ca7ba02dcbe728df99067&area=QC_META_API&ik=d0cfd961e3f44fa2b5cd7248d8104553&dated=true&aok=a3f3f9e24a574d86966c5e379e654835&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a3f3f9e24a574d86966c5e379e654835"
+                                   },
+                                   {
+                                          "content_id": "79224818",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79224818&geo=817602&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=18569&bucket=962380&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=259915061&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01ukJGrkg1W0OgdxS3P_lOhUpJe3vVekiXbxuBAsU8rNqGIOMstWvp0aTIbzQTs4pBXHyEAyJFZ1LXXCQ4xfYairsCTYOAUs6xw_-RyNvRqWzIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1878b930-ed24-47a2-bb10-8fbb41fb2fa1&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1f3b3338c11b4c617d6cd233fb7d0a05b&area=QC_META_API&ik=d0cfd961e3f44fa2b5cd7248d8104553&dated=true&aok=8bab20e0c7fe449c8c2a0e62e34d8b88&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8bab20e0c7fe449c8c2a0e62e34d8b88"
+                                   },
+                                   {
+                                          "content_id": "32439539",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=32439539&geo=817602&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259915061&managed=false&capped=false&gosox=01RWEaRV2G-FlT5xjAmocNI2gWmdiZ8Titqn9qycCA2VtlV7TyRkFL5u_V94VpF0j162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn9jecyuLZefwuJxbUQBV123Npl9R2Dv6yHCZ-p-_TGghqXmm31-z202HujnwwBaagWG2808hwekx-zzrUmGFq6h9fvogJtQH1a1C7D8y6zAzxEHr1BDVNSQgE-RPxfQgcmaodhGby4kOOdOhFbUl-ZA&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1878b930-ed24-47a2-bb10-8fbb41fb2fa1&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=135b85891f674b2d00af7d2f018ce1c83&area=QC_META_API&ik=d0cfd961e3f44fa2b5cd7248d8104553&dated=true&aok=d2842a586529498880fec64ffbf5204d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d2842a586529498880fec64ffbf5204d"
+                                   },
+                                   {
+                                          "content_id": "35832888",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=35832888&geo=817602&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259915061&managed=false&capped=false&gosox=-Tdx2efOwvF2ENHT5HQoXqhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewate12_mCInQQcEWlH2pIMfKrQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTiBWh6GPmUk393ETW0Mkhxdmwr4DvAGo7_LjNIILm1QSWauESIz_zZMyt7-pPeqntR6aBOahhNWx0wg9OiiPzvqmDOmYgzW8K1xT3_JwwJ-WWNJPf-CUg5vhd4h9nooL0YshWw5qXc_aLt5PghRcK4o&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1878b930-ed24-47a2-bb10-8fbb41fb2fa1&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1e86948803b364035c6da0e095af53583&area=QC_META_API&ik=d0cfd961e3f44fa2b5cd7248d8104553&dated=true&aok=beab8ac0e72543b8954bfa682cd31892&tp=HR_MainCommerce",
+                                          "auction_offer_key": "beab8ac0e72543b8954bfa682cd31892"
+                                   },
+                                   {
+                                          "content_id": "60341898",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60341898&geo=817602&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259915061&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdzxv1-_ZnZYY8swQ5wKnGbW1X9GW9K-M6HKJsA2Rz8ZH4Uxa19xCepR7WicpVq-EctoI62BVR3-tLVo1_klXcXVtqjA92dfKPcSd7wln_8EEx3qW0BPKqSwc0SDmtf0DN0wprWS-dZk8tqh-qFUlO_g&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1878b930-ed24-47a2-bb10-8fbb41fb2fa1&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=13a5283cd4516195d6250370f38115995&area=QC_META_API&ik=d0cfd961e3f44fa2b5cd7248d8104553&dated=true&aok=a7ae870c5c2d47e48668dc13449fb94b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a7ae870c5c2d47e48668dc13449fb94b"
+                                   },
+                                   {
+                                          "content_id": "32693461",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32693461&geo=817602&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=259915061&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p6QwvjI_Vos5xq89X-fP03qWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzbHFK_WU2ZVwEUzOuIDnI2gd39eg1cYWub2HjJZC012jlCIY9T_FyiAm5YEbNo_suOXbPdRe0g1qHq8EXcAb4EbZ-WanIQUPNWY_p6-U2c9Q&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=1878b930-ed24-47a2-bb10-8fbb41fb2fa1&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=186c0cbaf6f2db9c424d8699ca7718b6e&area=QC_META_API&ik=d0cfd961e3f44fa2b5cd7248d8104553&dated=true&aok=bf776533fbde4adf9f4f705d9258f332&tp=HR_MainCommerce",
+                                          "auction_offer_key": "bf776533fbde4adf9f4f705d9258f332"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "f6d91f50-3872-486e-80b8-be270f85962d",
+                     "description": "Le Jardin Boutique Villas, Seminyak merupakan pilihan tepat saat mengunjungi Seminyak. Kombinasi ideal antara harga, kenyamanan, dan kepraktisan, tempat ini menawarkan suasana yang sesuai untuk keluarga dengan fasilitas yang di desain untuk wisatawan seperti Anda.\nLe Jardin Boutique Villa Hotel bersuasana hotel sesuai untuk keluarga menawarkan tv layar datar, dapur kecil, dan penyejuk udara di dalam kamarnya, dan mudah terhubung dengan internet karena wi-fi gratis tersedia untuk para tamu.\nHotel menawarkan layanan kamar dan layanan concierge. Dan, para tamu dapat menikmati kolam renang dan sarapan, yang merupakan pilihan populer para wisatawan yang berkunjung ke Seminyak. Untuk para tamu yang mengemudi, parkir gratis tersedia.\nPada saat di Seminyak jangan lupa mencicipi falafel yang menjadi menu favorit di Shelter Bali, Earth Cafe & Market Seminyak, atau Happy Falafel.\nSelalu ada banyak aktivitas yang dapat dilakukan di area ini: telusuri galeri seni populer seperti Purpa Fine Art Gallery, Nyaman Gallery, dan Nacivet Art Gallery.\nAnda pasti akan menikmati menginap di Le Jardin Boutique Villas, Seminyak sambil menikmati semua yang Seminyak dapat tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g469404-d817602-Reviews-Le_Jardin_Boutique_Villas_Seminyak-Seminyak_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g469404-d817602-Le_Jardin_Boutique_Villas_Seminyak-Seminyak_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Seminyak",
+                                   "abbrv": null,
+                                   "location_id": "469404"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Seminyak",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 730165",
+                     "website": "http://www.lejardinvillas.com",
+                     "email": "info@lejardinvillas.com",
+                     "address_obj": {
+                            "street1": "Jl. Sarinande no. 7",
+                            "street2": "",
+                            "city": "Seminyak",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Sarinande no. 7, Seminyak 80361 Indonesia",
+                     "local_name": "Le Jardin Boutique Villas, Seminyak",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "kitchenette",
+                                   "name": "Dapur kecil"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Electric Kettle",
+                                   "name": "Cerek Listrik"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "67",
+              "auction_key": "6879a1fbd42941b9b3335c768f5c8ddc",
+              "impression_key": "d0cfd961e3f44fa2b5cd7248d8104553",
+              "pricing": "base"
+       }
+}

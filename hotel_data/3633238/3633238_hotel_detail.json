@@ -1,0 +1,534 @@
+{
+       "data": [
+              {
+                     "location_id": "3633238",
+                     "name": "Mulia Villas",
+                     "latitude": "-8.816817",
+                     "longitude": "115.21902",
+                     "num_reviews": "1094",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Nusa Dua, Semenanjung Nusa Dua, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/f4/24/75/mulia-villas.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/f4/24/75/mulia-villas.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "4134",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/f4/24/75/mulia-villas.jpg",
+                                          "height": "2756"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/f4/24/75/mulia-villas.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/f4/24/75/mulia-villas.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2019-03-27T04:30:50-0400",
+                            "caption": "",
+                            "id": "385098869",
+                            "helpful_votes": "11",
+                            "published_date": "2019-03-27T04:30:50-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/3633238?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [
+                            {
+                                   "award_type": "Traveler's Choice",
+                                   "year": "2022",
+                                   "images": {
+                                          "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+                                          "large": "https://www.tripadvisor.co.id/img2/awards/TC_2014_downloadable_LL_TM.jpg"
+                                   },
+                                   "categories": [
+                                          "Hotel Terfavorit",
+                                          "Mewah"
+                                   ],
+                                   "display_name": "Travellers' Choice 2022"
+                            }
+                     ],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.93100643157959",
+                     "ranking_geo": "Nusa Dua",
+                     "ranking_geo_id": "297698",
+                     "ranking_position": "2",
+                     "ranking_denominator": "64",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 2 dari 64 hotel di Nusa Dua",
+                     "subcategory_type": "resort",
+                     "subcategory_type_label": "Resor",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a07.924.000 - Rp\u00a010.227.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "144258690",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a08.767.313",
+                                          "display_price_int": "8767313",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=144258690&geo=3633238&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914613&managed=false&capped=false&gosox=7mT-MIlSAggyMJGmtuPY1qhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eO9v8GN-73iart4SLGvozWEwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTngLdqakgGU6gJfckZXieQSEX_aKDbcr9kwWvxrFUMMkXD8Dhsz96hqTePJdqrvgzi432YfN3D-mI6o6U-li7pZx5gXBAEElxywMzf74TsfbcHluLryWJdVl3_CFqvr1xkwdi8jla3UvWrE2bQIWJXI&priceShown=8767313&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=16156&rate=8767313.00&fees=1841135.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_5d7918feba923881b913a913dd47d857&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=95698fae-a8c7-48c1-bda6-33c098b1deb8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1c491491836cb35e30736bc933f55eb4e&area=QC_META_API&ik=0b3395b917364c028dc4cefa72ff8817&dated=true&aok=025e7beb72df45c6ba9a3f60a431f76d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "025e7beb72df45c6ba9a3f60a431f76d"
+                                   },
+                                   {
+                                          "content_id": "176961522",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a06.319.479",
+                                          "display_price_int": "6319479",
+                                          "strikethrough_price": "Rp\u00a08.767.313",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=176961522&geo=3633238&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=40643&bucket=944550&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914613&managed=false&capped=false&gosox=p9NEpElxCEWyonM4pLGfqnsr-Pon_YJVdWfnGgGPP0pt1KUEu3xXx-Qvmw8HGroJ5fCcDheSOANGpws2zDAGZuch28PbAdZoxThvqUgcMgYEFOds-1kaWgMWVrXgYfXRYWDGRLiUFU-gONCmXXp79ORWE9toWPy-TvVU3n7-w-C-8XK7DyfBuvbzSKmHAzCfMKHAxDC0HWC5zLeY5bNTkwkGkcFbqW4KtiZ4bCjOPwBEhifNP1-fFmFFw2XtCCN9cwohnMrKFW7UPRetGr9RXL8MYGJ6IGl1E4CbHt5N0ZE&priceShown=6319479&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=6319479.00&fees=1327091.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_7472cc36656e82111d5639db127274af&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=95698fae-a8c7-48c1-bda6-33c098b1deb8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=10432262a5c6e130c1701bdef3f3a8b33&area=QC_META_API&ik=0b3395b917364c028dc4cefa72ff8817&dated=true&aok=70d135d13dbd44bd86c369f2193dd3d1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "70d135d13dbd44bd86c369f2193dd3d1"
+                                   },
+                                   {
+                                          "content_id": "45700852",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a07.824.000",
+                                          "display_price_int": "7824000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=45700852&geo=3633238&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259914613&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p4N0gG5bNPtxBH315ID6LQsRRpSP_lNXA5bQrTej5rxYZUjaNMQ4zTcviA3H1ZJsNxmCbBHPXIZBlgXzzHZeDvafalre8JGIl5BkuibRIxQs4t34h8fUbTe4IdxMEKe2fCFEQiQpgNvstgA2bgLTiKHqOey2Ol7Riqd1CO02h90OhgJl_OMfpcBJDWDxKYmvRpPkTwwOewNczWT0zIi00USbcVkKk9wabKtGRcPk_YorcwohnMrKFW7UPRetGr9RXL8MYGJ6IGl1E4CbHt5N0ZE&priceShown=7824000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=9930&rate=7824000.00000000000000&fees=1643000.00000000000000&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=95698fae-a8c7-48c1-bda6-33c098b1deb8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1d9ec2f5e29ab04367443092545eecb0e&area=QC_META_API&ik=0b3395b917364c028dc4cefa72ff8817&dated=true&aok=2429923ca59540e9ab13b9843c362415&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2429923ca59540e9ab13b9843c362415"
+                                   },
+                                   {
+                                          "content_id": "45970357",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=45970357&geo=3633238&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914613&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12r5zy3Dxy8TGsFfJrV39har1X9GW9K-M6HKJsA2Rz8ZH6gYiwsmIzF7NVCwr11zq6y3_ebAGjTzCcOn6VyRZQQ4g3a-ghBQp698jf9dLCMIbd0hDnWqU1J8SjCb4ML5-MEfMxoar-KkPgL4urbXE-wm51wzKyu39He9nx5yHyeKrg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=95698fae-a8c7-48c1-bda6-33c098b1deb8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1e835dc1cbb0f7abd1f31ed6bdbe4c30d&area=QC_META_API&ik=0b3395b917364c028dc4cefa72ff8817&dated=true&aok=afaf61c4e9b84029814dc1e3865f463f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "afaf61c4e9b84029814dc1e3865f463f"
+                                   },
+                                   {
+                                          "content_id": "64226015",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=64226015&geo=3633238&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=18569&bucket=962380&nrank=4&crank=5&clt=M&ttype=MobileCR&tm=259914613&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01obnhC7v6bxOgQbAjXOAvCBxm91MqMhcn9MZnSRbZtnjUNHmbqWbuaoUNPlsRiIWHXL0eBNQJshXWhpZAM5_wD-jK2eFyzfcWF1fS_D_o8WFIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=95698fae-a8c7-48c1-bda6-33c098b1deb8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1f959d9c8f16069dda7f364014d071281&area=QC_META_API&ik=0b3395b917364c028dc4cefa72ff8817&dated=true&aok=5e155580803d4a49a274905b86a6c342&tp=HR_MainCommerce",
+                                          "auction_offer_key": "5e155580803d4a49a274905b86a6c342"
+                                   },
+                                   {
+                                          "content_id": "230554718",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=230554718&geo=3633238&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=44859&bucket=973414&nrank=4&crank=6&clt=M&ttype=MobileCR&tm=259914613&managed=false&capped=false&gosox=BugLHr0N8JmZCpolKFaqqQTeWYudSVr2iE8LBkkaVLJhwphiV__a45WxBOgBCOs9ZKyprFLOpnpdZD2rRc5ux5Xkk-cb5sUG6meIGofSndnv9UnSN4hV_PzTxkVZEEjlhoD66-KypEgwPOfDRdPqUjdek_3TgHv8hYYiecO8YmCaEDJv0__QgG7OBoUZiY6ogd98uzWaz7ttDSJQGRNFPrYmufuKQ2ySP2lsQFWsdkdTXffBha-zQx6OIZgD7d2wdOfSRvKvi8FyXU6_ilQUiQ&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=95698fae-a8c7-48c1-bda6-33c098b1deb8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1a7dbac77b04c026fab70639056ea8028&area=QC_META_API&ik=0b3395b917364c028dc4cefa72ff8817&dated=true&aok=7bc6f9ba0a5d4fdeb0875aed1a42ae30&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7bc6f9ba0a5d4fdeb0875aed1a42ae30"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "a8eee11e-8fd3-4dd9-b555-50170fb3c34b",
+                     "description": "Jika anda mencari suasana resor sesuai untuk keluarga di Nusa Dua, coba lihat Mulia Villas.\nTaman Bhagawan (2,4 km), lokasinya berdekatan, membuat Mulia Villas tempat terbaik untuk menginap jika ingin mengunjungi tempat terkenal di Nusa Dua ini.\nKamar di Mulia Villas memiliki tv layar datar, minibar, dan penyejuk udara, dan para tamu tetap dapat menggunakan internet dengan tersedianya internet gratis.\nAnda juga dapat menikmati kolam renang dan sarapan selama menginap di Mulia Villas. Butuh tempat parkir? Parkir tersedia di Mulia Villas.\nSaat berkunjung, jangan lupa untuk mampir ke restoran populer di Nusa Dua yang menyajikan udang seperti Bubu Seafood and Chinese Restaurant, Kayuputi, dan Ulam Restaurant, semua berdekatan dengan Mulia Villas.\nOh ya, selama berkunjung, jangan lupa untuk melihat bangunan arsitektur, seperti Puja Mandala.\nPara staff di Mulia Villas tak sabar untuk melayani Anda saat Anda berkunjung kesana.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297698-d3633238-Reviews-Mulia_Villas-Nusa_Dua_Nusa_Dua_Peninsula_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297698-d3633238-Mulia_Villas-Nusa_Dua_Nusa_Dua_Peninsula_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Nusa Dua",
+                                   "abbrv": null,
+                                   "location_id": "297698"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Semenanjung Nusa Dua",
+                                   "abbrv": null,
+                                   "location_id": "1191333"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Nusa Dua",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 3027777",
+                     "website": "https://www.themulia.com/bali/mulia-villas",
+                     "email": "reservation@themulia.com",
+                     "address_obj": {
+                            "street1": "Jl. Raya Nusa Dua Selatan",
+                            "street2": "Kawasan Sawangan",
+                            "city": "Nusa Dua",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80363"
+                     },
+                     "address": "Jl. Raya Nusa Dua Selatan Kawasan Sawangan, Nusa Dua 80363 Indonesia",
+                     "local_name": "Mulia Villas",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Tennis Court",
+                                   "name": "Lapangan Tenis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Bar",
+                                   "name": "Bar Atap"
+                            },
+                            {
+                                   "key": "Swimup Bar",
+                                   "name": "Bar Kolam Renang"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Rooftop Terrace",
+                                   "name": "Teras Atap"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Kids Club",
+                                   "name": "Klub Anak-Anak"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Chinese - Amenities",
+                                   "name": "Bahasa Tiongkok"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "Fitness Classes - Amenities",
+                                   "name": "Kelas Kebugaran"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "67",
+              "auction_key": "c3ee4cf74c294bd0ada922c70fe0e079",
+              "impression_key": "0b3395b917364c028dc4cefa72ff8817",
+              "pricing": "base"
+       }
+}

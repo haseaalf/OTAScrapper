@@ -1,0 +1,487 @@
+{
+       "data": [
+              {
+                     "location_id": "1755376",
+                     "name": "Villa Teresa",
+                     "latitude": "-8.66082",
+                     "longitude": "115.13365",
+                     "num_reviews": "67",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Canggu, Kuta Utara, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/4d/cf/7d/villa-teresa.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/4d/cf/7d/villa-teresa.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "800",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/4d/cf/7d/villa-teresa.jpg",
+                                          "height": "533"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/4d/cf/7d/villa-teresa.jpg",
+                                          "height": "366"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/4d/cf/7d/villa-teresa.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2015-02-05T23:22:59-0500",
+                            "caption": "ocean view terrace",
+                            "id": "122539901",
+                            "helpful_votes": "0",
+                            "published_date": "2015-02-05T23:22:59-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1755376?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "3.5930347442626953",
+                     "ranking_geo": "Canggu",
+                     "ranking_geo_id": "311298",
+                     "ranking_position": "49",
+                     "ranking_denominator": "420",
+                     "ranking_category": "other",
+                     "ranking": "No. 49 dari 420 Penginapan khusus di Canggu",
+                     "subcategory_type": "villa",
+                     "subcategory_type_label": "Vila",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a07.697.000 - Rp\u00a011.636.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "66276398",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=66276398&geo=1755376&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=4&silo=6128&bucket=933282&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259913834&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH1xwqnJJGqUTBwH5zaQvFqp1Qs7_oS131Tu23vQIpV-4qTWkTS8FXF15P306WjQLk4vkqA-oWobREpB8NH3uVaRDMcaPTA8fmKjxvtrlS7vfv02dBI35O2HQNUhdTDJmJg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=efaa03a0-b991-40ed-91c3-565882b616d8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1230946447774dea9ceaac9ee4a9faf46&area=QC_META_API&ik=debb1476a18b4adfb65dfdf9e0f2610f&dated=true&aok=311fab9b205f4288b7c7eeecf370c23b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "311fab9b205f4288b7c7eeecf370c23b"
+                                   },
+                                   {
+                                          "content_id": "68712909",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=68712909&geo=1755376&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=4&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259913834&managed=false&capped=false&gosox=7mT-MIlSAggyMJGmtuPY1qhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOxs9tlxfCOn94503Kdh0yHwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTspnW4cKy8g7ny8QL4bNSBI58McjK14J2ZA16XBsi9HSIG4wN3QmYLQAB_zeGxCnmjNkXz5xXnbEa69EYI43JaL8FMAG8AGevJbRhqFCfQiHwj9KqRWpF2tCk8bfPUt24sMB5jRzaMdX9YEN4bs26XA&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=efaa03a0-b991-40ed-91c3-565882b616d8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=132a028cc682cf1fce7132e2ea61d8f31&area=QC_META_API&ik=debb1476a18b4adfb65dfdf9e0f2610f&dated=true&aok=11957b4a9dd14d3a9276880563a981ef&tp=HR_MainCommerce",
+                                          "auction_offer_key": "11957b4a9dd14d3a9276880563a981ef"
+                                   },
+                                   {
+                                          "content_id": "66267990",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=66267990&geo=1755376&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=4&silo=4322&bucket=932885&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259913834&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p6QwvjI_Vos5xq89X-fP03qWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzQu6MQMog3-g9_AoRmB9S-cjpFtFa9k9h5x0iyGULCVs4O1r-sce3PLK-ZYG__lqU4Cdy2nk3WYF5EaGO1mg2aJ-EgUIBtO3MZMxb14sMd4i&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=efaa03a0-b991-40ed-91c3-565882b616d8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=10c24d7b55657899d18b3d27de4147fa2&area=QC_META_API&ik=debb1476a18b4adfb65dfdf9e0f2610f&dated=true&aok=75213d9ba19445d7b65bc8815eb62862&tp=HR_MainCommerce",
+                                          "auction_offer_key": "75213d9ba19445d7b65bc8815eb62862"
+                                   },
+                                   {
+                                          "content_id": "119804561",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119804561&geo=1755376&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=4&silo=42117&bucket=958557&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259913834&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3Gmxs4lL9XRkcQ0YJFlf4SCJFW56ZaNfqyCZ36Q8HTA-t0kwqQmV2D47_MRbu7q3U_zoDL-ezlqOSHrjtdtn6xhnwMJUsgYjm1qL_TwVVh2re1hbPTc0iqt7SCjBl4FDyGRvXflp00X_nyIR2DmprLhY&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=efaa03a0-b991-40ed-91c3-565882b616d8&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1f44b537aecca0c4cedce25022671b727&area=QC_META_API&ik=debb1476a18b4adfb65dfdf9e0f2610f&dated=true&aok=1afdfaef8aa9434f8d33223b263e4118&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1afdfaef8aa9434f8d33223b263e4118"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "20814364-2af0-4c22-89c5-f9a278cb2c2f",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g311298-d1755376-Reviews-Villa_Teresa-Canggu_North_Kuta_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g311298-d1755376-Villa_Teresa-Canggu_North_Kuta_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Canggu",
+                                   "abbrv": null,
+                                   "location_id": "311298"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kuta Utara",
+                                   "abbrv": null,
+                                   "location_id": "12622795"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "other",
+                                   "name": "Penginapan Khusus"
+                            }
+                     ],
+                     "parent_display_name": "Canggu",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 812-3951-083",
+                     "address_obj": {
+                            "street1": "Jl. Nelayan",
+                            "street2": "",
+                            "city": "Canggu",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": ""
+                     },
+                     "address": "Jl. Nelayan, Canggu Indonesia",
+                     "local_name": "Villa Teresa",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "golf_course",
+                                   "name": "Lapangan golf"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Babysitting",
+                                   "name": "Penitipan anak"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "BBQ Facilities",
+                                   "name": "Fasilitas BBQ"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Canoeing - Amenities",
+                                   "name": "Bermain Kano"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Currency Exchange",
+                                   "name": "Layanan Penukaran Mata Uang"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Diving",
+                                   "name": "Menyelam"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Fishing - Amenities",
+                                   "name": "Memancing"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Hiking - Amenities",
+                                   "name": "Lintas Alam"
+                            },
+                            {
+                                   "key": "Horseback Riding - Amenities",
+                                   "name": "Menunggang Kuda"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "iPod Docking Station",
+                                   "name": "Stasiun Dock iPod"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Kitchenware",
+                                   "name": "Peralatan Dapur"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Mosquito Net",
+                                   "name": "Tirai Antinyamuk"
+                            },
+                            {
+                                   "key": "Parking Garage",
+                                   "name": "Garasi Parkir"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            },
+                            {
+                                   "key": "Whirlpool Bathtub",
+                                   "name": "Bathtub Pusaran Air"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "75",
+              "auction_key": "9e62cf210b1e4053a7a910cff48e6e6f",
+              "impression_key": "debb1476a18b4adfb65dfdf9e0f2610f",
+              "pricing": "base"
+       }
+}

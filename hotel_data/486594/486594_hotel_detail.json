@@ -1,0 +1,513 @@
+{
+       "data": [
+              {
+                     "location_id": "486594",
+                     "name": "NIHI Sumba",
+                     "latitude": "-9.778738",
+                     "longitude": "119.37508",
+                     "num_reviews": "862",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Sumba, Nusa Tenggara Timur",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/26/6e/2c/nihiwatu.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/26/6e/2c/nihiwatu.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1349",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/26/6e/2c/nihiwatu.jpg",
+                                          "height": "900"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/26/6e/2c/nihiwatu.jpg",
+                                          "height": "366"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/26/6e/2c/nihiwatu.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2015-01-06T03:53:43-0500",
+                            "caption": "Spa Safari Nihioka",
+                            "id": "119959084",
+                            "helpful_votes": "0",
+                            "published_date": "2015-01-06T03:53:43-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/486594?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [
+                            {
+                                   "award_type": "Traveler's Choice",
+                                   "year": "2022",
+                                   "images": {
+                                          "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+                                          "large": "https://www.tripadvisor.co.id/img2/awards/TC_2014_downloadable_LL_TM.jpg"
+                                   },
+                                   "categories": [
+                                          "Mewah",
+                                          "Hotel Tepi Pantai",
+                                          "Hotel Terfavorit"
+                                   ],
+                                   "display_name": "Travellers' Choice 2022"
+                            }
+                     ],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.875864028930664",
+                     "ranking_geo": "Sumba",
+                     "ranking_geo_id": "297731",
+                     "ranking_position": "1",
+                     "ranking_denominator": "24",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 24 hotel di Sumba",
+                     "subcategory_type": "resort",
+                     "subcategory_type_label": "Resor",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$$",
+                     "price": "Rp\u00a019.515.000 - Rp\u00a033.742.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "126977967",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=126977967&geo=486594&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=10473&bucket=930628&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914734&managed=false&capped=false&gosox=RP5dTJB1i9pBn5nUT3fCDAY5Nhm4C48AY6cvK-CNQRWEaIhYMeVPAGiYwyGNYSiptXHhT4hEEokKMXC-dko9PmJzSiBXoT4tHZY0RkN7UXPOEEpub0sa8FXO8hcjuzQdIFaHoY-ZSTf3cRNbQySHF92zeJzP7lZXo9YBlLPQrKV3-4BoSLLwxVRvJQAKF_j1SzLFCTSZgJjHDqmXNcyVXroSt4Gge6bfwfxT27JaC_Y3SJ7SwPNGtpMrYSPaExrkYD86p8U0WORC3Wa4OCctrA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=107db29a662694340f889202aca7b317f&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=f67f580f31094e8181e473a865b04bf6&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f67f580f31094e8181e473a865b04bf6"
+                                   },
+                                   {
+                                          "content_id": "112506960",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=112506960&geo=486594&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914734&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZHxWH8omu8ugJTeeg5gi2QQSINLDwP5K59Jk4bs0tncX3sYEBAzhE6bXOLPG4zOxirep-J0TAfp525cy3dBkDm6NDY90E8fPHwCdpXvohvO1_&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=140fdc02cefc88e2bca691f8fe228cb67&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=0548d5327019454e8a2c6db1c18dd7d7&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0548d5327019454e8a2c6db1c18dd7d7"
+                                   },
+                                   {
+                                          "content_id": "128630870",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=128630870&geo=486594&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914734&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdzxv1-_ZnZYY8swQ5wKnGbW1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0Nh8937RHXVBk2-PPF9frkwOcOVrKEPbJ9dZDh7NFVnfXwJ_VaFBoOSnFnMrAyem5zGonaXjLwwx9-4o6eM4LXB6&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=12700dfbdfae77b78425746d5acc82145&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=a7ed6c70eb844206a72d13658ef55aa5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a7ed6c70eb844206a72d13658ef55aa5"
+                                   },
+                                   {
+                                          "content_id": "234396843",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=234396843&geo=486594&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=40643&bucket=944550&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259914734&managed=false&capped=false&gosox=akmQ3hMz6iqZdR0UNDy0PZ0C67N23v_1GhI2YuCK2wSolUTIUC6O9ptaf_I10Pn4Fnm7b70toowV761ZAZECIkwaFLqPF46FwHHK96o-BnGuunL1V1HzEf0UA-rSBVf0vMSqUoZrmHa7KJ_0DxONMHyTEZ4tg5PDnqyZ3EauZ828EMkMBMLMDCutv-a5yguvrxXeAe7TLMcGPnrZAZ2iqY7yBli6WBuObJUFxANulpyEl4H0RLRb6ShAgvKMhFXN38ZPi35zVc-YTeHmQdwqkA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=11da613901dfab984c5bd144cb0638cfd&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=5b53a4dc62a545dcba072d05c4771a5e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "5b53a4dc62a545dcba072d05c4771a5e"
+                                   },
+                                   {
+                                          "content_id": "234757049",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=234757049&geo=486594&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=44859&bucket=973414&nrank=4&crank=5&clt=M&ttype=MobileCR&tm=259914734&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5ATeWYudSVr2iE8LBkkaVLLsr1Uu_yy8YqP5q93VRzLBZKyprFLOpnpdZD2rRc5ux5Xkk-cb5sUG6meIGofSndnv9UnSN4hV_PzTxkVZEEjl2yRr6vG6cJpXsPUSlVQ0mg9ET5FUT80ZMhoowVnDk4QsTCYu6MSarqRikxcBVTU5ZU2jq8PB9OJtC9ZM6K_GiGKYvVsXRBdpgzHQSnvu-gbo_BHBbJGC2Lc4FMVLlJK6Iv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=13937c326f306a5ec2c0ed43937101ce4&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=4e2a2fbf94ee43759198d8e9415db90c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4e2a2fbf94ee43759198d8e9415db90c"
+                                   },
+                                   {
+                                          "content_id": "112411601",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=112411601&geo=486594&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=259914734&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p6QwvjI_Vos5xq89X-fP03qWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzfSF4ayMvLiKiT7_9BKA6y-SoROle9hU6NM_arU4YoU-Ft7B0CYEXWayUtidfDfXkhfnEa3rRLck8i1zrDcnkAlyNoAWGv8-mTbK-A0Znmp1&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=10186b0d66eac11140a20cf56f4266e64&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=ca279e74f975493d99b5269dc8fea209&tp=HR_MainCommerce",
+                                          "auction_offer_key": "ca279e74f975493d99b5269dc8fea209"
+                                   },
+                                   {
+                                          "content_id": "150201310",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150201310&geo=486594&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=42117&bucket=958557&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=259914734&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GmccB79KHcPwz8MkfX6nnahFW56ZaNfqyCZ36Q8HTA-tl2PPdzehwBacC4HjU91DS4q_2Tf_PYfGFRk18W62EKiO8gZYulgbjmyVBcQDbpachJeB9ES0W-koQILyjIRVzd_GT4t-c1XPmE3h5kHcKpA&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=3f422d5e-3e73-41bb-9937-8b5747965ee6&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=12cf5cd547028b15d83ed05a40cb2f2c8&area=QC_META_API&ik=d317346fe677445c91be8543ef953667&dated=true&aok=d3256247b7c0475ab71866b1c7482f19&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d3256247b7c0475ab71866b1c7482f19"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "8c26399d-4cc4-4513-9202-353ffb9fe524",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297731-d486594-Reviews-NIHI_Sumba-Sumba_East_Nusa_Tenggara.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297731-d486594-NIHI_Sumba-Sumba_East_Nusa_Tenggara.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "island",
+                                                 "name": "Pulau"
+                                          }
+                                   ],
+                                   "name": "Sumba",
+                                   "abbrv": null,
+                                   "location_id": "297731"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Nusa Tenggara Timur",
+                                   "abbrv": null,
+                                   "location_id": "297728"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Sumba",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 811-3821-2910",
+                     "website": "https://nihi.com/",
+                     "email": "reservations@nihi.com",
+                     "address_obj": {
+                            "street1": "Desa Hobawawi",
+                            "street2": "Kecamatan Wanukaka",
+                            "city": null,
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "87272"
+                     },
+                     "address": "Desa Hobawawi Kecamatan Wanukaka, Sumba 87272 Indonesia",
+                     "local_name": "NIHI Sumba",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Babysitting",
+                                   "name": "Penitipan anak"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Beach",
+                                   "name": "Pantai Pribadi"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Free Airport Transportation",
+                                   "name": "Transportasi bandara gratis"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Entertainment Staff",
+                                   "name": "Staf Hiburan"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Fishing - Amenities",
+                                   "name": "Memancing"
+                            },
+                            {
+                                   "key": "Fitness Classes - Amenities",
+                                   "name": "Kelas Kebugaran"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Mosquito Net",
+                                   "name": "Tirai Antinyamuk"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Pool with View",
+                                   "name": "Kolam Renang dengan Pemandangan"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "14",
+              "auction_key": "0b5faf66841d4be2b26295b64c8c2f21",
+              "impression_key": "d317346fe677445c91be8543ef953667",
+              "pricing": "base"
+       }
+}
