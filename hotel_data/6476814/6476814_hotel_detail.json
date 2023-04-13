@@ -1,0 +1,463 @@
+{
+       "data": [
+              {
+                     "location_id": "6476814",
+                     "name": "Java Palace Hotel",
+                     "latitude": "-6.297232",
+                     "longitude": "107.14923",
+                     "num_reviews": "349",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Cikarang, Jawa Barat, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/1f/0f/62/java-palace-hotel.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/1f/0f/62/java-palace-hotel.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1994",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/1f/0f/62/java-palace-hotel.jpg",
+                                          "height": "1114"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/1f/0f/62/java-palace-hotel.jpg",
+                                          "height": "307"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/1f/0f/62/java-palace-hotel.jpg",
+                                          "height": "140"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2018-05-30T23:17:35-0400",
+                            "caption": "",
+                            "id": "320802658",
+                            "helpful_votes": "0",
+                            "published_date": "2018-05-30T23:17:35-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/6476814?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.836700439453125",
+                     "ranking_geo": "Cikarang",
+                     "ranking_geo_id": "3199269",
+                     "ranking_position": "3",
+                     "ranking_denominator": "53",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 3 dari 53 hotel di Cikarang",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0433.000 - Rp\u00a0507.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "56508499",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0382.746",
+                                          "display_price_int": "382746",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=56508499&geo=6476814&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=5091&bucket=907712&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278467&managed=false&capped=false&gosox=j2vqO_fb07A1JOafSxCEk6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGZNyjRhV4LM36GW5OXDRi_gIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTsWW4gYyvbL_ihCDWSZp1Bvx9dOMuVmQRgCAwWMGGYdLIibuKS9exnOgW6kj79JaIOvLKblTLHMbZAyoFt2HPBO_hMlnpybknvXZme-_HEN9XSCAg3H_gg4vKct4cTBOiWcoQNv1nlzq8u0kTQhSFGQ&priceShown=382746&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=382746.00&fees=80376.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_5600c2ddc101beef147d99f96a8ba7de&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1a70c34d836cb253bebbdb0316c91ca7c&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=c5e99ac336dd44319cf66c78841681ea&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c5e99ac336dd44319cf66c78841681ea"
+                                   },
+                                   {
+                                          "content_id": "57271573",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=57271573&geo=6476814&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278467&managed=false&capped=false&gosox=rNOTuNDO-v-3qgmnqVdumWprTmIeft25FWx4aMIebi8T7Jz7Sk3PgkgB5FMWNmWLj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_8cAP05TMJIFFnQ5FMcOuUNpl9R2Dv6yHCZ-p-_TGghhWAuimf4pcku3MwEH6Xglfx4IMVWNbtovSonVlgaHISd6JV_QEhTEX6S6xUcBI6HEfGioFe0-9HXFU9SMdGlWkLXfZBRzqyKGkxlQseckcj&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1ca9a7fd29566b5efd7f08d25f57a04fc&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=8f3409ca5742487abacbdd6a055ee4cb&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8f3409ca5742487abacbdd6a055ee4cb"
+                                   },
+                                   {
+                                          "content_id": "69500856",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=69500856&geo=6476814&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278467&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH8ejpLVUf6EiInHWvA5PBjCG96JqjL2ail-xbIEMdLpMz33H02WTayT70RWk7yX1fzV9GP3gllCSWjICSPJzOe0u0D9fkI3gFGPUdp3iuc_i9auO-8hGqk3F-b2dXetaKw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1740673cdafef8c558f4ca97e5a7aae3e&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=d71844ccd0814e78b21330b265c8c1fd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d71844ccd0814e78b21330b265c8c1fd"
+                                   },
+                                   {
+                                          "content_id": "60843582",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60843582&geo=6476814&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261278467&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxjUlTjMZlx_-CpO6zjP89M1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0NhH-br4jhftykz8agpWe1PxbrN9PhmOIFqS-q6U27cnmqAldkQ7G6b8Tb33ABJM7WKAt8lQ7fvot2TfbEs6-DdW&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1edfee43abef33b15272d0deaa40a3fe6&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=872bf947dee4432ba2e431cedf2dc800&tp=HR_MainCommerce",
+                                          "auction_offer_key": "872bf947dee4432ba2e431cedf2dc800"
+                                   },
+                                   {
+                                          "content_id": "69435347",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=69435347&geo=6476814&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261278467&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzcBP5eYvRwiefI74iBv-15G8FykMxQGF0KeR7Hysw1JQzt5pV7o_evBAZ1fLKwot3l7Ns3qNWBUkphIqhVL7mwkGGFeKeI0sEGY9joST6BeM&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1889d617f33b638346ab3b5057e5fdede&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=38ddd25790c44a7a94396ea162c56e0c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "38ddd25790c44a7a94396ea162c56e0c"
+                                   },
+                                   {
+                                          "content_id": "218522683",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218522683&geo=6476814&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=44859&bucket=973414&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261278467&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa4-xBRmYz2g8PsG3dKM9LU3bx1YnJ7Mr-CcWtPr1zhqsBDriX-POzLRg51JvuiKcy-tQd7EEWye1YByc7Lq0eWpzqaMff7uR7hbwwaeWgATJVUcOs5a--qi5zszvDp8t4iAT3Y_JmxMxA5RKxHAKvHpdZGSbjkolhIZZQb_Ff-szKP0rr5JOliQLMo0t7cnWzvf1v2XajfrJ4EIiTw1xUWP0lQ9aZj1houVaCt2N9KCjA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=17b7b599a7995086f29ae973a07b8a568&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=3fe7e6f2a8bd4480a02d93465356d3f5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3fe7e6f2a8bd4480a02d93465356d3f5"
+                                   },
+                                   {
+                                          "content_id": "115617901",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=115617901&geo=6476814&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=18569&bucket=962380&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261278467&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01sOLjtZHvYmmh3z3WL2G1jY73IRHN_g7UbYPOSSz51BrpIQKtt52YYnnEGOGhJ6CTyroNcaSxQYNYmHjKQIKGoNZOfFUcLt7HiXSdjw8zk1PIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1647de120255a0f7b1eb15a64595f8153&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=dde2d618ca724a9296938db0262c1fad&tp=HR_MainCommerce",
+                                          "auction_offer_key": "dde2d618ca724a9296938db0262c1fad"
+                                   },
+                                   {
+                                          "content_id": "174665271",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174665271&geo=6476814&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=7&crank=9&clt=M&ttype=MobileCR&tm=261278467&managed=false&capped=false&gosox=7f6Kak4IIEeOlBt5OHIErm8ow2dQ5v3DrUiwIJOqd1HXVy6YNvRKQVWjAxPAY6eVmUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vIydUh7iBrhBB-t9zdI49eDM9d7Q8cyN3hXzEVsQEPcr-4_MnzaosmbE71RwVmr-ZLdnpFa43gD_d6PUwbZKyayroNcaSxQYNYmHjKQIKGoNZOfFUcLt7HiXSdjw8zk1PIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=112c692bb468d5019c05e8d889b96aa4b&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=53b5f26d9af64aa1a1827d74d94f0516&tp=HR_MainCommerce",
+                                          "auction_offer_key": "53b5f26d9af64aa1a1827d74d94f0516"
+                                   },
+                                   {
+                                          "content_id": "119824656",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119824656&geo=6476814&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958557&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261278467&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GtcKCEG1B536UR4uixc5XFJFW56ZaNfqyCZ36Q8HTA-tvxXl-DtP7lYAmsZxpA8gV4q_2Tf_PYfGFRk18W62EKgehgZfA0B5q1d0y-mB_sgGVuvV8r6T0k6B7NwlKHY0NynyCk9efm1G7Lg66C0kTlU&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0bb82dff-66e9-4f50-bfc8-1ce4948d913c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=13e786ca1005e81e7dce4b30cc45e1d1e&area=QC_META_API&ik=a92953f9702149dda4f114c795bc28aa&dated=true&aok=244906b789ba4bf2bc00999ec2426475&tp=HR_MainCommerce",
+                                          "auction_offer_key": "244906b789ba4bf2bc00999ec2426475"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "0379baf5-6cd0-481b-923a-a404b68b711d",
+                     "description": "Semua orang butuh beristirahat. Untuk wisatawan yang mengunjungi Cikarang, Java Palace Hotel merupakan pilihan terbaik untuk beristirahat dan memulihkan diri. Terkenal karena suasana yang dekat dengan restoran populer, Java Palace Hotel membuat Anda mudah menikmati yang terbaik dari Cikarang.\nKamar tamu menawarkan fasilitas seperti penyejuk udara dan minibar, dan tamu dapat terhubung dengan internet menggunakan wi-fi gratis yang ditawarkan oleh hotel.\nJava Palace Hotel menawarkan layanan concierge dan layanan kamar, sehingga pengalaman menginap Anda lebih spesial. Properti juga menyediakan kolam renang dan restoran. Jika Anda mengemudi ke Java Palace Hotel, parkir gratis tersedia.\nCikarang memiliki banyak restoran asia. Jadi pada saat Anda disini, jangan lupa mengunjungi tempat populer seperti Matsuriya, Ikkyu Japanese Restaurant, dan Lyv Kitchen & Bar, yang menyajikan hidangan lezat.\nBaik Anda berkunjung untuk urusan bisnis, berlibur ataupun keduanya, Java Palace Hotel akan menjadikan kunjungan Anda Cikarang tak terlupakan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g3199269-d6476814-Reviews-Java_Palace_Hotel-Cikarang_West_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g3199269-d6476814-Java_Palace_Hotel-Cikarang_West_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Cikarang",
+                                   "abbrv": null,
+                                   "location_id": "3199269"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301792"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Cikarang",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 21 29281111",
+                     "website": "http://www.palacejava.com",
+                     "email": "info@palace.co.id",
+                     "address_obj": {
+                            "street1": "Jl. Niaga Utara Kav 1-2 Jababeka II",
+                            "street2": "",
+                            "city": "Cikarang",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "17530"
+                     },
+                     "address": "Jl. Niaga Utara Kav 1-2 Jababeka II, Cikarang 17530 Indonesia",
+                     "local_name": "Java Palace Hotel",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "22",
+              "auction_key": "65cc2c04e1eb4d93a596f1f006a2bcc1",
+              "impression_key": "a92953f9702149dda4f114c795bc28aa",
+              "pricing": "base"
+       }
+}

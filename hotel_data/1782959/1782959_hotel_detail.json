@@ -1,0 +1,412 @@
+{
+       "data": [
+              {
+                     "location_id": "1782959",
+                     "name": "Swiss-Belhotel Ambon",
+                     "latitude": "-3.69453",
+                     "longitude": "128.1852",
+                     "num_reviews": "1127",
+                     "timezone": "Asia/Jayapura",
+                     "location_string": "Ambon, Kepulauan Maluku",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/67/87/5d/hotel-exterior.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/67/87/5d/hotel-exterior.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "634",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/67/87/5d/hotel-exterior.jpg",
+                                          "height": "878"
+                                   },
+                                   "large": {
+                                          "width": "325",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/67/87/5d/hotel-exterior.jpg",
+                                          "height": "450"
+                                   },
+                                   "medium": {
+                                          "width": "148",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/67/87/5d/hotel-exterior.jpg",
+                                          "height": "205"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2023-03-07T12:05:07-0500",
+                            "caption": "Hotel Exterior",
+                            "id": "677873501",
+                            "helpful_votes": "0",
+                            "published_date": "2023-03-07T12:05:07-0500",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1782959?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.792084693908691",
+                     "ranking_geo": "Ambon",
+                     "ranking_geo_id": "608477",
+                     "ranking_position": "1",
+                     "ranking_denominator": "43",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 43 hotel di Ambon",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0597.000 - Rp\u00a0701.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "64224830",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0530.176",
+                                          "display_price_int": "530176",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=64224830&geo=1782959&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=18569&bucket=962380&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277086&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0Gqlb5w_5cn-lB0bkJuoG2FaRbYfLTE4Sha-myNSczBIA6MX9OANXfEFmioh24rYevKiN8q3zaEwOBB-eghMf26UY--_D1ZOq3MaWLUgarjeB191glOSq4H9n8ch0wVWK7AiK2USWJJtLNyspyi71ULyqksyjeBrdqW55E8YFaQFv506KV41I6EkHyG0SsQULCgJBcVVfPLd8blJEgnDqY2YSnnsS07GdIALyP39YGRkAXAAMHYompLKzGq-vOBAN25azErhirk0HfBs8ySzc8_w&priceShown=530176&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=47&rate=530176.00&fees=111250.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_32b4bf4e46eacefe15a1f4a35000365&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=18ae15d8b7293936a84fdac8d8cd93381&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=48b3570225744182a22e6ec587804a7f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "48b3570225744182a22e6ec587804a7f"
+                                   },
+                                   {
+                                          "content_id": "33215515",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0623.967",
+                                          "display_price_int": "623967",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33215515&geo=1782959&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=5091&bucket=907532&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277086&managed=false&capped=false&gosox=HHoYaKPo32FzVFz2OjxwS6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZG0ak7F-QxBRBCdOfVfcvoGwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTserRJlh81NA2IyCTSIeqweXCfbK2gwEShsLZ0MvFv_KEzYqc37f5AU4NDCIEnd-qAkGkcFbqW4KtiZ4bCjOPwCxi4bzxd97M4qMdGY7dbupXAAMHYompLKzGq-vOBAN25azErhirk0HfBs8ySzc8_w&priceShown=623967&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=675&rate=623967.00&fees=131033.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_efb6b16cb016b2921ede14f8fc340b1&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=17d7da36b543ebe210753bf72fdfb8cc6&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=64180b0c403840959256899f282e9ef1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "64180b0c403840959256899f282e9ef1"
+                                   },
+                                   {
+                                          "content_id": "174727763",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0523.229",
+                                          "display_price_int": "523229",
+                                          "strikethrough_price": "Rp\u00a0623.967",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174727763&geo=1782959&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261277086&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1GovMlO_JjSi1CgClpi9tezjPQTeHjn1IINAyAkl-usYIXUI7Udw-P0iMKsmsxRbJ662-DXUPc-RPmKhcAuahfSeaOM9VFTQZn9RDQ8lFKaj872LdunRklKKJaOs71lkFyVmOjuJPM6JHnt5E_jf3g6tDRUphklFjaKlLCkmWspYcBPhqW27QpDZU1igP1jzDtGE2MkBE9yGw1dy_QGQWYZg434ppiFeuvBrJuS7fSl6g&priceShown=523229&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=523229.00&fees=109844.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_34b278b22154f4a2e95b0fb4af30abcb&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=17efd4d3579d9c24a657ae971366cfe75&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=4865e3b0d18048fd91fc94ea24d33c3f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4865e3b0d18048fd91fc94ea24d33c3f"
+                                   },
+                                   {
+                                          "content_id": "218324981",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0523.229",
+                                          "display_price_int": "523229",
+                                          "strikethrough_price": "Rp\u00a0623.967",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218324981&geo=1782959&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=44859&bucket=973414&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261277086&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa7aenO18KttvLSLKY0zWlBDIqMjZQbbfA85h6M2lDBQFlEWvMFBVv0zLhshYabVz19GNV6EhUoLqFKQAWRBECw6lXiFXnALCEZOXd6Qb9i1qonuPYvltQwCnpzF-0jbGld62x7jQH4OPPvGU7kUB8POrxXeAe7TLMcGPnrZAZ2iqZJhpMzmKrPvJLVw6dUC3zEXnEtF5X5xyrtWNVWELS6pW8cSZVwZC9GwQPXI1x0b-Q&priceShown=523229&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=523229.00&fees=109844.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_490c22f5fc3e66a8470bdfd92238c96f&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=187320dd41957865ddcc301c19bf9fa36&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=f39961af3f834c9eb4b67a59d724d8f0&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f39961af3f834c9eb4b67a59d724d8f0"
+                                   },
+                                   {
+                                          "content_id": "32503201",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=32503201&geo=1782959&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277086&managed=false&capped=false&gosox=HGCh7KVwDBB50N0S_uqGJmprTmIeft25FWx4aMIebi-kYuLCf4kFuX6hzwqTGJrPj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn-pXYM-gCdpwzYIZ_gDRzdPNpl9R2Dv6yHCZ-p-_TGghjsASuSegQMR5blwcK94u1ESPfHqyPPjqAV5BSv-lq-y1EVRWntlD4e5Gj8Jmw4p3qApMJomexK2fl-AMnwVWK9EEwjH0bgS_yM1BNFQXR9F&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=13d654eead582a7083457b556a306cb9c&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=b8959c2992d44f2692ab859816d919c9&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b8959c2992d44f2692ab859816d919c9"
+                                   },
+                                   {
+                                          "content_id": "34600364",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34600364&geo=1782959&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277086&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH-BIUsglipcPaIE6bEYQRQO_Sx2Kd-S_y4qw4Y1Lpc3rnD1-XHQpby4DYqgsv1ifZ2tZZchOuK-SAqYnxNdRC0QzEgAUgVW5iIYAbICBef2XVv5kt6xyqZ4qXphHrMfUkg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=166c51a545fe3e465d3be5b7ec76e82f6&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=09665a1c910b4ae39b22f53b75f8947d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "09665a1c910b4ae39b22f53b75f8947d"
+                                   },
+                                   {
+                                          "content_id": "60312789",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60312789&geo=1782959&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261277086&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdyOSJvGTG-zs0YQ3Rgryv8AiMShykcf-t_lImP_P3J01vrrE7URXj8dhkDI2A0feu2G183rSz0n481kvYoogaZzYzHc8WQXaXfVTdmUyuxkRZXpcoZcHnoowfpralwNV5C_FxZIqzH9hswUYcBDtTBr&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=16f77e349ad98fcedbd17dfc68fc56adf&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=4e5094f73abb4367be82ea6085431565&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4e5094f73abb4367be82ea6085431565"
+                                   },
+                                   {
+                                          "content_id": "32702644",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32702644&geo=1782959&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261277086&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzdOBnlh3hgH1HqzEucJ1MYsaCKtl2iq-_VG2PhJBokRzEPcS8bod-2o7U3bEw5gNONrAtmfMruWH-Xp0OZjmU9qjiWW0wr7TP-cbEN9NKi23&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1188a48d0644f3249374b76cbf6e9e025&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=38bee7edc16b4ac5bb70395ae2e84ebe&tp=HR_MainCommerce",
+                                          "auction_offer_key": "38bee7edc16b4ac5bb70395ae2e84ebe"
+                                   },
+                                   {
+                                          "content_id": "119863842",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119863842&geo=1782959&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958557&nrank=9&crank=9&clt=M&ttype=MobileCR&tm=261277086&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GvJ-haV5DmHLJzbF067Yudo2mX1HYO_rIcJn6n79MaCGI4goXq4nDPS5p08PTgqLjhmpHftFRTKxGY0ITBLW_Vy7Bzj-uHCFsQMGvwUxMBINr0wHvHYVm9H0N56iujzh5s6AzsJLCwWRrYbiue7PRwY&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=470fefe4-3cb9-444c-8e05-66e29d6d88c7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1006c77b3ef3a8c67959495488fe01990&area=QC_META_API&ik=15bf8c079e3e4f1d8bcc6e2d746247e6&dated=true&aok=44a04c97a75c40b29e0f917ef6f703c6&tp=HR_MainCommerce",
+                                          "auction_offer_key": "44a04c97a75c40b29e0f917ef6f703c6"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "e2ffae5b-986d-4e7d-9c8b-80749c5a9840",
+                     "description": "Menemukan hotel sesuai untuk keluarga yang ideal di Ambon sangatlah mudah. Selamat datang di Swiss-Belhotel Ambon, pilihan tepat untuk wisatawan seperti Anda.\nBerdekatan dengan Jembatan Merah Putih (3,8 km), sebuah tempat terkenal di Ambon, Swiss-Belhotel Ambon adalah destinasi yang sangat baik untuk turis.\nSwiss-Belhotel Ambon menawarkan para tamu fasilitas beragam seperti tv layar datar dan penyejuk udara.\nHotel menawarkan layanan concierge dan layanan kamar, sehingga kunjungan anda semakin spesial. Properti ini juga menyediakan sarapan. Tamu yang menggunakan kendaraan memiliki akses parkir gratis.\nJika Anda mencari makanan lezat terdekat, Anda sebaiknya mencoba Rumah Makan Sari Gurih (0,2 km), Dapor Kole Kole (0,3 km), atau Imperial Resto (0,7 km), semua dapat dicapai dengan berjalan kaki dari Swiss-Belhotel Ambon.\nJika masih memiliki waktu, Masjid Raya Al-Fatah, Gong Perdamaian Dunia Ambon, dan Lapangan Sepak Bola Karang Panjang adalah beberapa tempat menarik yang mudah untuk dicapai dengan berjalan kaki.\nSwiss-Belhotel Ambon tak sabar untuk menyambut Anda di Ambon.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g608477-d1782959-Reviews-Swiss_Belhotel_Ambon-Ambon_Maluku_Islands.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g608477-d1782959-Swiss_Belhotel_Ambon-Ambon_Maluku_Islands.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "island",
+                                                 "name": "Pulau"
+                                          }
+                                   ],
+                                   "name": "Ambon",
+                                   "abbrv": null,
+                                   "location_id": "608477"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Kepulauan Maluku",
+                                   "abbrv": null,
+                                   "location_id": "800476"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Ambon",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 911 322888",
+                     "website": "http://www.swiss-belhotel.com/en/Indonesia/Ambon/ambon",
+                     "email": "ressbam@swiss-belhotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Benteng Kapaha No: 88",
+                            "street2": "",
+                            "city": null,
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "97124"
+                     },
+                     "address": "Jl. Benteng Kapaha No: 88, Ambon 97124 Indonesia",
+                     "local_name": "Swiss-Belhotel Ambon",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "44",
+              "auction_key": "2dc5059be574465080e3e8f402ddf1c2",
+              "impression_key": "15bf8c079e3e4f1d8bcc6e2d746247e6",
+              "pricing": "base"
+       }
+}

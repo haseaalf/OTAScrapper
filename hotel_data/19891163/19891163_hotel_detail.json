@@ -1,0 +1,447 @@
+{
+       "data": [
+              {
+                     "location_id": "19891163",
+                     "name": "Mercure Samarinda",
+                     "latitude": "-0.503059",
+                     "longitude": "117.15194",
+                     "num_reviews": "746",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Samarinda, Kalimantan Timur, Kalimantan",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/c3/34/5f/exterior-view.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/c3/34/5f/exterior-view.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/c3/34/5f/exterior-view.jpg",
+                                          "height": "768"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/c3/34/5f/exterior-view.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/c3/34/5f/exterior-view.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2021-09-01T02:58:18-0400",
+                            "caption": "Exterior view",
+                            "id": "499332191",
+                            "helpful_votes": "0",
+                            "published_date": "2021-09-01T02:58:18-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/19891163?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.9054975509643555",
+                     "ranking_geo": "Samarinda",
+                     "ranking_geo_id": "317102",
+                     "ranking_position": "3",
+                     "ranking_denominator": "83",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 3 dari 83 hotel di Samarinda",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0716.000 - Rp\u00a0821.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "181139235",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0848.000",
+                                          "display_price_int": "848000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=181139235&geo=19891163&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=8&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277258&managed=false&capped=false&gosox=dxC9WtaBND9jnfDaUKL8-WprTmIeft25FWx4aMIebi-g69jFI2wftpUO40M6XuvkKFnSKvb61S-9n8zViZTgSkgaT_qNZjt_IN96resPesZQhbKpGz2228v-d8IP1rPQBIcTrMgKXk6eswiALYXFiNCkMm1jOKDMR_pNjDN5EsUxWDc_SHpD0-RUHqY2yJxWtDRUphklFjaKlLCkmWspYQXRCJEVm7-YpuodxXSrlC23C2lqylg2CF7Zz_rFPn2F0oy5Wl7ervS4W6KeDxn1Yg&priceShown=848000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=848000.00&fees=178080.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_3ed52cef16d2b3d0f5d645eba7fd74af&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=18538857767f33c8d1bc423cdaa09d6c8&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=7010a3634d634a7eb743635376b7efec&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7010a3634d634a7eb743635376b7efec"
+                                   },
+                                   {
+                                          "content_id": "184386093",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0848.000",
+                                          "display_price_int": "848000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=184386093&geo=19891163&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=8&silo=5091&bucket=907352&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277258&managed=false&capped=false&gosox=HHoYaKPo32FzVFz2OjxwS6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZG0ak7F-QxBRBCdOfVfcvoGwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTp5E9BB459-pVHWJcx9h2p9_-_cB9S_tO_6vJ1uUN9L2Uu8jcFvJpWry-_Z8MB0ZRy432YfN3D-mI6o6U-li7pYqYE5sitqZXeHWjpd-nQjHtuoEltludt03rsSMadR2tttx8WzjtMCfi3t4Hmm6aVU&priceShown=848000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=848000.00&fees=178080.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_6e7555175d02724c450d29d76363ede&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1fdcc0ae7c18f22919f5deeeb9e2ea607&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=2a0fd7fc47e247e2b2165d0f6c2e0ab9&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2a0fd7fc47e247e2b2165d0f6c2e0ab9"
+                                   },
+                                   {
+                                          "content_id": "175924118",
+                                          "provider_display_name": "Mercure",
+                                          "internal_provider_name": "Accor",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/TAMercureHotels_logo_RGB-min.png",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0848.000",
+                                          "display_price_int": "848000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Accor&src=175924118&geo=19891163&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=8&silo=15994&bucket=903828&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277258&managed=false&capped=false&gosox=oICy3bkddZ9wNVW6Sd-JyV0oKCluCijA7-8aji1hH_qxULC9r-GEcR4xxHlgGmkfXDIQavQ783neVU0W3tXOyMNV4U128ody4FOCww-O0HyDG8YAbheG-UdM6XQ8WsdMzXWhDAwyZ0wa-JINy7oM2O99aAIc3APN1kE8Lpz1XmGH_c-UCURMm3GI8MYWskBb6Cfj0RDBOWjhaEHU1ZaPba8V3gHu0yzHBj562QGdoqnpsMhDtBINOAD259udy3rq2pyMfsjDAACm20T-WiTbB7Yew1Kcdk4zXS3Niiuti0g&priceShown=848000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=848000.00&fees=178080.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=189aeebbcfcddc524ae02ceb086691932&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=b28c6cb3a38d41de8d370151ce441339&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b28c6cb3a38d41de8d370151ce441339"
+                                   },
+                                   {
+                                          "content_id": "189141603",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0848.000",
+                                          "display_price_int": "848000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=189141603&geo=19891163&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=8&silo=40643&bucket=944550&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261277258&managed=false&capped=false&gosox=p9NEpElxCEWyonM4pLGfqtB9Nk-3dZvv4uHo-0rPhIStE-R8pXPax9qRY6-XXK6jde0zOEneFO9SUc7V1GNewqYS_QfT0UVmyHTZtCEhlVQXDwGBTYiJXwx2FscdksEKHpTZnUGBDloLDknu3RAua5x5vSx3kpFT3ADZob4XB9y_2o5f7k9FbZYy9tEyqtDYv4_GE2E9XvXb-75pDBDc6i21ZHzR4td_eOb160G8YUX1cNmUAH8KjsFk2VqCVw9OakrIRQMT6cNbWoqjXaCwyA&priceShown=848000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=848000.00&fees=178080.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_583e3891596e7066ef9dfb3d85e1a0f4&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d5e042722514ded7ba827067b6f31ee1&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=edf1511d9a634a2f890ae084e7db3ec0&tp=HR_MainCommerce",
+                                          "auction_offer_key": "edf1511d9a634a2f890ae084e7db3ec0"
+                                   },
+                                   {
+                                          "content_id": "218528971",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0848.000",
+                                          "display_price_int": "848000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218528971&geo=19891163&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=8&silo=44859&bucket=973414&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261277258&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa7aenO18KttvLSLKY0zWlBDde0zOEneFO9SUc7V1GNewlEWvMFBVv0zLhshYabVz19GNV6EhUoLqFKQAWRBECw6GwHRAMt1R7AbiSrTZ4aL_Jx5vSx3kpFT3ADZob4XB9zWnrf70EA-T1vBvsJLK0gNv4_GE2E9XvXb-75pDBDc6i21ZHzR4td_eOb160G8YUX1cNmUAH8KjsFk2VqCVw9OakrIRQMT6cNbWoqjXaCwyA&priceShown=848000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=848000.00&fees=178080.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_1afeba36690ec4aa5fe103e3575d2d54&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=10949266254fbd4d10aaf367c615e09bc&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=7d84c97ef5c447d7a99cbd1e3493ed11&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7d84c97ef5c447d7a99cbd1e3493ed11"
+                                   },
+                                   {
+                                          "content_id": "186548198",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=186548198&geo=19891163&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=8&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277258&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12qRlnrvDPHjQ1PhkDTIy8lk1X9GW9K-M6HKJsA2Rz8ZH4_xIxpvC3dq0wzDr_tRKBL5Qh1_ovK3mZDZqDGrMk-2GendRZnace9yoTKW6Yy0Egp-gnyBmCVGEhFRqPwBEVv5mtHI2nUvvVoF1PyvwjeiXByYigJYfgYP5SBGBerL5A&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1565b62d7a67ba3909a6ced16798280d7&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=d60edd9318684b41aabbb998342cb096&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d60edd9318684b41aabbb998342cb096"
+                                   },
+                                   {
+                                          "content_id": "181327250",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=181327250&geo=19891163&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=8&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261277258&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p6QwvjI_Vos5xq89X-fP03qWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzTys5cFVJl2rPMtkiHo2BdVyi-PzhHfvVB2r5QG5_kiM4ttdpm-rVtg4ClChHgB83fJRjDQMkb493rDXId5hF8s9vv8OlDKvg5OmuUCVxewh&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=19686d688c87db44f76bca361f7cfa303&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=33188dc56d3546b580f998043fba3bd6&tp=HR_MainCommerce",
+                                          "auction_offer_key": "33188dc56d3546b580f998043fba3bd6"
+                                   },
+                                   {
+                                          "content_id": "183801247",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=183801247&geo=19891163&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=8&silo=18569&bucket=934050&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261277258&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01gCMcFOtUhEVFwUe_7-CAFK5YqZBW_b4BogXCHwDjHdJprqny2j2B10oZ_DwfFgO-DnDQNhY0pyDdk3_0O3MdnUyMANCLXvRjkKzpVe5B1-UIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bbc7b3b2-f9ea-4e6c-adeb-2c996cbcc841&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f5b258a713cf80fd4e9fad28716e3f1d&area=QC_META_API&ik=21b92ab3fd534a41bcb708858ab88579&dated=true&aok=75924e1a5037432998251ba605a2c105&tp=HR_MainCommerce",
+                                          "auction_offer_key": "75924e1a5037432998251ba605a2c105"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Accor Hotels.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "f7597cf8-b27b-4f0e-84e1-3d12326d8e45",
+                     "description": "Mercure Samarinda adalah pilihan terbaik untuk para wisatawan, memberikan suasana berbeda menampilkan keaslian budaya lokal, berlokasi tepat di pusat bisnis kota Samarinda. Fasilitas terbaik tersedia di Mercure Samarinda, kamar dilengkapi dengan TV IPTV, penyejuk ruangan, dan para tamu tentu dapat menggunakan internet dengan kecepatan tinggi. Mercure Samarinda dilengkapi dengan fasilitas kolam renang, dan pusat kebugaran, dapat digunakan secara gratis selama anda menginap. Anda membutuhkan tempat hiburan untuk bersantai? jangan khawatir, Mercure Samarinda terhubung langsung dengan City Centrum Mall. Nikmati waktu anda saat menginap di Mercure Samarinda.",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g317102-d19891163-Reviews-Mercure_Samarinda-Samarinda_East_Kalimantan_Kalimantan.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g317102-d19891163-Mercure_Samarinda-Samarinda_East_Kalimantan_Kalimantan.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Samarinda",
+                                   "abbrv": null,
+                                   "location_id": "317102"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Kalimantan Timur",
+                                   "abbrv": null,
+                                   "location_id": "2301802"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Kalimantan",
+                                   "abbrv": null,
+                                   "location_id": "294227"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Samarinda",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 541 526000",
+                     "website": "https://all.accor.com/hotel/B5E4/index.en.shtml",
+                     "email": "info@mercure-samarinda.com",
+                     "address_obj": {
+                            "street1": "Jalan Mulawarman No 171",
+                            "street2": "",
+                            "city": "Samarinda",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "75112"
+                     },
+                     "address": "Jalan Mulawarman No 171, Samarinda 75112 Indonesia",
+                     "local_name": "Mercure Samarinda",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            },
+                            {
+                                   "key": "Clothes Dryer",
+                                   "name": "Pengering Baju"
+                            },
+                            {
+                                   "key": "Pool with View",
+                                   "name": "Kolam Renang dengan Pemandangan"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Shoeshine",
+                                   "name": "Semir Sepatu"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "63",
+              "auction_key": "b67733a93ff744788b78a6cc285fb736",
+              "impression_key": "21b92ab3fd534a41bcb708858ab88579",
+              "pricing": "base"
+       }
+}

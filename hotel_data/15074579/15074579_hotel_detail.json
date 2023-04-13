@@ -1,0 +1,485 @@
+{
+       "data": [
+              {
+                     "location_id": "15074579",
+                     "name": "Hotel ibis Pontianak City Center",
+                     "latitude": "-0.049093",
+                     "longitude": "109.343475",
+                     "num_reviews": "668",
+                     "timezone": "Asia/Pontianak",
+                     "location_string": "Pontianak, Kalimantan Barat, Kalimantan",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/ff/1b/3f/exterior-view.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/ff/1b/3f/exterior-view.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/ff/1b/3f/exterior-view.jpg",
+                                          "height": "768"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/ff/1b/3f/exterior-view.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/ff/1b/3f/exterior-view.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-07-28T11:12:54-0400",
+                            "caption": "Exterior view",
+                            "id": "620698431",
+                            "helpful_votes": "0",
+                            "published_date": "2022-07-28T11:12:54-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/15074579?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.848362445831299",
+                     "ranking_geo": "Pontianak",
+                     "ranking_geo_id": "317101",
+                     "ranking_position": "2",
+                     "ranking_denominator": "61",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 2 dari 61 hotel di Pontianak",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0418.000 - Rp\u00a0493.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "136803338",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=136803338&geo=15074579&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276806&managed=false&capped=false&gosox=I8nS09AHl0WIWHJewTtujWprTmIeft25FWx4aMIebi8bfSIae8nm9yiz4NCnvvHcj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_CsLUagxXqAmJ2_H2mQr7lNpl9R2Dv6yHCZ-p-_TGghg5JHkXj7lvuSSOevUfo8XZBPkf1hgEt1JROrYrI8wB_LVWT1axqGGSRUJt7sroE6FJyHzkG_ZyJc9w33E8iEm9IBksNRzatJ0S92nDTBrYH&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=104a6a7ed924781b3c08fd56d6e1a1e60&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=ecedac616c414718ab44f0750c1f5987&tp=HR_MainCommerce",
+                                          "auction_offer_key": "ecedac616c414718ab44f0750c1f5987"
+                                   },
+                                   {
+                                          "content_id": "137353250",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=137353250&geo=15074579&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=5091&bucket=907352&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276806&managed=false&capped=false&gosox=3-R4GOvY8_lfpesYAE0LqqhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOtmxdd92TU47MckFC1HDZwQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTsxWrkZ6QrkVGDOuDdHaoWWLA1xwPWX1ETQp4XRBy51QkV25wuT2woBYaFLosDYfV4lVmPepmwhcU9lAxzpQ_7FxmK6aMOfFySyWnCAUE1sHNRwkQOlkABhpcpq2M34ow_wU6XjzJALT-aTAgf0w_K0&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=115c77df69901f57b0991604c8ee54e01&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=1fb9b9eb22d542ba8342731c8672c423&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1fb9b9eb22d542ba8342731c8672c423"
+                                   },
+                                   {
+                                          "content_id": "232127246",
+                                          "provider_display_name": "ibis",
+                                          "internal_provider_name": "Accor",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Ibis2.gif",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Accor&src=232127246&geo=15074579&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=15994&bucket=903828&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276806&managed=false&capped=false&gosox=7zIQ5WWspVXcZURxPwqq910oKCluCijA7-8aji1hH_qxULC9r-GEcR4xxHlgGmkfk74JT45KiN62drgxowDs9ojt4NIwkjDHXGtl1i8vmw0lbw7piyTDprQ7Uw4KAKvKLBC7JwGpXGos24t5oZvhrqp4fUUQOmdRzQzeJmVU5tnbQ8juxui1B1LJVwF1Bbl5baKDVuunQlreA-G27MelmIlVmPepmwhcU9lAxzpQ_7FxmK6aMOfFySyWnCAUE1sHNRwkQOlkABhpcpq2M34ow_wU6XjzJALT-aTAgf0w_K0&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1951ac92d25328356bbbdc9153141a5ed&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=2c075d3b033f46c4af96b9820adbe577&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2c075d3b033f46c4af96b9820adbe577"
+                                   },
+                                   {
+                                          "content_id": "134191214",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=134191214&geo=15074579&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=3&crank=4&clt=M&ttype=MobileCR&tm=261276806&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12qMizOYep82GEWvB-G9Drp71X9GW9K-M6HKJsA2Rz8ZH8HcWaOV_eF6JgfSTnkMcccATzCFuG0g7cnP1OAPvogOt3RemMTqH71-yD6OqWHxP3GYrpow58XJLJacIBQTWwc1HCRA6WQAGGlymrYzfijD_BTpePMkAtP5pMCB_TD8rQ&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1aa229333abc151d5342c82c0cbb0da01&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=467f057a7f1f442e90d66f1f6f912cbd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "467f057a7f1f442e90d66f1f6f912cbd"
+                                   },
+                                   {
+                                          "content_id": "136832416",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=136832416&geo=15074579&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276806&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdzRFvREMCSsg9Wdqs1MgBARiMShykcf-t_lImP_P3J01vrrE7URXj8dhkDI2A0feu250gd3LKlMIiy0H9ldQFO-2CQZ2ARFkfySzKWpr_oOz-6JextQUm70EFfO6Lm0XgDZOx72v5mgHQondIbjRxJn&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=136ebe6817f45247d2cbf2d1cfd5b2996&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=e827e1d3e6c242d38b1ba6147bed9132&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e827e1d3e6c242d38b1ba6147bed9132"
+                                   },
+                                   {
+                                          "content_id": "239352603",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=239352603&geo=15074579&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261276806&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1Ez9VJxqPr6Z93u26JbGRY3mUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vDCc1CccCNOW0ZPHmE8bqDIW89uvpAfwLXTP9IRB9qBAV3mBw6I857zEzChXszLrdTw6px9KWHDLR323JAym5b3z2gaUsriuQZXpis5-FhxSNNvAYkrP4IsjKeLFZJbGf&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1f5e5d24003b3a1f93de93bdcc4d54762&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=e6b9e5bad0544c3ebf17137bbed74e0a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e6b9e5bad0544c3ebf17137bbed74e0a"
+                                   },
+                                   {
+                                          "content_id": "134022254",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=134022254&geo=15074579&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261276806&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-pyT-RPwLeiqGOcZ5E_gTPRSWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzUSRehNxSosWZwK1hlbyqNwJKZkFeW8zl0GdXStO5t9PjRLZ6D9TzK48S4Q0PEWvr3z2gaUsriuQZXpis5-FhxSNNvAYkrP4IsjKeLFZJbGf&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1a103a653f3239c876d1a65fd203c0368&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=f9ad5d25fe69413db67d436c2aadd134&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f9ad5d25fe69413db67d436c2aadd134"
+                                   },
+                                   {
+                                          "content_id": "137855951",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=137855951&geo=15074579&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=18569&bucket=962380&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261276806&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01pR2ZZfKCRHlVy9SgZ9edqnVVp9ThBAkbWUFildH8G0HkTQHGWBHNR0O8qpNZseJLsKfb5-jcmar8dV0O6j8YetMoiK6znI-dOhgLTfwjCBjIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=19c1aaae92a972281e81c4024ea8dcdca&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=d1bc865b8c93437cbb5ba5533110d910&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d1bc865b8c93437cbb5ba5533110d910"
+                                   },
+                                   {
+                                          "content_id": "150264715",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150264715&geo=15074579&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958560&nrank=7&crank=9&clt=M&ttype=MobileCR&tm=261276806&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GrQXg35-ZEDG5rQKcppl8uE2mX1HYO_rIcJn6n79MaCGEcJAbqg1XgfRqZT2xKw52hmpHftFRTKxGY0ITBLW_Vx4-6fxbg7Izn64lADx8Qou7SAF7CqfJR5QxBLo4YQXYI6avnThTUAuakZOM3refWw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c38c5d9e-a21c-4025-8863-5b0cdfe24230&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=191ca55af3be7aee86000f13ddf85ec25&area=QC_META_API&ik=40fdd97eec4e4b5e9fb41a2982e99751&dated=true&aok=480e4ae1c45c489fac2f2936a5dcd31b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "480e4ae1c45c489fac2f2936a5dcd31b"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Accor Hotels.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "8ea27ee9-8255-4647-b3ee-fa7db982f5ef",
+                     "description": "IBIS PONTIANAK CITY CENTER Merupakan salah satu hotel dari Grup Accorhotels yang menetapkan standar baru terkait layanan, gaya, & Kenyamanan. Memiliki 182 kamar berdesain modern, tempat tidur yang nyaman dengan dilengkapi koneksi WIFI kecepatan tinggi*, TV LED 32 in, fasilitas pembuat kopi & teh, brankas, kamar mandi dengan pancuran dan pemandangan kota Pontianak. Terletak \u00b130menit dari Bandara Internasional Supadio, Ibis Pontianak City Center menawarkan lokasi yang strategis untuk Anda yang berbisnis ataupun berlibur , berdampingan dengan kompleks perbelanjaan terbesar Di Pontianak (Ayani Megamall) & Anda dapat menjelajahi tempat wisata seperti Museum KalBar, Rumah Betang, Masjid Raya Mujahidin, Gereja Katedral , dan masih banyak yang lainnya.",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g317101-d15074579-Reviews-Ibis_Pontianak_City_Center-Pontianak_West_Kalimantan_Kalimantan.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g317101-d15074579-Ibis_Pontianak_City_Center-Pontianak_West_Kalimantan_Kalimantan.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Pontianak",
+                                   "abbrv": null,
+                                   "location_id": "317101"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Kalimantan Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301799"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Kalimantan",
+                                   "abbrv": null,
+                                   "location_id": "294227"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Pontianak",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 561 8107888",
+                     "website": "https://www.accorhotels.com/gb/hotel-9654-ibis-pontianak-city-center-opening-september-2018/index.shtml",
+                     "email": "reservation@ibis-pontianak-citycenter.com",
+                     "address_obj": {
+                            "street1": "Jl. Jend. Ahmad Yani No. 81",
+                            "street2": "Parit Tokaya, Pontianak Selatan",
+                            "city": "Pontianak",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "78124"
+                     },
+                     "address": "Jl. Jend. Ahmad Yani No. 81 Parit Tokaya, Pontianak Selatan, Pontianak 78124 Indonesia",
+                     "local_name": "Hotel ibis Pontianak City Center",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Malay",
+                                   "name": "Bahasa Melayu"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "11",
+              "auction_key": "c8b407448a0b4f3d8892aec2643ab0a3",
+              "impression_key": "40fdd97eec4e4b5e9fb41a2982e99751",
+              "pricing": "base"
+       }
+}

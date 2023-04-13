@@ -1,0 +1,538 @@
+{
+       "data": [
+              {
+                     "location_id": "21336000",
+                     "name": "The Zuri Baturaja",
+                     "latitude": "-4.105214",
+                     "longitude": "104.17235",
+                     "num_reviews": "454",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Sukajadi, Sumatra Selatan, Sumatra",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/89/23/c8/the-zuri-baturaja.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/89/23/c8/the-zuri-baturaja.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1204",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/23/89/23/c8/the-zuri-baturaja.jpg",
+                                          "height": "1204"
+                                   },
+                                   "large": {
+                                          "width": "450",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/89/23/c8/the-zuri-baturaja.jpg",
+                                          "height": "450"
+                                   },
+                                   "medium": {
+                                          "width": "205",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/89/23/c8/the-zuri-baturaja.jpg",
+                                          "height": "205"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-05-26T00:51:02-0400",
+                            "caption": "",
+                            "id": "596190152",
+                            "helpful_votes": "0",
+                            "published_date": "2022-05-26T00:51:02-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/21336000?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.931473255157471",
+                     "ranking_geo": "Sukajadi",
+                     "ranking_geo_id": "21360477",
+                     "ranking_position": "1",
+                     "ranking_denominator": "4",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 4 hotel di Sukajadi",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0582.000 - Rp\u00a0657.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "215825476",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0541.847",
+                                          "display_price_int": "541847",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=215825476&geo=21336000&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=5&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277392&managed=false&capped=false&gosox=0f-YBuPPwq1X_PnVii3EAqhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOJW21Jvm3O_moyYYc4iKNzwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTmUOJZlI5HtNrdPmK9L_10IfwdaLk4X2Ys-guG25T_IQPdbhFrafbJMcJFuwv3EHC-vLKblTLHMbZAyoFt2HPBPx6Th_ytm_XC6-hIzCv26ogAcbSB2Ef4NwZuTEr2Z274pSlKxvWYtJgit5vvnS9dI&priceShown=541847&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=374&rate=541847.00&fees=113788.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_593938a3097735075dba61b06b1b9f33&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=86690897-d864-47a4-8469-ce7a49bf186e&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=16f2c08e5fd6e7aaba4265a88a0553fd0&area=QC_META_API&ik=d6325437d5be4057982839fee71a0bfb&dated=true&aok=720f11ea54d24d2da9dd33f780252210&tp=HR_MainCommerce",
+                                          "auction_offer_key": "720f11ea54d24d2da9dd33f780252210"
+                                   },
+                                   {
+                                          "content_id": "201965262",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0518.095",
+                                          "display_price_int": "518095",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=201965262&geo=21336000&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=5&silo=18569&bucket=962380&nrank=2&crank=3&clt=M&ttype=MobileCR&tm=261277392&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GjQxlM7ji2c3pF8syBAF8FlVPRZiN4jH0BGOj4xW9YqT6MX9OANXfEFmioh24rYevG_ImKaKRXrFd5hRW1hacQv0fkoqu35jjGD0ed9KaOrRzAOKtjVnbNqgWliis7pjFOunH70b-NSqsXonRcGZa-DCl3ee1w_47pdufSfe7KvnRvn1wmHy88sJX5_KMLWr7JPkTwwOewNczWT0zIi00URoUNWO2tEaO5dCLvrb2rMVLxRZlX4uJ0q7LwfD-5smSFz64PHtP56tff7Mh3oMKPg&priceShown=518095&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=215&rate=518095.00&fees=51810.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4d85be3ba7854a6be62ffac83f41b048&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=86690897-d864-47a4-8469-ce7a49bf186e&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f180434931a5b4bddb03ac4b34cb2787&area=QC_META_API&ik=d6325437d5be4057982839fee71a0bfb&dated=true&aok=fca1e4472b7342e09f8a1c7d50a447b1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "fca1e4472b7342e09f8a1c7d50a447b1"
+                                   },
+                                   {
+                                          "content_id": "197196830",
+                                          "provider_display_name": "Hotel Website",
+                                          "internal_provider_name": "FastbookingDL",
+                                          "logo": "https://static.tacdn.com/img2/langs/in/branding/hotels/official_site_logo.gif",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0486.022",
+                                          "display_price_int": "486022",
+                                          "strikethrough_price": "Rp\u00a0591.184",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FastbookingDL&src=197196830&geo=21336000&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=5&silo=14855&bucket=961148&nrank=4&crank=5&clt=M&ttype=MobileCR&tm=261277392&managed=true&capped=false&gosox=uZVseFPDwA4IeJu3E43dP5MAMq90-yUhJNbrQ7EWVaAkR0atMZohHim6M465yX-tM15LXXb33PSpjmvZgY-HOMNW59WkTPIpZk9tHHoaUeVAkjXlEg540MvSh8tvLJQ8A-Aagxi1sPuirJ2mjuxzKP3qyvPGCp_QZxSKSw_juIHi_UU2mhA28z-IeWvJHIlIzyrU9QSwFlETD2KgdOJZOvy3TBp6BAYaJGShoHasR4k-TwFzxKR6pPZbdpMSzK5C&priceShown=486022&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=486022.00&fees=102086.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=86690897-d864-47a4-8469-ce7a49bf186e&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=127332ba73509040ba007ea1e68c20fcd&area=QC_META_API&ik=d6325437d5be4057982839fee71a0bfb&dated=true&aok=fba195a7d7e44e809d848eeb522908d8&tp=HR_MainCommerce",
+                                          "auction_offer_key": "fba195a7d7e44e809d848eeb522908d8"
+                                   },
+                                   {
+                                          "content_id": "195651506",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0591.184",
+                                          "display_price_int": "591184",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=195651506&geo=21336000&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=5&silo=4322&bucket=932885&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277392&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p4N0gG5bNPtxBH315ID6LQvE34CQ_PamU09jveY4uuhnRh2nCSJdYqD-vw7cE88XtZrwB39uT9yrkoHfWsdUiwMyu2usx1Nw6kftv3jxAV0dk-3KOpoakKv5hB8ma0KvIlBtsrURKLsULnyLpTfgMPr2MN5L-D7VHseWtVHqofVbj91lxZmJzegiwmMW8kgAbfY7LxJNdZ9rGM5ujM-pFyWhfj7zpEzwVYbeptqpibNa8kUcjQLYsXf1MtZLEkPvM_3QNoKwfLJ56vPw7GNcMjE&priceShown=591184&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=705&rate=591184.00&fees=124148.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=86690897-d864-47a4-8469-ce7a49bf186e&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=17a3fac9abea375e79b8f52c55343085a&area=QC_META_API&ik=d6325437d5be4057982839fee71a0bfb&dated=true&aok=177cdd60d24c41e5b6f7f3261cce4b73&tp=HR_MainCommerce",
+                                          "auction_offer_key": "177cdd60d24c41e5b6f7f3261cce4b73"
+                                   },
+                                   {
+                                          "content_id": "196377037",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=196377037&geo=21336000&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=5&silo=6128&bucket=933282&nrank=3&crank=2&clt=M&ttype=MobileCR&tm=261277392&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH1xwqnJJGqUTBwH5zaQvFqp1Qs7_oS131Tu23vQIpV-4eynUDOLa9UECF0fml4506c8q1PUEsBZREw9ioHTiWTr8t0waegQGGiRkoaB2rEeJPk8Bc8SkeqT2W3aTEsyuQg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=86690897-d864-47a4-8469-ce7a49bf186e&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=12a6d31f10394933adfec17b9a9c21d05&area=QC_META_API&ik=d6325437d5be4057982839fee71a0bfb&dated=true&aok=451ecbb536de4706a2cfac10c24de7dd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "451ecbb536de4706a2cfac10c24de7dd"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "64c467b2-5d93-4d45-977c-4ec26d197f84",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g21360477-d21336000-Reviews-The_Zuri_Baturaja-Sukajadi_South_Sumatra_Sumatra.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g21360477-d21336000-The_Zuri_Baturaja-Sukajadi_South_Sumatra_Sumatra.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Sukajadi",
+                                   "abbrv": null,
+                                   "location_id": "21360477"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Sumatra Selatan",
+                                   "abbrv": null,
+                                   "location_id": "2301786"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Sumatra",
+                                   "abbrv": null,
+                                   "location_id": "294231"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Sukajadi",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 735 3741900",
+                     "website": "http://www.zhmhotels.com",
+                     "email": "reservation@thezuribaturaja.com",
+                     "address_obj": {
+                            "street1": "Jl. Dr. Sutomo 88",
+                            "street2": "",
+                            "city": "Sukajadi",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "32126"
+                     },
+                     "address": "Jl. Dr. Sutomo 88, Sukajadi 32126 Indonesia",
+                     "local_name": "The Zuri Baturaja",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Bar",
+                                   "name": "Bar Atap"
+                            },
+                            {
+                                   "key": "Rooftop Terrace",
+                                   "name": "Teras Atap"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Bridal Suite",
+                                   "name": "Suite Pengantin"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Extra Long Beds",
+                                   "name": "Tempat Tidur Panjang Tambahan"
+                            },
+                            {
+                                   "key": "Free Private Parking Nearby",
+                                   "name": "Parkir Pribadi Gratis Terdekat"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "Street Parking - Amenities",
+                                   "name": "Parkir Pinggir Jalan"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Bidet",
+                                   "name": "Bidet"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Electric Kettle",
+                                   "name": "Cerek Listrik"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Foot Bath",
+                                   "name": "Kolam Rendam Kaki"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Hand Massage",
+                                   "name": "Pijat Tangan"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Interconnected rooms available",
+                                   "name": "Tersedia kamar terhubung"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Kids' Meals",
+                                   "name": "Makanan Anak-Anak"
+                            },
+                            {
+                                   "key": "Kid-Friendly Buffet",
+                                   "name": "Prasmanan Ramah Anak"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Neck Massage",
+                                   "name": "Pijat Leher"
+                            },
+                            {
+                                   "key": "Outdoor Dining Area",
+                                   "name": "Area Makan Luar Ruangan"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "80",
+              "auction_key": "b1be9373d2d841278b2d9f5869064d49",
+              "impression_key": "d6325437d5be4057982839fee71a0bfb",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,528 @@
+{
+       "data": [
+              {
+                     "location_id": "8862178",
+                     "name": "Aleva Villa",
+                     "latitude": "-8.683262",
+                     "longitude": "115.17097",
+                     "num_reviews": "1490",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Seminyak, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/fa/8b/0d/aleva-villa.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/fa/8b/0d/aleva-villa.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2048",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/fa/8b/0d/aleva-villa.jpg",
+                                          "height": "1365"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/fa/8b/0d/aleva-villa.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/fa/8b/0d/aleva-villa.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2019-06-19T03:51:36-0400",
+                            "caption": "",
+                            "id": "402295565",
+                            "helpful_votes": "0",
+                            "published_date": "2019-06-19T03:51:36-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/8862178?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.885554790496826",
+                     "ranking_geo": "Seminyak",
+                     "ranking_geo_id": "469404",
+                     "ranking_position": "4",
+                     "ranking_denominator": "158",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 4 dari 158 hotel di Seminyak",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$",
+                     "price": "Rp\u00a01.896.000 - Rp\u00a03.313.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "131704708",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a01.574.305",
+                                          "display_price_int": "1574305",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=131704708&geo=8862178&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278997&managed=false&capped=false&gosox=pQsPz0M1SzHDWeteO8US42prTmIeft25FWx4aMIebi-QwYuhhXB_eA0IvvDmy2CvPbu7xK0O1vLub7JXstvJAEgaT_qNZjt_IN96resPesZL364Qzykq7n653R_iy_WPdg_NoLIq0DOYTmpIMq0t0sTw16K3ukW5P6uFJrKpo19SgMD4hwsiIJ_Zwy3QX5VWtDRUphklFjaKlLCkmWspYZ1Dg_iPfAMfyj5iKn1MbdpDZml5Ol2rYnpNnyrE8mX-b0GA7zww128v2BzXEfECtw&priceShown=1574305&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=1303&rate=1574305.07&fees=330782.63&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_1b4255385fb98fd732681d8d46a30ab6&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f5f7ebdac043829dac7ee399b246aea9&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=6260031ffb9f456ea8a7c0106bf9287b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6260031ffb9f456ea8a7c0106bf9287b"
+                                   },
+                                   {
+                                          "content_id": "77628086",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.574.617",
+                                          "display_price_int": "1574617",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=77628086&geo=8862178&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278997&managed=false&capped=false&gosox=aH98Z3klDNboOFYXW50BL6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateoIWk6IUv_DeVYYZrK4mDLgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTnC936_r0NL0zZ_EOM6oBpOZmce7rBN26_tMM14wE3gRxRUzsvynH7J2ptv5ruShkQkGkcFbqW4KtiZ4bCjOPwB7DXCEGqk1dFUczeAM6Q0JB5_vK6UJZEwlx8IiKXuaolscIMqU14rnzNBSk1MR8FE&priceShown=1574617&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=1305&rate=1574617.00&fees=330669.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_33e49669e113bdb13bb0c19fc67f7df&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1035c21e5d062a643161c76fe603f48bb&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=53916af6faa44daf933ed0444c766d2f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "53916af6faa44daf933ed0444c766d2f"
+                                   },
+                                   {
+                                          "content_id": "110219285",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.379.835",
+                                          "display_price_int": "1379835",
+                                          "strikethrough_price": "Rp\u00a01.785.868",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=110219285&geo=8862178&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=18569&bucket=962380&nrank=2&crank=3&clt=M&ttype=MobileCR&tm=261278997&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GlyWlticAluxX4RPy85qh9ttP8D3byVUXbGGRdQm2rZk-E1RKdvdi462UpAR9oe6QMw5APLm09IrucqEmuoPLws30KIYOu-zizAUn90BRBPTlBO-1E18tVUgpq0-vKAQHdqZuzMXp68ip9YsFEIFhLIAuu-h-ikVV7AriHBpyLbU_6TP4XNjEHrkLF3WE4dzy2qDzPQpMGlcEM2tKgkBzB7P2rlyZEXpdl697wqCpz8ADDabg7ndtAL6OX9YV1LJAClG1dj2pw6LBLJpFsSIKXM&priceShown=1379835&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=1379835.00&fees=289765.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_c62345ec84c560023c8ff1b39a97a58&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=15da46cfbb1b6a30f2e0c91a377243d32&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=34073b2cad974c67b803271a78bdf86b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "34073b2cad974c67b803271a78bdf86b"
+                                   },
+                                   {
+                                          "content_id": "77674158",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.785.868",
+                                          "display_price_int": "1785868",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=77674158&geo=8862178&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=8&crank=8&clt=M&ttype=MobileCR&tm=261278997&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcoSfCRoTc_0hsGkJZNXx2dxRh2nCSJdYqD-vw7cE88XtYdeWzgCYLWLMv42ttelvUUYYhN1R80Bjfzsf73EbnIuOckTb3wNyBgHhV9GC_EZtHVJBh3vV6a0x_yF8E7MYub0myGpEjRo6UQJi9RIoNjyUjRWS03EWnls7CKqrNsc_zbLFwpYYPBNNlxrIL3xxI5_LMEzICWvCnq9NkRWaBDkHLiJHoEYe1t5TD02b9bmzHAOy7-dtezCVANtx7tBBfM&priceShown=1785868&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2720&rate=1785868.00&fees=382685.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1561128f79a5085a7bab4e2251c8fe64f&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=d1808297feb44bef9913187af71444b2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d1808297feb44bef9913187af71444b2"
+                                   },
+                                   {
+                                          "content_id": "174630821",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.379.835",
+                                          "display_price_int": "1379835",
+                                          "strikethrough_price": "Rp\u00a01.785.868",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174630821&geo=8862178&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261278997&managed=false&capped=false&gosox=UXAXN_74h6gyJ0znn-ukjO83zrtje4oVNwJths0bYOkp5AEVhzyfxCiyvx1S1mZCAwys6otbR-kA8QBJhkHjJIjnm7sPut4Q5ZH3WybcPN3PdjyA3Qbhzc8juDLJ_h9s6XEqfZAhSb4hebNKVHzaw5kBrjPn9YO6rR94vaIpzvpWUgBfr8Pv7skgOFvaKgs2rxXeAe7TLMcGPnrZAZ2iqcDGYiPCJ6b55xM5rXv6Ywld4ByxPDzNtKeQR0e4Dvw9JWaKzCR_qHI9IlI5Kz5Xbg&priceShown=1379835&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=1379835.00&fees=289765.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_60f48d24f4cd690112f98784704d6f1b&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=16e1f72c3d8272fbcbf3a30e9cb957504&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=f990151ea3db4668a652382fc537fb8c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f990151ea3db4668a652382fc537fb8c"
+                                   },
+                                   {
+                                          "content_id": "230677304",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.379.835",
+                                          "display_price_int": "1379835",
+                                          "strikethrough_price": "Rp\u00a01.785.868",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=230677304&geo=8862178&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=44859&bucket=973414&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261278997&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa7aenO18KttvLSLKY0zWlBD38SZO4NNy8zH8nS89rDKWFEWvMFBVv0zLhshYabVz19GNV6EhUoLqFKQAWRBECw6JUGwgou0P7ZxKmr7y_Ds35-iaTniu0zlpXfeFo5FT7_Wnrf70EA-T1vBvsJLK0gNytP5eTspbBFcd0ZL64lRgZyI1cZdouTJJbdXiJv-JG2wfRzgRIifGOZY3koiBMcxliFnQVcjFhmI0kdJXprbJA&priceShown=1379835&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=1379835.00&fees=289765.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_299d938bbca541a952c170ff6e4bcce7&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1a07bb34dfd82050891673055d1a9d72e&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=37a8ce6fc811466b8db2ac0b74cea338&tp=HR_MainCommerce",
+                                          "auction_offer_key": "37a8ce6fc811466b8db2ac0b74cea338"
+                                   },
+                                   {
+                                          "content_id": "78556559",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=78556559&geo=8862178&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261278997&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12r5zy3Dxy8TGsFfJrV39har1X9GW9K-M6HKJsA2Rz8ZH5kBhFKNkKk3bmR3qYo_Gqt1Qs7_oS131Tu23vQIpV-4XTpwLmmlAaZX9n9dF6GgUODYyTWipLaNytLBGwnQpBJZzyJHD_uvQuQjVgpTYBesxZOGIMEaFXmJ9GGpGLC4jw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=19a3032564f89fef06f9478c0ffa704d8&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=6928a557d9b0443290d81d5a979a8138&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6928a557d9b0443290d81d5a979a8138"
+                                   },
+                                   {
+                                          "content_id": "131784491",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=131784491&geo=8862178&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261278997&managed=true&capped=false&gosox=J_PaunglF1QXQbGgkW-sHh8dfCntpDudEDSOoyR8ns_OYD1oPsGqmvAS9PIkTV2T1X9GW9K-M6HKJsA2Rz8ZH4IIHjq3GPUIYjoxAODYIzn-_nL4k-L1c7Iwu7C9JNZ3ZLKuZlECoDlc4e45H17C9EqpnGWiZXAkNcq7BRCZzZA-expySNIREg8h8L9YRMi0&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=193192edfa92d8a65ae67018bd96b655e&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=c7f018f7b3a54e499e3e76f74908a458&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c7f018f7b3a54e499e3e76f74908a458"
+                                   },
+                                   {
+                                          "content_id": "119942850",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119942850&geo=8862178&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958557&nrank=8&crank=9&clt=M&ttype=MobileCR&tm=261278997&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3Gmxs4lL9XRkcQ0YJFlf4SCJFW56ZaNfqyCZ36Q8HTA-tw30_ELkC0pCOVS5z9rT3GRmpHftFRTKxGY0ITBLW_VwdXzCmJjCOWqAHfrx-AHmBXsVPXwwRfxEPX-PSS0zOJ2WLSdhHgHdM_4UIgd5E0J0&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2712ad6b-b269-45a6-8210-c7631f64e845&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1bd6c1797ae39f1adb45ce3c5432d7b84&area=QC_META_API&ik=9d4e909adca74c6286e3c4061032677b&dated=true&aok=8ae08bad666647a3812cdb08e7614ce7&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8ae08bad666647a3812cdb08e7614ce7"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "5b6e0f0c-fccc-4089-ad06-b4bae7ea2f65",
+                     "description": "Jika anda mencari suasana b & b romantis di Seminyak, coba lihat Aleva Villa.\nWi-fi gratis ditawarkan untuk para tamu, dan kamar di Aleva Villa memiliki tv layar datar, dapur kecil, dan penyejuk udara.\nSelama Anda menginap, gunakan fasilitas yang ditawarkan, seperti layanan kamar. Tamu Aleva Villa juga dapat menikmati kolam renang dan sarapan di properti. Untuk tamu yang mengemudi, parkir gratis tersedia.\nSaat mengunjungi Seminyak, Anda sebaiknya mencoba makan falafel di salah satu restoran terdekat, seperti Shelter Bali, Earth Cafe & Market Seminyak, atau Zula Vegetarian Paradise.\nIngin menelusuri? Berkunjunglah ke Purpa Fine Art Gallery dan Galeri Buddha, yang merupakan museum kesenian terpopuler di Seminyak \u2013 semua terletak berdekatan dengan b & b.\nPara staff di Aleva Villa tak sabar untuk melayani Anda saat Anda berkunjung kesana.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g469404-d8862178-Reviews-Aleva_Villa-Seminyak_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g469404-d8862178-Aleva_Villa-Seminyak_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Seminyak",
+                                   "abbrv": null,
+                                   "location_id": "469404"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Seminyak",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+623614741652",
+                     "website": "http://www.alevavilla.com",
+                     "email": "info@alevavilla.com",
+                     "address_obj": {
+                            "street1": "Jalan Dewi Saraswati No 8",
+                            "street2": "",
+                            "city": "Seminyak",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jalan Dewi Saraswati No 8, Seminyak 80361 Indonesia",
+                     "local_name": "Aleva Villa",
+                     "local_address": "Jalan Dewi Saraswati No 8, 80361",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "kitchenette",
+                                   "name": "Dapur kecil"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Dining Area",
+                                   "name": "Area Makan"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "Pool View",
+                                   "name": "Pemandangan Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            },
+                            {
+                                   "key": "Sofa Bed",
+                                   "name": "Tempat Tidur Sofa"
+                            },
+                            {
+                                   "key": "Sun Deck",
+                                   "name": "Beranda Terbuka"
+                            },
+                            {
+                                   "key": "Umbrella",
+                                   "name": "Payung"
+                            },
+                            {
+                                   "key": "Walk-in Shower",
+                                   "name": "Shower Berdiri"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "78",
+              "auction_key": "1328d4c9caa34bc1acc294a09b2721d6",
+              "impression_key": "9d4e909adca74c6286e3c4061032677b",
+              "pricing": "base"
+       }
+}

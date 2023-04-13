@@ -1,0 +1,461 @@
+{
+       "data": [
+              {
+                     "location_id": "5427067",
+                     "name": "Hotel ZIA Bali \u2013 Kuta",
+                     "latitude": "-8.723542",
+                     "longitude": "115.17292",
+                     "num_reviews": "733",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Kuta, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/38/d2/12/hotel-zia-bali-kuta.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/38/d2/12/hotel-zia-bali-kuta.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1980",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/38/d2/12/hotel-zia-bali-kuta.jpg",
+                                          "height": "1320"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/38/d2/12/hotel-zia-bali-kuta.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/38/d2/12/hotel-zia-bali-kuta.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2019-09-12T23:15:52-0400",
+                            "caption": "",
+                            "id": "423154194",
+                            "helpful_votes": "0",
+                            "published_date": "2019-09-12T23:15:52-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/5427067?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.786403179168701",
+                     "ranking_geo": "Kuta",
+                     "ranking_geo_id": "297697",
+                     "ranking_position": "4",
+                     "ranking_denominator": "383",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 4 dari 383 hotel di Kuta",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0269.000 - Rp\u00a0388.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "74393331",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=74393331&geo=5427067&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=8&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278198&managed=false&capped=false&gosox=Jocx2wPBxPGucJKO55tbmGprTmIeft25FWx4aMIebi-kU6R9fHw1FToqkvkASErNj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_9OH_efazvTd-vlDGnVEzLNpl9R2Dv6yHCZ-p-_TGghhIjOHFQ8vQf0IM5b8Xxv4NGbSYvaT-DadHF3dswKvQebVXOFLRTw-G5b7KpuVct39fKTCvc5Zm8cHdDh736ZOIkKTompLNeKrG0dnOPz6l0&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=174719ef3bc794994822e31accf19f057&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=16179046387246bcafc56e3720e4bc4c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "16179046387246bcafc56e3720e4bc4c"
+                                   },
+                                   {
+                                          "content_id": "177500392",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=177500392&geo=5427067&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=8&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278198&managed=false&capped=false&gosox=vXi6b6tJP98Ks0fGFAPPA6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewatecapBHhN1fQ21l1rcNqPwVgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTgIqBCGsB6TnwHCk_Ex4RhdhSUtvTgchD_X9Gafcxd7UR8AnWdA2cP5eQp7nmjVUCrnQkhOgLMnLZxNSfKwp0V5-2DVZNcoQLSCajsgb5T-n901VjPZX-ykGTU_8l1QHkwB226eVSo_Jfh5K5drWWeM&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=17ad9b9b882d87232273712874e402f87&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=4ff201ccae0e45f2acd18cab6fd7ef9b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4ff201ccae0e45f2acd18cab6fd7ef9b"
+                                   },
+                                   {
+                                          "content_id": "55091830",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=55091830&geo=5427067&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=8&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278198&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12rHor3ScbvLTuxikP6anMDV1X9GW9K-M6HKJsA2Rz8ZH5gfrjom63_vCqUd4SGFYBpeZ_hkoAfSE9Vq_B92yKHf5AHfVq-lIUWAaBj8S7xc1JF5SASxS3NgsTVrsfbgR8nx8fq7EiLCX3e-v56j6zzz9buaFeMnaLMmM61Z-M5uKQ&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=139f246b4f48af9d4db95e753b737900e&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=baa22dcfb20148978c889b4cb8f4a581&tp=HR_MainCommerce",
+                                          "auction_offer_key": "baa22dcfb20148978c889b4cb8f4a581"
+                                   },
+                                   {
+                                          "content_id": "176945690",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=176945690&geo=5427067&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=8&silo=40643&bucket=944550&nrank=3&crank=4&clt=M&ttype=MobileCR&tm=261278198&managed=false&capped=false&gosox=p9NEpElxCEWyonM4pLGfqtB9Nk-3dZvv4uHo-0rPhISgpx93gr8vlTHAqjkimAAHaRAGEEO-YzknBuaF_jagLeMP4Q9egshXVQ1btEvzBhB_zgIzYKvbNCOzBfupR8sc5He3oc5A-w_vyNQ7lhmWjzUJej9_W4DktyjLGTgxYWlCu20iXQqXJE9-9sp3uCrEtDRUphklFjaKlLCkmWspYSQx3eXeuBJJ139c2r-BBxwQ8nmAQ26LpzLBY5CUSeSGUeU4BBS7JdkKbLGFOgHKeg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f94003352eba9d2b4152dabdd7f4a123&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=888dfeb0347843828ca4b5d308692bc2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "888dfeb0347843828ca4b5d308692bc2"
+                                   },
+                                   {
+                                          "content_id": "74444436",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=74444436&geo=5427067&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=8&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261278198&managed=true&capped=false&gosox=OQL-nQi08WphSXd0W_XaOnJm4ZnrC-rIfr4-dN96LcbXCghBtQed-lEeLosXOVxSRVuemWjX6sgmd-kPB0wPrVxQ1axBBQgKbEg7yzEktu4ZqR37RUUysRmNCEwS1v1cjv1C6zQ9XNkJ3NZWf-wfchoE2rglrkyfsUk7w46xsVaoqumVbkEba1BKKzEpHEeW&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=157ee04427231f64f313035f09bb40182&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=bf811b51494b44c1904a39b45dad4d3c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "bf811b51494b44c1904a39b45dad4d3c"
+                                   },
+                                   {
+                                          "content_id": "218659652",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218659652&geo=5427067&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=8&silo=44859&bucket=973414&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261278198&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa4-xBRmYz2g8PsG3dKM9LU3bx1YnJ7Mr-CcWtPr1zhqsBDriX-POzLRg51JvuiKcy-tQd7EEWye1YByc7Lq0eWpzqaMff7uR7hbwwaeWgATJVUcOs5a--qi5zszvDp8t4i48NlnlwFIsK3_ziFR1PYEOK2RkNUMXvaprvvl18qfK5F5SASxS3NgsTVrsfbgR8nx8fq7EiLCX3e-v56j6zzz9buaFeMnaLMmM61Z-M5uKQ&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=10a5b14d5fa8592b29cfe361a397cb5f6&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=de155be4a5914b3a8701dee5d73bfaaf&tp=HR_MainCommerce",
+                                          "auction_offer_key": "de155be4a5914b3a8701dee5d73bfaaf"
+                                   },
+                                   {
+                                          "content_id": "54638000",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=54638000&geo=5427067&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=8&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261278198&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-pyT-RPwLeiqGOcZ5E_gTPRSWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzQgLArf3TR4TiThI0535yUqwq1nE4ebnPhlaslg0t6ldmpiBNZH5CF0kytLiio3B714NCAIQM5a5LtENxflu9deI4jpWbbhnhdeYFUDKxuJ7&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=15b92d2fddbb7c84f8b9b9dcd7dde17d7&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=d38d454bcb404ec98525e6e3d58df989&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d38d454bcb404ec98525e6e3d58df989"
+                                   },
+                                   {
+                                          "content_id": "79222371",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79222371&geo=5427067&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=8&silo=18569&bucket=962380&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261278198&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01prhPh77iivbpvmye0Rg0eLC24m-0YkUB59mznrUQzgQ3fvFC-XE5cMMYW-D-dNEI31fL8XQDbAmIMjDaL_ayKW5AMWHWGL-2sjxpML1PATRIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=c757bf39-8bd7-42d6-9319-8caf7174e647&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=140d516735793e276599d2c4483403031&area=QC_META_API&ik=780d8c87aa944daea2241c96f44091e2&dated=true&aok=b1f616929d1044b784a1d992c1c9fda7&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b1f616929d1044b784a1d992c1c9fda7"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "b48b925d-1bf3-4a85-a675-cbf6d755d9a2",
+                     "description": "Hotel ZIA Bali \u2013 Kuta merupakan pilihan yang tepat ketika mengunjungi Kuta, karena menawarkan suasana yang sesuai untuk keluarga ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nKarena berdekatan dengan beberapa tempat terkenal, seperti Kuta Square (0,2 km) dan Monumen Ground Zero (0,6 km), para tamu Hotel ZIA Bali \u2013 Kuta dapat mengunjungi beberapa lokasi populer di Kuta.\nAnda akan menikmati kenyamanan kamar yang menawarkan tv layar datar dan penyejuk udara, dan anda dapat tetap menggunakan internet pada saat menginap karena Hotel ZIA Bali \u2013 Kuta menawarkan wi-fi gratis.\nHotel menawarkan resepsionis 24 jam, layanan concierge, dan koran. Dan, Hotel ZIA Bali \u2013 Kuta juga menyediakan kolam renang atap dan sarapan, untuk memulihkan diri dari hari yang sibuk. Untuk tamu yang mengemudi, parkir gratis tersedia.\nPada saat di Kuta jangan lupa mencicipi burrito yang menjadi menu favorit di Havana Club, Stadium Cafe Kuta, atau Warung MAX!.\nJika tertarik menelusuri Kuta, jangan lupa untuk melihat salah satu galeri seni, seperti Wake Bali Art Market, Central Wave Painting, dan Ikat Gallery.\nNikmati masa menginap Anda di Kuta!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297697-d5427067-Reviews-Hotel_ZIA_Bali_Kuta-Kuta_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297697-d5427067-Hotel_ZIA_Bali_Kuta-Kuta_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Kuta",
+                                   "abbrv": null,
+                                   "location_id": "297697"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Kuta",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 758811",
+                     "website": "http://hotelszia.com/home/101000004",
+                     "email": "rsv@ziakutahotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Ciung Wanara no. 17 Br Tegal",
+                            "street2": "",
+                            "city": "Kuta",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Ciung Wanara no. 17 Br Tegal, Kuta 80361 Indonesia",
+                     "local_name": "Hotel ZIA Bali \u2013 Kuta",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Bar",
+                                   "name": "Bar Atap"
+                            },
+                            {
+                                   "key": "Swimup Bar",
+                                   "name": "Bar Kolam Renang"
+                            },
+                            {
+                                   "key": "Rooftop Pool",
+                                   "name": "Kolam Renang Atap"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Newspaper",
+                                   "name": "Koran"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "1e3e641b01a34fb1bbd6d44a6cf4b76e",
+              "impression_key": "780d8c87aa944daea2241c96f44091e2",
+              "pricing": "base"
+       }
+}

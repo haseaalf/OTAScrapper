@@ -1,0 +1,529 @@
+{
+       "data": [
+              {
+                     "location_id": "12551181",
+                     "name": "Moxy Bandung",
+                     "latitude": "-6.900411",
+                     "longitude": "107.61207",
+                     "num_reviews": "243",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Bandung, Jawa Barat, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/48/1d/52/exterior.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/48/1d/52/exterior.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "4000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/48/1d/52/exterior.jpg",
+                                          "height": "2667"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/48/1d/52/exterior.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/48/1d/52/exterior.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-12-10T19:46:14-0500",
+                            "caption": "Exterior",
+                            "id": "659037522",
+                            "helpful_votes": "0",
+                            "published_date": "2022-12-10T19:46:14-0500",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/12551181?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.480965614318848",
+                     "ranking_geo": "Bandung",
+                     "ranking_geo_id": "297704",
+                     "ranking_position": "50",
+                     "ranking_denominator": "674",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 50 dari 674 hotel di Bandung",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "open_now_text": "Sekarang Buka",
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0687.000 - Rp\u00a01.104.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "115384948",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0644.000",
+                                          "display_price_int": "644000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=115384948&geo=12551181&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=5091&bucket=897544&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276423&managed=false&capped=false&gosox=EQnhGOsPsFhC88JFjxRmlqhrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGBl5vPWrzLeacaNsJK5h1lQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqThrYdHZ0JjoKHnnU7KB-MImiuvP9SyO8zjNRttSACvM3m4HrZA60vDJeE_AOyRx_3XWRkm45KJYSGWUG_xX_rMzpP5owFJRna0c50uxyeAOOedzT6ZviwRZIIJhTXViFWleg5jWloO-3ASnqU_NfqMk&priceShown=644000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=644000.00&fees=135240.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_586879ffbcbc5f206d1fa69294c5f6f4&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=12433f4c3cfa4f3e8470781ef86fb57a2&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=389378ab545c45c18e024b5ec46f6dba&tp=HR_MainCommerce",
+                                          "auction_offer_key": "389378ab545c45c18e024b5ec46f6dba"
+                                   },
+                                   {
+                                          "content_id": "124715242",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0644.000",
+                                          "display_price_int": "644000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=124715242&geo=12551181&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261276423&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcqjlmKQ76Hir-qIVu5L2KegstmSpb5BLvVV1D18olkTZvRlCf_wQbTZaYpfIu7U6KD0e52SaCy5V8kq0XwXCfsqHzUaF-xefviYVjFrK0b6ikKJIfT8CnDve3hGusY9urC84r6JfTB68FoDiX04IACvho87OWWR6cugWXtAnEZsqcbZnJvdrwA8HMTdRJ5alffMCQ4qL3btydj5_oCrFjGr1epjgWm3n3u3y5R7TbvaSJrUGsLLA-t0-5PC6uVpv_g&priceShown=644000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=644000.00&fees=135241.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=19542e67267ea3580780c60b6bc6123e5&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=86f745e4f3c14f2a9c205e774385e085&tp=HR_MainCommerce",
+                                          "auction_offer_key": "86f745e4f3c14f2a9c205e774385e085"
+                                   },
+                                   {
+                                          "content_id": "112539986",
+                                          "provider_display_name": "Moxy Hotels",
+                                          "internal_provider_name": "Marriott1",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Moxy.png",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Marriott1&src=112539986&geo=12551181&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=31871&bucket=900318&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276423&managed=false&capped=false&gosox=APUc7UlyD3IHurvTUiim-AxOGIc_ni3kH2hnQZUqC2G_xyH7vV_xaqB1d6yj3B2vBFB64AfWPFD7sHJ58tD5AASmruh_N0BefSLxLhx2kVFCL70ENoKMUPFneWoJra14AYOKno1fYEpp39ZU1SceAeE3e8Vv_Ui2SOeUEUpx8sQ8_pl4W_W1jZSMudvEfE-vlCeBSr8IDu-Hbw5xbrNKx6kEmFpgTRscJrpIfxg1JIsbVsheuWm5bmx8hqotAI2K&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1e57159e261fe3a4e63d1aabdaf9c5824&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=82f7da03852f486a9e36ec55abe61a1b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "82f7da03852f486a9e36ec55abe61a1b"
+                                   },
+                                   {
+                                          "content_id": "130134344",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=130134344&geo=12551181&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276423&managed=false&capped=false&gosox=AeL1WpvbJVN8388az49kaGprTmIeft25FWx4aMIebi-MsxCwwsgbCQp0ZIjJqC3Hj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn-pXYM-gCdpwzYIZ_gDRzdPNpl9R2Dv6yHCZ-p-_TGghv-pEjQirpJrR1Caal7CwECxW83uin7yPqoDSl1TPtzWlCeBSr8IDu-Hbw5xbrNKx6kEmFpgTRscJrpIfxg1JIsbVsheuWm5bmx8hqotAI2K&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1880e112e12ab830f421280cf5e607bcc&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=e9bc103b3c4f45f7a7086761833aebed&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e9bc103b3c4f45f7a7086761833aebed"
+                                   },
+                                   {
+                                          "content_id": "122803678",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=122803678&geo=12551181&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276423&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12o9ztEBYHcCqRvRneCnGB8C1X9GW9K-M6HKJsA2Rz8ZH4C4W51WLo1TEkCI0jOUDhEo3RBBmQRyozaDfn1st1jy1vafKsU-rbt0ey7r65ngOcwJDiovdu3J2Pn-gKsWMavV6mOBabefe7fLlHtNu9pImtQawssD63T7k8Lq5Wm_-A&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1ff6f8af24c716cfec3fe4d5515038d5a&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=4a2436e01a04449382c236a871232fe1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4a2436e01a04449382c236a871232fe1"
+                                   },
+                                   {
+                                          "content_id": "130242938",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=130242938&geo=12551181&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276423&managed=true&capped=false&gosox=lNLPeUePO28vmy7KE57CZ7rAd4VPsDXOZsv86JnOG01sbOJS_V0ZHENGCRZX-EgiRVuemWjX6sgmd-kPB0wPrUrOsIGnl-ZakRuNegoXIWqKv9k3_z2HxhUZNfFuthCoZGixWVz1na98JdCphiy4BGYRNJR5IHzXUeKWExLvziSZjLWRx_LZjtMv4H1TNajI&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1244ff9aa13b86d4fe86c68ea16416e90&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=847208a877dc49d7a2f400c04edc17a5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "847208a877dc49d7a2f400c04edc17a5"
+                                   },
+                                   {
+                                          "content_id": "174628756",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174628756&geo=12551181&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261276423&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1Ez9VJxqPr6Z93u26JbGRY3mUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vhBD8L5igZwMWSTS-shbnpOJBGrRYfUL8BlIydX01Y7icN3zfGOdpNm-9hYqOFutZjjwYrUz7EPlxOkiRU6AnXOwu3momql2vGEYytOm1FrrxhO2zjAolcPRGq8WhG3FCIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=11c9f4ca69b250b3b70c0025cfaf695e4&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=52308a0b0f9c4005ba0d68164ddb4fdf&tp=HR_MainCommerce",
+                                          "auction_offer_key": "52308a0b0f9c4005ba0d68164ddb4fdf"
+                                   },
+                                   {
+                                          "content_id": "132692620",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=132692620&geo=12551181&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=18569&bucket=962380&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261276423&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01pV4gfuwnYcA5BVkST7LlgE3pG4ZROLAJ4rEAiDGRYvOul8GoPThnTE4SDdysUculuwu3momql2vGEYytOm1FrrxhO2zjAolcPRGq8WhG3FCIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=10050aff1de930f6e31cd225443cc9464&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=0a1d4158326b4e838f355b3a934f54ff&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0a1d4158326b4e838f355b3a934f54ff"
+                                   },
+                                   {
+                                          "content_id": "150139857",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150139857&geo=12551181&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958560&nrank=7&crank=9&clt=M&ttype=MobileCR&tm=261276423&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3Gmxs4lL9XRkcQ0YJFlf4SCJFW56ZaNfqyCZ36Q8HTA-tTcQMmYFSkDO62j0nJ6kcxIq_2Tf_PYfGFRk18W62EKhkaLFZXPWdr3wl0KmGLLgEZhE0lHkgfNdR4pYTEu_OJJmMtZHH8tmO0y_gfVM1qMg&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35381614-793f-4f1a-a83e-4de0bfb0660d&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=18558d62ee9e656f63438e3f6ba1f3064&area=QC_META_API&ik=e68d108631be4db793013f709023140a&dated=true&aok=a48d7f7f5de64338ab876663319cf099&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a48d7f7f5de64338ab876663319cf099"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": [
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=183963922&geo=12551181&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261276424&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZk9jHOpNWLkm6TMqjgiSnAepujORSqHiQEJEeKW_K2sc&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&dated=true&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=1&cs=177a65818e4f607e4c60ce2c5b6f9a0d3",
+                                          "label": "Situs Web hotel",
+                                          "type": "url"
+                                   },
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=183963922&geo=12551181&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CDM&ttype=CLDealsMobile&tm=261276424&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZNqiliuKEheSAjgTY_-NDKfKu9xrz7u2VSjCns15aNUg&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&dated=true&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=2&cs=17e71a58da00235d6668a66d209d37729",
+                                          "label": "Penawaran hotel",
+                                          "type": "url_deals"
+                                   },
+                                   {
+                                          "value": "+1 844-631-0595",
+                                          "label": "Nomor telepon",
+                                          "type": "phone",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=183963922&geo=12551181&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=CLTM&tm=261276424&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQg9069XeqNbe6ldW7kxuaE9vQmIXefyKIPuCZAuqPtSd_KRiIu16pQgl7ynE9qh5g&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=3&cs=11b68abef429b874527fc03100291f48a"
+                                   }
+                            ]
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": [
+                                   {
+                                          "headline": "Penawaran paket",
+                                          "url": "https://www.tripadvisor.co.id/ShowSpecialOffer-a_d.12551181-a_offer.9595215-a_trafficSource.ba?adults=2&child_rm_ages=&inDay=13&inMonth=4&inYear=2023&outDay=14&outMonth=4&outYear=2023&rooms=1",
+                                          "offerless_click_tracking_url": "https://www.tripadvisor.co.id/Commerce?p=Marriott_BA&src=183963922&geo=12551181&from=api&area=OID:9595215%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&ubucket=934870&nrank=1&crank=1&clt=SOIM&tm=261276424&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkQg9069XeqNbe6ldW7kxuaGBsiYok4B3qk9rkm8qWMgrfbdo1Nv32BE2VT4EsDNlPA&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&cs=11e48bb08db8ad92e78c84b9fed07c5e0",
+                                          "coupon_id": null,
+                                          "coupon_type": "PACKAGE",
+                                          "bl_language": null,
+                                          "description": "",
+                                          "valid_start_date": "2022-12-01T00:00:00-05:00",
+                                          "valid_end_date": "2023-11-30T00:00:00-05:00",
+                                          "valid_days": "Penawaran berlaku untuk hari berikut: .",
+                                          "taxes": null
+                                   }
+                            ]
+                     },
+                     "listing_key": "0c6724bb-84b6-4be8-ab64-49970277fb98",
+                     "description": "Moxy Bandung adalah pilihan tepat untuk wisatawan yang mengunjungi Bandung, karena menawarkan suasana yang romantis ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nWi-fi gratis ditawarkan untuk para tamu, dan kamar di Moxy Bandung memiliki penyejuk udara.\nSelama Anda menginap, gunakan fasilitas yang ditawarkan, seperti layanan kamar. Tamu Moxy Bandung juga dapat menikmati pusat kebugaran dan sarapan di properti. Untuk tamu yang mengemudi, parkir gratis tersedia.\nTempat terkenal terdekat seperti Masjid Salman ITB (0,7 km) dan Taman Balai Kota Bandung (1,5 km) membuat Moxy Bandung tempat terbaik untuk menginap selama mengunjungi Bandung.\nPengunjung yang ingin makan steamboat dapat menuju ke Gading Chinese Food Restaurant. Atau mungkin Anda ingin mencicipi selera asia such as Warung Setiabudi (Surabi Enhaii), Hummingbird Eatery, atau Batagor Kingsley.\nSelama berkunjung, jangan lupa untuk melihat tempat menarik yang populer seperti Jalan Braga (1,6 km), Museum Geologi (0,9 km), dan Gedung Sate (0,7 km), karena jaraknya berdekatan dengan hotel.\nNikmati masa menginap Anda di Bandung!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297704-d12551181-Reviews-Moxy_Bandung-Bandung_West_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297704-d12551181-Moxy_Bandung-Bandung_West_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Bandung",
+                                   "abbrv": null,
+                                   "location_id": "297704"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301792"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Bandung",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+18446310595",
+                     "website": "https://www.marriott.com/en-us/hotels/bdoox-moxy-bandung/overview/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe&y_source=1_Mzk4ODQ5My03NjktbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                     "address_obj": {
+                            "street1": "Jl. Ir H. Djuanda no. 69",
+                            "street2": "",
+                            "city": "Bandung",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "40116"
+                     },
+                     "address": "Jl. Ir H. Djuanda no. 69, Bandung 40116 Indonesia",
+                     "local_name": "Moxy Bandung",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Bar",
+                                   "name": "Bar Atap"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "ATM On Site",
+                                   "name": "ATM di Lokasi"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Board Games / Puzzles",
+                                   "name": "Permainan Papan/Puzzle"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            },
+                            {
+                                   "key": "First Aid Kit",
+                                   "name": "Perlengkapan Pertolongan Pertama"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Game Room",
+                                   "name": "Ruang Permainan"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "On-Demand Movies",
+                                   "name": "Film Sesuai Permintaan"
+                            },
+                            {
+                                   "key": "Radio",
+                                   "name": "Radio"
+                            },
+                            {
+                                   "key": "Shared Lounge / TV Area",
+                                   "name": "Ruang Duduk/Area TV Bersama"
+                            }
+                     ],
+                     "owner_website": "/Commerce?p=Marriott_BA&src=183963922&geo=12551181&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261276424&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZk9jHOpNWLkm6TMqjgiSnAepujORSqHiQEJEeKW_K2sc&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&dated=true&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=1&cs=177a65818e4f607e4c60ce2c5b6f9a0d3"
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "33",
+              "auction_key": "7cb97a4ef2024c40863d180670e1486e",
+              "impression_key": "e68d108631be4db793013f709023140a",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,538 @@
+{
+       "data": [
+              {
+                     "location_id": "13141481",
+                     "name": "Kyriad Muraya Hotel Aceh",
+                     "latitude": "5.556437",
+                     "longitude": "95.32234",
+                     "num_reviews": "364",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Banda Aceh, Aceh, Sumatra",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/ff/48/b5/al-hambra-restaurant.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/ff/48/b5/al-hambra-restaurant.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1023",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/ff/48/b5/al-hambra-restaurant.jpg",
+                                          "height": "682"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/ff/48/b5/al-hambra-restaurant.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/ff/48/b5/al-hambra-restaurant.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-07-28T11:24:20-0400",
+                            "caption": "Al Hambra Restaurant",
+                            "id": "620710069",
+                            "helpful_votes": "0",
+                            "published_date": "2022-07-28T11:24:20-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/13141481?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.794593811035156",
+                     "ranking_geo": "Banda Aceh",
+                     "ranking_geo_id": "317109",
+                     "ranking_position": "1",
+                     "ranking_denominator": "61",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 61 hotel di Banda Aceh",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0687.000 - Rp\u00a0925.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "153177276",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0636.657",
+                                          "display_price_int": "636657",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=153177276&geo=13141481&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=8&silo=18569&bucket=962380&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276498&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0Gqlb5w_5cn-lB0bkJuoG2FYZtns4zLCYFJlEo6iUSrVG6MX9OANXfEFmioh24rYevNsRbQW4_d3jDRdkB6JOOuRNlgWqhoZE4Z4riti3SDryARhQ-FLkkVM0uUjFpb7Inyc6j38S5XDAgITCnyXiYm-rv5cf9usoytfAbtJSEK4YIJpd7jY_iAuVXzRNlT4jSFokqWuemoPTe3q4lnirp1zU_yGm99b3CnO9KsxH4DrAiUXAMkWu6SEtZ_0UFwrd5Csx3pwXtkyo6dKMf9SaB7g&priceShown=636657&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=183&rate=636657.00&fees=133698.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_24e16b15bc878b83938b544c90de61a8&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1dbcb182be2f4f07764c36d3447d08373&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=70a09ab49f64460e9895633ac113ab9c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "70a09ab49f64460e9895633ac113ab9c"
+                                   },
+                                   {
+                                          "content_id": "122638891",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0855.372",
+                                          "display_price_int": "855372",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=122638891&geo=13141481&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=8&silo=5091&bucket=907712&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276498&managed=false&capped=false&gosox=NXVSny6hHk8OX-Z-rLOfodE-XgMVPGRSTRYcaeK2gJ3LFKJ2PzLN1c-GlOFYufcUcpXJpdCls6jbmUTDfYqCeqTayPu8EwzEtFe5z1We6JVMEq7p28XswFf7nLELj1y3tsWOFVgSv7RrHpTv-HqbkFbbVz6LQlp00Pd92TKUOW2Z6cdTmlb4bxDbJ_ZCql3WmlTjGCOY4_wPpYjwLUVG84Hf9ABlHn5PqrtRbwHzoCm_X2idj8OSX-G29O8joX4bZLaTT-rB-PlBBCqdOaHhbaSb51JGvp0Mm2L7deXvwwU&priceShown=855372&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=1648&rate=855372.00&fees=179628.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_28b30e2d0ea2ebf1732e3335089d66fa&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=13bd1793eec119699cc046019106aedc2&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=3e79ff644a614ca7b504674e2d22e15b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3e79ff644a614ca7b504674e2d22e15b"
+                                   },
+                                   {
+                                          "content_id": "174685082",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0609.335",
+                                          "display_price_int": "609335",
+                                          "strikethrough_price": "Rp\u00a01.046.000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174685082&geo=13141481&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=8&silo=40643&bucket=944550&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261276498&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1Hk5PRoyVxDJM0fX8cbj29ETk53_pn3dQeNtvaygNEwqIXUI7Udw-P0iMKsmsxRbJ662-DXUPc-RPmKhcAuahfShD6rIwFrHizE7W1dVv7u1dDmWI1doYxcxjqkKKa1most7VyBc6h1XFQYkaKzzE9jCQaRwVupbgq2JnhsKM4_AG1-C7m8COn1jArXkeNT294Ip0f2o_Ptq2Hbb756WHyeRQTGcR60ZJ4k8ZfJ9xuAKw&priceShown=609335&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=609335.00&fees=127960.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_799b33d0095c3c4fc6eb51e5e129c46b&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=182d1c347e97989a8a0039cd042c74386&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=327dbc6631a4448d9bb560fe03bbd010&tp=HR_MainCommerce",
+                                          "auction_offer_key": "327dbc6631a4448d9bb560fe03bbd010"
+                                   },
+                                   {
+                                          "content_id": "127184502",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.046.000",
+                                          "display_price_int": "1046000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=127184502&geo=13141481&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=8&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261276498&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcqdxNapeNCqjGf26_v-3QJjRh2nCSJdYqD-vw7cE88XtXC4elz_-hzzBEIEDg8JhqE-C0NgmkKMRPLcQk1i40QJmr3kZhGS5gNZnyzQ0luwnU9HfCN2yUxZMOq0foY6-xmL7R8Kx_bhKCd4hYaZ80xeLfuD0tVeWAU16VInkJWMXfY7LxJNdZ9rGM5ujM-pFyVktxSdz-AUBlaXHnMD6ZQXuO4I45MBCiCdJXBGIEGTIh7qCaGje00B89EpUM2BxT8&priceShown=1046000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2926&rate=1046000.00000000000000&fees=104000.00000000000000&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=18d4a864de606e345664738f6678fe108&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=b06bc267538c42e4afcce29039e88405&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b06bc267538c42e4afcce29039e88405"
+                                   },
+                                   {
+                                          "content_id": "122244930",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=122244930&geo=13141481&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=8&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276498&managed=false&capped=false&gosox=pvNxG1QamoKxGDP4rlMyM2prTmIeft25FWx4aMIebi8s8VPLiE80eARRjAdUvS9tj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_8cAP05TMJIFFnQ5FMcOuUNpl9R2Dv6yHCZ-p-_TGghiXK_IBUAapEJ9eDDyyAxXmd84dNpfx-Hxiw4DHJczCiBVTUC38YbTghiponlLWTf9utw-8X7Lxod0KXdm_fPmXhQHtdcWDDnTx9F0ELOqwg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=114c68d67ae928fa8fb1e5bb7bd657497&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=53962922f2f04c44826ffb4e8ba4c4c3&tp=HR_MainCommerce",
+                                          "auction_offer_key": "53962922f2f04c44826ffb4e8ba4c4c3"
+                                   },
+                                   {
+                                          "content_id": "125838186",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=125838186&geo=13141481&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=8&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276498&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12qRlnrvDPHjQ1PhkDTIy8lk1X9GW9K-M6HKJsA2Rz8ZHxzRRTqhS-IGnAo5HBIXP-Yepkq1g7-fqkgvLD20rMyH6kazQLqdpB70CI1_yFq6p5rEGFkuwAHaQ_hxAnQTbAJaC8l3cS1E-_XGpqpiM34_Iv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=16da4bf7767eefa110f3666bae38f3f59&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=d3f5e5ee977d441eba4f8e2618dd300d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d3f5e5ee977d441eba4f8e2618dd300d"
+                                   },
+                                   {
+                                          "content_id": "122277961",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=122277961&geo=13141481&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=8&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276498&managed=true&capped=false&gosox=lNLPeUePO28vmy7KE57CZ7rAd4VPsDXOZsv86JnOG01nHAe_Sh3D8M_DJH1-p52oRVuemWjX6sgmd-kPB0wPrVbGN31SsBShS9MohsYW5WiKv9k3_z2HxhUZNfFuthCoSQPHepRpQVGf_b16PKGI8IlFwDJFrukhLWf9FBcK3eQrMd6cF7ZMqOnSjH_Umge4&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1ca67c39804bc9583a87f3fe9b52e073c&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=91e8c401da3d4ab5beba70fbf4805eec&tp=HR_MainCommerce",
+                                          "auction_offer_key": "91e8c401da3d4ab5beba70fbf4805eec"
+                                   },
+                                   {
+                                          "content_id": "150307246",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150307246&geo=13141481&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=8&silo=42117&bucket=958557&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261276498&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GmccB79KHcPwz8MkfX6nnahFW56ZaNfqyCZ36Q8HTA-tkxlmlsLQYVAWuM3LGt8W7Iq_2Tf_PYfGFRk18W62EKhJA8d6lGlBUZ_9vXo8oYjwiUXAMkWu6SEtZ_0UFwrd5Csx3pwXtkyo6dKMf9SaB7g&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=35532297-eec2-4255-b485-97718b8791f9&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1145c30015f31ed437c27b0cefbdd037d&area=QC_META_API&ik=193f5541c0b6404dae572c243d3a6a44&dated=true&aok=12d8a70b8f4640a6b169efdfe26f9713&tp=HR_MainCommerce",
+                                          "auction_offer_key": "12d8a70b8f4640a6b169efdfe26f9713"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "15cf840c-2170-49fd-bd4c-a3173b6be5ff",
+                     "saving_alert": {
+                            "message": "13% lebih rendah dari biasanya",
+                            "toolTip": "<b>Harga yang Anda temukan <font color='#D91E18'>13% lebih rendah</font> dari perkiraan tarif di hotel ini sebesar Rp\u00a0729.000/malam.</b> Kami memperkirakan tarif harian hotel untuk setiap tanggal dalam enam bulan berikutnya berdasarkan jutaan pencarian hotel yang dilakukan oleh pengguna kami. Harga yang baru saja Anda temukan (Rp\u00a0636.657) 13% lebih rendah dari perkiraan terbaru kami (Rp\u00a0729.000) untuk properti pada tanggal tersebut."
+                     },
+                     "description": "Kyriad Muraya Hotel Aceh adalah pilihan tepat untuk wisatawan yang mengunjungi Banda Aceh, karena menawarkan suasana yang sesuai untuk keluarga ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nKamar di Kyriad Muraya Hotel Aceh menawarkan dapur kecil, penyejuk udara, dan sofa memaksimalkan kenyamanan, dan para tamu dapat menggunakan internet dengan tersedianya wi-fi gratis.\nResepsionis 24 jam, layanan kamar, dan layanan concierge adalah beberapa hal yang ditawarkan oleh hotel. Sarapan akan membuat kunjungan Anda menjadi lebih spesial. Jika Anda mengemudi ke Kyriad Muraya Hotel Aceh, parkir gratis tersedia.\nTempat terkenal terdekat seperti Kapal Tsunami (2,1 km) dan PLTD Apung 1 (2,1 km) membuat Kyriad Muraya Hotel Aceh tempat terbaik untuk menginap selama mengunjungi Banda Aceh.\nPengunjung yang ingin makan udang dapat menuju ke Mie Razali atau Banda Seafood. Atau mungkin Anda ingin mencicipi selera india such as MANHATTAN CAFE & RESTO BANDA ACEH.\nKyriad Muraya Hotel Aceh membuat Anda mudah untuk untuk menikmati banyak hal yang ditawarkan oleh Banda Aceh seperti Benteng Indrapatra, yang merupakan reruntuhan kuno populer di sana.\nNikmati masa menginap Anda di Banda Aceh!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g317109-d13141481-Reviews-Kyriad_Muraya_Hotel_Aceh-Banda_Aceh_Aceh_Sumatra.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g317109-d13141481-Kyriad_Muraya_Hotel_Aceh-Banda_Aceh_Aceh_Sumatra.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Banda Aceh",
+                                   "abbrv": null,
+                                   "location_id": "317109"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Aceh",
+                                   "abbrv": null,
+                                   "location_id": "2301783"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Sumatra",
+                                   "abbrv": null,
+                                   "location_id": "294231"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Banda Aceh",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 651 6300123",
+                     "website": "http://kyriadmurayaaceh.com/",
+                     "email": "reservation@kyriadmurayaaceh.com",
+                     "address_obj": {
+                            "street1": "Jl. Tengku Moh. Daud Beureuh",
+                            "street2": "",
+                            "city": "Banda Aceh",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "23122"
+                     },
+                     "address": "Jl. Tengku Moh. Daud Beureuh, Banda Aceh 23122 Indonesia",
+                     "local_name": "Kyriad Muraya Hotel Aceh",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "ATM On Site",
+                                   "name": "ATM di Lokasi"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Convenience Store",
+                                   "name": "Minimarket"
+                            },
+                            {
+                                   "key": "Currency Exchange",
+                                   "name": "Layanan Penukaran Mata Uang"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Gift Shop - Amenities",
+                                   "name": "Toko Hadiah"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Iron",
+                                   "name": "Setrika"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Shops - Amenities",
+                                   "name": "Toko"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            },
+                            {
+                                   "key": "Valet Parking - Amenities",
+                                   "name": "Layanan Parkir Valet"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "63",
+              "auction_key": "f3da0bd6f383425c8b999c87caf14323",
+              "impression_key": "193f5541c0b6404dae572c243d3a6a44",
+              "pricing": "base"
+       }
+}

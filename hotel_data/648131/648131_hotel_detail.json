@@ -1,0 +1,554 @@
+{
+       "data": [
+              {
+                     "location_id": "648131",
+                     "name": "Adi Dharma Kuta",
+                     "latitude": "-8.713944",
+                     "longitude": "115.17072",
+                     "num_reviews": "1555",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Kuta, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/3a/d7/c1/adi-dharma-hotel.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/3a/d7/c1/adi-dharma-hotel.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/3a/d7/c1/adi-dharma-hotel.jpg",
+                                          "height": "1333"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/3a/d7/c1/adi-dharma-hotel.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/3a/d7/c1/adi-dharma-hotel.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2017-11-09T21:54:45-0500",
+                            "caption": "",
+                            "id": "289068993",
+                            "helpful_votes": "6",
+                            "published_date": "2017-11-09T21:54:45-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/648131?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.276888370513916",
+                     "ranking_geo": "Kuta",
+                     "ranking_geo_id": "297697",
+                     "ranking_position": "36",
+                     "ranking_denominator": "383",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 36 dari 383 hotel di Kuta",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0463.000 - Rp\u00a0925.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "32495777",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0451.906",
+                                          "display_price_int": "451906",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=32495777&geo=648131&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278484&managed=false&capped=false&gosox=6quP3aInJKVEdiENiUqWD2prTmIeft25FWx4aMIebi9tEs6QyaeYuNcT8AL8gGxFmodv-eVjcGk1-lx-JFKcBEgaT_qNZjt_IN96resPesYAUNIdkjZn5D7gM_xvjp51OFDXRU8XtOzm1dqJWjWX-nGY1iJsf9-riqEIKFSKPgH_ymxYXj6CDW_n6J6_TenjtDRUphklFjaKlLCkmWspYUk0J9aegKzyKTdECRKgmz9exImCwrykKk2pXP7G-XbEQm6KZ6Rkaw5Eqq_ROsEi_A&priceShown=451906&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=265&rate=451905.91&fees=94934.47&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_3cb08dfeb009441e09124f1691f20a95&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dedb7835-d0a9-40cc-8333-7f46d6655776&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1703efb9e2e523f06754601517f34285e&area=QC_META_API&ik=d0ead66bd55d4506b378cf6c111f1274&dated=true&aok=082dd60f99db48fa9f83dba506efb9ff&tp=HR_MainCommerce",
+                                          "auction_offer_key": "082dd60f99db48fa9f83dba506efb9ff"
+                                   },
+                                   {
+                                          "content_id": "33215054",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0412.301",
+                                          "display_price_int": "412301",
+                                          "strikethrough_price": "Rp\u00a0773.554",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33215054&geo=648131&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278484&managed=false&capped=false&gosox=aH98Z3klDNboOFYXW50BL6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateoIWk6IUv_DeVYYZrK4mDLgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTt2bPIeS2OFFkgG2V1SbqOmYwctcv3cC2Q1O6lPxtX1hIibuKS9exnOgW6kj79JaIOvLKblTLHMbZAyoFt2HPBP5OSg68c3u0FpDrhn1eMwloe9hHk62DBKcv9j_drIbJCkiQNfY49sJbfUxxhq3z-Q&priceShown=412301&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=412301.00&fees=86583.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4bf73c4bcaef488268765d27aab1b084&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dedb7835-d0a9-40cc-8333-7f46d6655776&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=13b2b8a16671519cc778f9e8e829cc8ef&area=QC_META_API&ik=d0ead66bd55d4506b378cf6c111f1274&dated=true&aok=ab3035b9131f41068eafeb5fce79fbf7&tp=HR_MainCommerce",
+                                          "auction_offer_key": "ab3035b9131f41068eafeb5fce79fbf7"
+                                   },
+                                   {
+                                          "content_id": "79205296",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0426.780",
+                                          "display_price_int": "426780",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79205296&geo=648131&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=18569&bucket=962380&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278484&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0Gqlb5w_5cn-lB0bkJuoG2FYEJxkjvYAhe0H1C97cHmBG6MX9OANXfEFmioh24rYevMkzBbP5GIWexU4BqSMHHv4-gwKMm5RH3yURtZg4rTyEQqB5xd2_SW9YY9r7gJwI09k1ZAGq5HCs4RlNuB-JOmQLVupXdoL4-8TvcfEfg6V73zu1XpUxI8HS3e_DSX9JrlokqWuemoPTe3q4lnirp1ydU7XSMAzy_CbmJvP6eYYYYzVM9MQbwT0372uG-gsZEwGhnWBGbtekL-PsHZ4_j8A&priceShown=426780&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=97&rate=426780.00&fees=89223.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_7910853592df110356a3dce73ce5ddc5&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dedb7835-d0a9-40cc-8333-7f46d6655776&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=153d90adedd3398d028de0d1dff0f9f0b&area=QC_META_API&ik=d0ead66bd55d4506b378cf6c111f1274&dated=true&aok=c056d39e39f6410b9205a8615e7320b0&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c056d39e39f6410b9205a8615e7320b0"
+                                   },
+                                   {
+                                          "content_id": "32678236",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0773.554",
+                                          "display_price_int": "773554",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32678236&geo=648131&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261278484&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcopQqcX125Yy2BrrLHRGZtyRh2nCSJdYqD-vw7cE88XtUm4UHGGuheOSyCqTmWx5UzuCf8xTmntd93P7w8R5G-_33PRpSfiPlFmMbI0kLqHrXNPIcShz0s6PC3XOfwzGzP4DcjQN8TTClB88qjOrzZkCYW10FzkvZ46Z45IPD0FR1okqWuemoPTe3q4lnirp1yqVBdMisAuBI8xzT2ulfc1NR3RYv0RaiQYV2CKnx2HJYUIRs9HzPBi-7A97doaO3c&priceShown=773554&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2420&rate=773554.00&fees=162446.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dedb7835-d0a9-40cc-8333-7f46d6655776&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=133428618f314e8e4f474fe4d24045a21&area=QC_META_API&ik=d0ead66bd55d4506b378cf6c111f1274&dated=true&aok=c8cd2cf54c82419cb3e400b8f22003dd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c8cd2cf54c82419cb3e400b8f22003dd"
+                                   },
+                                   {
+                                          "content_id": "34574545",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unconfirmed",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34574545&geo=648131&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261278484&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12q7Tinw_xAOfQAqWVFxsaCo1X9GW9K-M6HKJsA2Rz8ZHyu1fjHsUnzTEX7EUrTu2B-G96JqjL2ail-xbIEMdLpMi_tKGE6AYzepB3WZOmeo0WqIE_KF40KXmyXrmYrHAlKlSaOAwP-aEYALAiVonkA2kpl8wJH8UX5aJPa1jh_9zQ&pm=BR&hac=SKIPPED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dedb7835-d0a9-40cc-8333-7f46d6655776&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d84fc57f7d09cd0b83d6677dfc03e3c4&area=QC_META_API&ik=d0ead66bd55d4506b378cf6c111f1274&dated=true&aok=e0eca6c331ce4b60a3ee61ac38989553&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e0eca6c331ce4b60a3ee61ac38989553"
+                                   },
+                                   {
+                                          "content_id": "60141483",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unconfirmed",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60141483&geo=648131&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261278484&managed=true&capped=false&gosox=TMcyKUJpzz8GR3sYKYZebBq8ghPQHyUc2BvagJaWvH3PaWWZcu1PPyyXALYYmThofJMRni2Dk8OerJncRq5nzR422S_05aG88V1VKYCCOuu7E5OfcSZ6dg6R10eB3RCWQNsUIFgF1lUnBD42y-6Bxs6oMuln83Y6SgGZ6Asz4cGpdjKAi59nBPGnRmVNCu6t&pm=BR&hac=SKIPPED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dedb7835-d0a9-40cc-8333-7f46d6655776&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1cf19ac8019d8e1deece86fda1ede56ab&area=QC_META_API&ik=d0ead66bd55d4506b378cf6c111f1274&dated=true&aok=d3a13a4e55cd449ca18522928ae72dc2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d3a13a4e55cd449ca18522928ae72dc2"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "86915812-600f-4d78-8aa1-a018d6feb4e3",
+                     "description": "berlokasi di kawasan yang sepi di pusat wisata Kuta dengan suasana santai diantara kebun yang terawat dan kolam renang yang besar. Pusat belanja, kuliner, hiburan dan Pantai Kuta bisa di jangkau dengan berjalan kaki. Adi Dharma Hotel memperkenalkan kepada semua tamu tentang arsitektur Bali yang megah serta budaya Bali yang terkenal. kamar dan layanan lain sudah di di perbaiki secara rutin untuk memastikan liburan yang nyaman. Semua karyawan selalu ramah dan siap membantu untuk memastikan semua tamu merasa seperti tinggal di rumah sendiri.",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297697-d648131-Reviews-Adi_Dharma_Kuta-Kuta_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297697-d648131-Adi_Dharma_Kuta-Kuta_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Kuta",
+                                   "abbrv": null,
+                                   "location_id": "297697"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Kuta",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 754280",
+                     "website": "http://www.adidharmahotel.com/",
+                     "email": "info@adidharmahotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Benesari",
+                            "street2": "",
+                            "city": "Kuta",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Benesari, Kuta 80361 Indonesia",
+                     "local_name": "Adi Dharma Kuta",
+                     "local_address": "Jl. Benesari, 80361",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Swimup Bar",
+                                   "name": "Bar Kolam Renang"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Entertainment Staff",
+                                   "name": "Staf Hiburan"
+                            },
+                            {
+                                   "key": "Evening Entertainment",
+                                   "name": "Hiburan Malam"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Currency Exchange",
+                                   "name": "Layanan Penukaran Mata Uang"
+                            },
+                            {
+                                   "key": "Foot Bath",
+                                   "name": "Kolam Rendam Kaki"
+                            },
+                            {
+                                   "key": "Free Private Parking Nearby",
+                                   "name": "Parkir Pribadi Gratis Terdekat"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Japanese - Amenities",
+                                   "name": "Bahasa Jepang"
+                            },
+                            {
+                                   "key": "Kids' Meals",
+                                   "name": "Makanan Anak-Anak"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Salon",
+                                   "name": "Salon"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Table Tennis",
+                                   "name": "Tenis Meja"
+                            },
+                            {
+                                   "key": "Waterslide",
+                                   "name": "Perosotan Air"
+                            },
+                            {
+                                   "key": "Wine / Champagne",
+                                   "name": "Minuman Anggur/Sampanye"
+                            },
+                            {
+                                   "key": "Yoga Classes - Amenities",
+                                   "name": "Kelas Yoga"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isPersistableOncePerGeo": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "d88a1d1683ed4540bb2fa7fc1d431bdb",
+              "impression_key": "d0ead66bd55d4506b378cf6c111f1274",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,485 @@
+{
+       "data": [
+              {
+                     "location_id": "3172566",
+                     "name": "Almadera Hotel",
+                     "latitude": "-5.142722",
+                     "longitude": "119.40816",
+                     "num_reviews": "215",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Makassar, Sulawesi Selatan, Sulawesi",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/75/bf/79/almadera-hotel.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/75/bf/79/almadera-hotel.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "3543",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/75/bf/79/almadera-hotel.jpg",
+                                          "height": "1798"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/75/bf/79/almadera-hotel.jpg",
+                                          "height": "279"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/75/bf/79/almadera-hotel.jpg",
+                                          "height": "127"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-10-11T23:38:52-0400",
+                            "caption": "",
+                            "id": "645250937",
+                            "helpful_votes": "0",
+                            "published_date": "2022-10-11T23:38:52-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/3172566?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.725754261016846",
+                     "ranking_geo": "Makassar",
+                     "ranking_geo_id": "297720",
+                     "ranking_position": "16",
+                     "ranking_denominator": "305",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 16 dari 305 hotel di Makassar",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0313.000 - Rp\u00a0373.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "33215503",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0237.013",
+                                          "display_price_int": "237013",
+                                          "strikethrough_price": "Rp\u00a0278.925",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33215503&geo=3172566&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=5091&bucket=907712&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277841&managed=false&capped=false&gosox=j2vqO_fb07A1JOafSxCEk6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGZNyjRhV4LM36GW5OXDRi_gIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTsoPRDAWn-91l3j0MWcVyvDBl9yQFHwkifhXILwbZxMkPdbhFrafbJMcJFuwv3EHC-vLKblTLHMbZAyoFt2HPBMl1SduurDUbsG_5Q5SObRt7JXaq5u_5ZHyhkpx8KrbJmhOZmBpe66-jc6ZrWLPhyI&priceShown=237013&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=237013.00&fees=49772.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4a0ca55d98f5d093dcb5172a1e0a27b8&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1dfa6daedd1519c98fda8d71ef0867ac0&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=575fbb393ba647918d2794cd2b287317&tp=HR_MainCommerce",
+                                          "auction_offer_key": "575fbb393ba647918d2794cd2b287317"
+                                   },
+                                   {
+                                          "content_id": "45183879",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0258.763",
+                                          "display_price_int": "258763",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=45183879&geo=3172566&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=10473&bucket=903102&nrank=1&crank=2&clt=M&ttype=MobileCR&tm=261277841&managed=false&capped=false&gosox=NkWOVXrMozomEQIuc0qun2prTmIeft25FWx4aMIebi_FoXP9TsCXit7fP5fG4QrB5rK6BskYibIUYn-Si4nPQ0gaT_qNZjt_IN96resPesbsQxOmtcwwOIJMwgqr0-P2KdRADBuVxYmHbe358ljTDjOrK1rVwe-xLsF17ptrzSQHgI0fcYmGqHzJ8nLacFSZdZGSbjkolhIZZQb_Ff-szEmMWK_6YoEpwXZxJ73GcVmHkRQaDMNxnlOBTNDR_XLfbh0RhVzOJn_o3ApyA-f7ZA&priceShown=258763&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=146&rate=258763.38&fees=54312.04&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_6071c6accf7b007f5e2b899434045601&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=175f80f7b5f07f6c219a2aebff13ff01b&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=7feef76640444c5ea140de7e84b578fd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7feef76640444c5ea140de7e84b578fd"
+                                   },
+                                   {
+                                          "content_id": "110223812",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0248.867",
+                                          "display_price_int": "248867",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=110223812&geo=3172566&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=1&crank=3&clt=M&ttype=MobileCR&tm=261277841&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GjQxlM7ji2c3pF8syBAF8Fmo5aCO31MJh8Qol-xhj2rw-E1RKdvdi462UpAR9oe6QHz37uNYDPb895OM1ncKdOdP6K0w9e36lwAcjQsXnQ77iiO3USy6_orVuhpeUFmTsp7V8DZu74FUtvF4sDUgdVuFuJqJapUhnteWfWdC5fy39XUfYWM9EL24UrqaQ_NOTieIu1iQYM3MtiXDaVXbdAUhP2w0xbIaCMzr0ksyybfg7JXaq5u_5ZHyhkpx8KrbJmhOZmBpe66-jc6ZrWLPhyI&priceShown=248867&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=79&rate=248867.00&fees=52262.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4419eac8e653b4eae05e15765b519ffe&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=19077e42c08aa63cbf559d5c655e6ca02&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=64d5ecd5aa764c8db6d3f91b6a040bb5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "64d5ecd5aa764c8db6d3f91b6a040bb5"
+                                   },
+                                   {
+                                          "content_id": "53975057",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0278.925",
+                                          "display_price_int": "278925",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=53975057&geo=3172566&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261277841&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p4N0gG5bNPtxBH315ID6LQtBr2SbA2I1b-qOFndwtprbRh2nCSJdYqD-vw7cE88XtU7m3tl8QrWMfVDdUUijEEgdR_zdgk6Jr3QOXGVf64OSBbpOxtwdmrVRIX1XrSOyFNPtVGRsjhh2ai4EjjpBHNx74zcru8CMNIhBzX2gUA78j91lxZmJzegiwmMW8kgAbfY7LxJNdZ9rGM5ujM-pFyWBc5tAXDltpCxdGCGelGYOiK1kifcfofibpDLzXH7lmMM9JHq3JkXchhzkhhX4svQ&priceShown=278925&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=281&rate=278925.00&fees=58575.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1b62375295e540f0884b57d689ed3b129&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=141120fc8df044fb8d7257572f83ffb9&tp=HR_MainCommerce",
+                                          "auction_offer_key": "141120fc8df044fb8d7257572f83ffb9"
+                                   },
+                                   {
+                                          "content_id": "239141179",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0248.867",
+                                          "display_price_int": "248867",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=239141179&geo=3172566&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=40643&bucket=944550&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261277841&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1HA1YWcGIZqoi17iObezQF1OMv2_ouJdihoD1jyrF28_IXUI7Udw-P0iMKsmsxRbJ662-DXUPc-RPmKhcAuahfS3sW6EHrYmJxN7Nik22o3YojIOvz_AljZBNkAYB6goY-5_C0xcAsqyXZXFQhVufd368spuVMscxtkDKgW3Yc8EyXVJ266sNRuwb_lDlI5tG3sldqrm7_lkfKGSnHwqtsmaE5mYGl7rr6NzpmtYs-HIg&priceShown=248867&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=79&rate=248867.00&fees=52262.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_27b7be5c7f49a04188008dbd347b16a&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f0d502cbac662e3729f107cee9c97846&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=ba2e80f7d43f48bbbfedc9a377810af1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "ba2e80f7d43f48bbbfedc9a377810af1"
+                                   },
+                                   {
+                                          "content_id": "54640165",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0278.925",
+                                          "display_price_int": "278925",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=54640165&geo=3172566&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=261277841&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULagAwmFmIYQgPma8JS-rIb3Z4sO-hIpz3u0wvw4sGu6g2L900sTPIaQ7WFLQmhe_skgvHdrlRW4oZJdJYG0BvAbZ-unsKOC3l8AXW-OOTsI1Whk1RA-r_rHaMG2KOcXqKqKMdXXrInRBAbf-Foev0xqSWWv3kYNVsYFFufHpl229NLI9DmSj5odoFlNmboEEWnx6r_iHCagYSOWQPgDQHAwpbnE4qKPbdCGAWR8RockSqjbVhhi9vKo49n1NtllMJA&priceShown=278925&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=281&rate=278925.00&fees=58575.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_3954159094a7944af2e6cf09dce92314&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d161848154c145bd836a3780e3080d5a&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=705c467ddfc34665b7317719695772cd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "705c467ddfc34665b7317719695772cd"
+                                   },
+                                   {
+                                          "content_id": "100943104",
+                                          "provider_display_name": "Hotel Website",
+                                          "internal_provider_name": "FastbookingDL",
+                                          "logo": "https://static.tacdn.com/img2/langs/in/branding/hotels/official_site_logo.gif",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FastbookingDL&src=100943104&geo=3172566&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=14855&bucket=961148&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277841&managed=true&capped=false&gosox=pHP_BNb-OtgpcAz-RTvnOWG6PqHYB6qWWkd7EHJkC0nVf0Zb0r4zocomwDZHPxkfBuWXdFJLk-jvEFtj9UuOtVEA9cXq_QLVMaMIK80cxVKn4syAk2Kclbk03GoPjBS7wYqidjwTBrxyRSP7YBFh5wznjGLORbuir17CqJO5EYY&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc3be5ac-5dfd-4f0f-9c04-eadd2570f000&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=140830a6b42c287feb2071231b9144151&area=QC_META_API&ik=f057085b5774459892a3979075b99f89&dated=true&aok=1378b53309bf44b7a684ae0d1128547a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1378b53309bf44b7a684ae0d1128547a"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.5",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": [
+                                   {
+                                          "value": "(0411) 3633111",
+                                          "label": "Nomor telepon",
+                                          "type": "phone",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=3172566&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLTM&tm=261277841&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkclWCMBLVTmzOFkaBd1koZ0xKAAyS3qaePU10SiflMUElePC1HrxHXf6M1IA8XyT1w&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=1&cs=1844cd923c3bd38817d4daee30d3a05df"
+                                   },
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=3172566&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=261277841&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkclWCMBLVTmzOFkaBd1koZ2d5ssZVLSwMmiGZJUYH2L68v7s5cYhukGR4Txl5DQfJw&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=2&cs=15be6a55312d8c1cee1a4ca2bd3abf0f5",
+                                          "label": "Situs Web hotel",
+                                          "type": "url"
+                                   },
+                                   {
+                                          "value": "sales@almaderahotel.com",
+                                          "label": "Kirimkan e-mail kepada hotel",
+                                          "type": "email",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=3172566&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLEM&tm=261277841&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkclWCMBLVTmzOFkaBd1koZ2fx7_u_sbP4HqkSMqdjSD3n02jg-dwVCRxq6R2qntKlA&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=3&cs=120fcba760fb2ba1766a9ea83849aafc4"
+                                   }
+                            ]
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "d6b99400-e934-4ec0-921b-542e3e754334",
+                     "saving_alert": {
+                            "message": "15% lebih rendah dari biasanya",
+                            "toolTip": "<b>Harga yang Anda temukan <font color='#D91E18'>15% lebih rendah</font> dari perkiraan tarif di hotel ini sebesar Rp\u00a0279.000/malam.</b> Kami memperkirakan tarif harian hotel untuk setiap tanggal dalam enam bulan berikutnya berdasarkan jutaan pencarian hotel yang dilakukan oleh pengguna kami. Harga yang baru saja Anda temukan (Rp\u00a0237.013) 15% lebih rendah dari perkiraan terbaru kami (Rp\u00a0279.000) untuk properti pada tanggal tersebut."
+                     },
+                     "description": "Selamat datang di Almadera Hotel! Sebagai \"rumah\" Anda di Makassar, hotel dengan fasilitas yang akan menyempurnakan masa menginap Anda.\nKarena berdekatan dengan beberapa tempat terkenal, seperti Ibu Agung Bahari Monastery (1,3 km) dan Pasar Malam Kuliner (1,5 km), para tamu Almadera Hotel dapat mengunjungi beberapa lokasi populer di Makassar.\nKamar memiliki penyejuk udara, minibar, dan kulkas, dan Anda dapat menggunakan internet, karena wi-fi gratis tersedia, sehingga Anda dapat beristirahat dan menyegarkan diri dengan mudah.\nAlmadera Hotel menawarkan layanan kamar dan layanan concierge. Sebagai tamu Almadera Hotel, Anda dapat menikmati bathtub air panas dan sarapan yang tersedia di properti. Para tamu yang mengemudi memiliki akses ke tempat parkir gratis.\nSaat mengunjungi Makassar, Anda sebaiknya mencoba makan lobster di salah satu restoran terdekat, seperti Lae Lae.\nJika Anda mencari hal yang dapat dilakukan, coba lihat Benteng Rotterdam (1,0 km) atau Masjid Amirul Mukminin (0,4 km), populer dikunjungi turis, dan semua dapat dicapai dengan berjalan kaki.\nAlmadera Hotel menampilkan yang terbaik dari Makassar dalam genggaman tangan anda, membuat masa menginap anda semakin sempurna.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297720-d3172566-Reviews-Almadera_Hotel-Makassar_South_Sulawesi_Sulawesi.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297720-d3172566-Almadera_Hotel-Makassar_South_Sulawesi_Sulawesi.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Makassar",
+                                   "abbrv": null,
+                                   "location_id": "297720"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Sulawesi Selatan",
+                                   "abbrv": null,
+                                   "location_id": "2301805"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Sulawesi",
+                                   "abbrv": null,
+                                   "location_id": "297719"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Makassar",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "04113633111",
+                     "website": "http://www.almaderahotel.com",
+                     "email": "info@almaderahotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Somba Opu No. 235",
+                            "street2": "",
+                            "city": "Makassar",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "90111"
+                     },
+                     "address": "Jl. Somba Opu No. 235, Makassar 90111 Indonesia",
+                     "local_name": "Almadera Hotel",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Karaoke",
+                                   "name": "Karaoke"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Nightclub / DJ",
+                                   "name": "Klub Malam/DJ"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ],
+                     "owner_website": "/Commerce?p=TABAIndependentHotels&src=0&geo=3172566&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=261277841&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkclWCMBLVTmzOFkaBd1koZ2d5ssZVLSwMmiGZJUYH2L68v7s5cYhukGR4Txl5DQfJw&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=2&cs=15be6a55312d8c1cee1a4ca2bd3abf0f5"
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "89ef5dc6273647dc8272d34a3a9fc2d5",
+              "impression_key": "f057085b5774459892a3979075b99f89",
+              "pricing": "base"
+       }
+}

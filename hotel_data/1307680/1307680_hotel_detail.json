@@ -1,0 +1,356 @@
+{
+       "data": [
+              {
+                     "location_id": "1307680",
+                     "name": "Banana Inn Hotel & Spa",
+                     "latitude": "-6.866918",
+                     "longitude": "107.593056",
+                     "num_reviews": "1282",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Bandung, Jawa Barat, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/ce/6b/19/b-leaf-cafe--v9698314.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/ce/6b/19/b-leaf-cafe--v9698314.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2600",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/ce/6b/19/b-leaf-cafe--v9698314.jpg",
+                                          "height": "1733"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/ce/6b/19/b-leaf-cafe--v9698314.jpg",
+                                          "height": "450"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/ce/6b/19/b-leaf-cafe--v9698314.jpg",
+                                          "height": "205"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2015-08-21T17:49:11-0400",
+                            "caption": "B Leaf Cafe at the Banana Inn Hotel & Spa",
+                            "id": "164522777",
+                            "helpful_votes": "0",
+                            "published_date": "2015-12-19T11:43:43-0500",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1307680?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.869443893432617",
+                     "ranking_geo": "Bandung",
+                     "ranking_geo_id": "297704",
+                     "ranking_position": "13",
+                     "ranking_denominator": "674",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 13 dari 674 hotel di Bandung",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "33225657",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33225657&geo=1307680&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=2&silo=5091&bucket=897544&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276475&managed=false&capped=false&gosox=Jqa8ay-ktyhZIpo5KvZ0u6hrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOYaW1QF1XVtdH9L3SSMQGFAIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTk3dVhSlbwugZjATR5a4EuSTQC0TWkGzILpq-udj2kW3kTJ2Zb04YcrqDhhAMCLRCIIFvLXMhB_HiYSZFViIA5csSjne3VxbPngkaWqBIcG0mk1TFUjMGq6520SDgUd_bZja3ifkvG5q4890GvoOhH8&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=fab8c13b-2de9-4f2b-a923-ae29a5749b33&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=12531db16e736c8181364ef62cb51f460&area=QC_META_API&ik=570a7916ff9a4149a31df29ae559673e&dated=true&aok=8a40d6b9b406494da6eb9d110e882b30&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8a40d6b9b406494da6eb9d110e882b30"
+                                   },
+                                   {
+                                          "content_id": "60337840",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60337840&geo=1307680&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=2&silo=45096&bucket=974633&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276475&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxFAUU8DAKlJjp7JTn2nQqx1X9GW9K-M6HKJsA2Rz8ZH8gs2U9v752Qt6C3WnqT_pmSYjqOYMkY8s66--ZkbR6_qaXzjNLH8phnVPs8Ewkdu3rt2HRHc8jnmEqo7-izLOagtfEtqZB0pHgDRFZCRGE9&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=fab8c13b-2de9-4f2b-a923-ae29a5749b33&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=191462e344abfdaab147f0089a31471b6&area=QC_META_API&ik=570a7916ff9a4149a31df29ae559673e&dated=true&aok=0411edd4529a4bea9635a5d02c2f405d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0411edd4529a4bea9635a5d02c2f405d"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "f9dfe90c-69f9-4907-bba4-e894e90ab23b",
+                     "description": "Mencari tempat menginap di Bandung? Coba lihat Banana Inn Hotel & Spa, hotel sesuai untuk keluarga yang menyuguhkan daya tarik terbaik Bandung ke kamar Anda.\nBanana Hotel bersuasana hotel sesuai untuk keluarga menawarkan tv layar datar dan penyejuk udara di dalam kamarnya, dan mudah terhubung dengan internet karena wi-fi gratis tersedia untuk para tamu.\nHotel menawarkan layanan concierge dan layanan kamar. Dan, para tamu dapat menikmati kolam renang dan sarapan, yang merupakan pilihan populer para wisatawan yang berkunjung ke Bandung. Untuk para tamu yang mengemudi, parkir gratis tersedia.\nTempat terkenal terdekat seperti Morning Glory Coffee (2,0 km) dan Lactasari Dairy Farm (2,6 km) membuat Banana Hotel tempat terbaik untuk menginap selama mengunjungi Bandung.\nPada saat di Bandung jangan lupa mencicipi steamboat yang menjadi menu favorit di Gading Chinese Food Restaurant.\nBandung juga merupakan lokasi Curug Cimahi, air terjun populer yang terletak tidak jauh dari Banana Inn Hotel & Spa.\nKami yakin Anda akan menikmati menginap di Banana Inn Hotel & Spa sambil menikmati apa yang Bandung tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297704-d1307680-Reviews-Banana_Inn_Hotel_Spa-Bandung_West_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297704-d1307680-Banana_Inn_Hotel_Spa-Bandung_West_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Bandung",
+                                   "abbrv": null,
+                                   "location_id": "297704"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301792"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Bandung",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 22 2005479",
+                     "website": "http://www.banana-inn.com",
+                     "email": "info@banana-inn.com",
+                     "address_obj": {
+                            "street1": "Jl. Dr Setiabudhi no. 191",
+                            "street2": "",
+                            "city": "Bandung",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "40153"
+                     },
+                     "address": "Jl. Dr Setiabudhi no. 191, Bandung 40153 Indonesia",
+                     "local_name": "Banana Inn Hotel & Spa",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "9bcc36a970b74f679a0b2c8f20790405",
+              "impression_key": "570a7916ff9a4149a31df29ae559673e",
+              "pricing": "base"
+       }
+}

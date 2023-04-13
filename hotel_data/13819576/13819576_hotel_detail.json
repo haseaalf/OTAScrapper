@@ -1,0 +1,397 @@
+{
+       "data": [
+              {
+                     "location_id": "13819576",
+                     "name": "Sagara Candidasa",
+                     "latitude": "-8.510679",
+                     "longitude": "115.57015",
+                     "num_reviews": "200",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Candidasa, Karangasem, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/9e/c7/a5/infinity-pool.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/9e/c7/a5/infinity-pool.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "3360",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/9e/c7/a5/infinity-pool.jpg",
+                                          "height": "2240"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/9e/c7/a5/infinity-pool.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/9e/c7/a5/infinity-pool.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2018-07-09T00:31:10-0400",
+                            "caption": "Infinity Pool",
+                            "id": "329172901",
+                            "helpful_votes": "0",
+                            "published_date": "2018-07-09T00:31:10-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/13819576?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.664527416229248",
+                     "ranking_geo": "Candidasa",
+                     "ranking_geo_id": "312684",
+                     "ranking_position": "1",
+                     "ranking_denominator": "24",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 24 hotel di Candidasa",
+                     "subcategory_type": "boutique_hotel",
+                     "subcategory_type_label": "Hotel Butik",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0955.000 - Rp\u00a01.224.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "120839851",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=120839851&geo=13819576&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276624&managed=false&capped=false&gosox=QX5BxlZdfYT7uDuMaE0DEGprTmIeft25FWx4aMIebi-8CmBuau0mT_2XH2vbd5hdj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn9Sgvkr_BwfGcU-Z6GdmtlyNpl9R2Dv6yHCZ-p-_TGght0IVfGPsO6UQc3bRsXWh9bD7F3lxWfhlTES_jMH_sk_3lTA0Zfpsf6u7MmuEp38ta577DazGrsZ8WA-0TYmn4zHfBh74hbuEYANL9E6kPu8&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=56445f52-8251-4d74-b9d8-6505b9bf11bc&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=10648374c288cea0c0c6c8a031ba27364&area=QC_META_API&ik=caac52efb101488891464d24a39985a5&dated=true&aok=af3407c82df64a788213d975d5ce6f58&tp=HR_MainCommerce",
+                                          "auction_offer_key": "af3407c82df64a788213d975d5ce6f58"
+                                   },
+                                   {
+                                          "content_id": "121081318",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=121081318&geo=13819576&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276624&managed=false&capped=false&gosox=aH98Z3klDNboOFYXW50BL6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewategAxrRZdtvhtYgcvCVWav0AIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTnHcE4ZrT7yXaxl1joBdlVAUOblZdA93n35P1LF5iUJQqsoK2MIipN-k0Z183e4FnR0RH0bPpOqRAgKwoxZ8pDIVI4r-yLs-UzirH4qabRc44qYcg66YgJMlcpHp3bGRhpAVw7OsEUBcHWpKdMuSaPs&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=56445f52-8251-4d74-b9d8-6505b9bf11bc&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1013556f3e9d75755fb6c70f8c508dc5c&area=QC_META_API&ik=caac52efb101488891464d24a39985a5&dated=true&aok=0b2f030854c743cf9fd596a1e911ac8e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0b2f030854c743cf9fd596a1e911ac8e"
+                                   },
+                                   {
+                                          "content_id": "121471521",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=121471521&geo=13819576&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276624&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12q7Tinw_xAOfQAqWVFxsaCo1X9GW9K-M6HKJsA2Rz8ZH4IwcVmYoKb2pk1bqJdZBQyYxet8poa5FoNby7dH6zVIYuk4_xRpv2fyL9fdZ9t02TrN_CeoHulQvYpqYJu3ilCN8k7Vohh9VgoQylHlYXk6y6UtXWB7eA124oY7QaP4gA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=56445f52-8251-4d74-b9d8-6505b9bf11bc&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=187e882a91c8788e20c830a2893d1caf6&area=QC_META_API&ik=caac52efb101488891464d24a39985a5&dated=true&aok=0a338e18b31f4833ac384bbf216c1884&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0a338e18b31f4833ac384bbf216c1884"
+                                   },
+                                   {
+                                          "content_id": "120856429",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=120856429&geo=13819576&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276624&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxjUlTjMZlx_-CpO6zjP89M1X9GW9K-M6HKJsA2Rz8ZH8gs2U9v752Qt6C3WnqT_pkzYCt2Z5_Uk1U5s08wbGDwCI8LySYh9FFM4b7U2Dj4MygwySciFHkNYdcZZ0z6OcDTW-Xur3mViMwautZN99_G&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=56445f52-8251-4d74-b9d8-6505b9bf11bc&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1cf416f2d61c8fcc886e52a64dd21bb4d&area=QC_META_API&ik=caac52efb101488891464d24a39985a5&dated=true&aok=8057d7e5d10d46ec9ed470462c82817f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8057d7e5d10d46ec9ed470462c82817f"
+                                   },
+                                   {
+                                          "content_id": "121126351",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=121126351&geo=13819576&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276624&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p6QwvjI_Vos5xq89X-fP03qWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzeK7FAaCSeTsnaxHbrxh3188N5F6QSvZCsCtFpG67HP8BaGg5266bLxkBisdcm4o8pP-dz1tnj9TOdfBCismuDSRZDuydAsPZputeAG9JYOd&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=56445f52-8251-4d74-b9d8-6505b9bf11bc&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1fdbdf74899c0b56534624625942c5609&area=QC_META_API&ik=caac52efb101488891464d24a39985a5&dated=true&aok=15c8d4eb1279488face2487e7e4ba42a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "15c8d4eb1279488face2487e7e4ba42a"
+                                   },
+                                   {
+                                          "content_id": "127613930",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=127613930&geo=13819576&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=18569&bucket=934050&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261276624&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01lL63JfGc7cnygflhBcIWckpJe3vVekiXbxuBAsU8rNqHirCSqCx3dV09IIxx7DxmEVaVNaRwjYSWY4WNS5reazDF9cDN2id5dKApQxLrAQMIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=56445f52-8251-4d74-b9d8-6505b9bf11bc&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=14ad7e81153aac20c219fbaeac00b4f87&area=QC_META_API&ik=caac52efb101488891464d24a39985a5&dated=true&aok=9413cabd147641848f38808a23e2ceb4&tp=HR_MainCommerce",
+                                          "auction_offer_key": "9413cabd147641848f38808a23e2ceb4"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.5",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "2d3d74e4-4c39-4bf2-b01b-819b4e26bc57",
+                     "description": "Selamat datang di Sagara Candidasa! Sebagai \"rumah\" Anda di Candidasa, hotel butik dengan fasilitas yang akan menyempurnakan masa menginap Anda.\nSagara Candidasa menawarkan layanan kamar. Sebagai tamu Sagara Candidasa, Anda dapat menikmati kolam renang dan sarapan yang tersedia di properti. Para tamu yang mengemudi memiliki akses tempat parkir gratis.\nPada saat di Candidasa, coba kunjungi restoran yang dapat dicapai dengan berjalan kaki dari Sagara Candidasa, seperti Vincent's Restaurant (0,4 km), Restaurant Lezat Tepi Pantai (0,5 km), dan Crazy Kangaroo (0,1 km).\nSagara Candidasa menampilkan yang terbaik dari Candidasa dalam genggaman tangan anda, membuat masa menginap anda semakin sempurna.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g312684-d13819576-Reviews-Sagara_Candidasa-Candidasa_Karangasem_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g312684-d13819576-Sagara_Candidasa-Candidasa_Karangasem_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Candidasa",
+                                   "abbrv": null,
+                                   "location_id": "312684"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Karangasem",
+                                   "abbrv": null,
+                                   "location_id": "608484"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Candidasa",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 857-9936-0141",
+                     "website": "http://www.sagarabali.com",
+                     "email": "info@sagarabali.com",
+                     "address_obj": {
+                            "street1": "Jl. Raya Candidasa",
+                            "street2": "",
+                            "city": "Candidasa",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80871"
+                     },
+                     "address": "Jl. Raya Candidasa, Candidasa, Karangasem 80871 Indonesia",
+                     "local_name": "Sagara Candidasa",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Bathrobes",
+                                   "name": "Jubah Mandi"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "38b8588201824a708a66a26f120601e7",
+              "impression_key": "caac52efb101488891464d24a39985a5",
+              "pricing": "base"
+       }
+}

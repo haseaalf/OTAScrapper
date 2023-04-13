@@ -1,0 +1,327 @@
+{
+       "data": [
+              {
+                     "location_id": "21295613",
+                     "name": "Swiss-Belexpress Cilegon",
+                     "latitude": "-6.014734",
+                     "longitude": "106.04746",
+                     "num_reviews": "85",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Cilegon, Banten Province, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/83/96/18/studio.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/83/96/18/studio.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1400",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/83/96/18/studio.jpg",
+                                          "height": "933"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/83/96/18/studio.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/83/96/18/studio.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-08-31T01:47:08-0400",
+                            "caption": "Studio",
+                            "id": "629380632",
+                            "helpful_votes": "0",
+                            "published_date": "2022-08-31T01:47:08-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/21295613?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.514846324920654",
+                     "ranking_geo": "Cilegon",
+                     "ranking_geo_id": "3136745",
+                     "ranking_position": "3",
+                     "ranking_denominator": "15",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 3 dari 15 hotel di Cilegon",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0388.000 - Rp\u00a0448.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "203187347",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0493.802",
+                                          "display_price_int": "493802",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=203187347&geo=21295613&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=5&silo=5091&bucket=907712&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277363&managed=false&capped=false&gosox=EQnhGOsPsFhC88JFjxRmlqhrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGBl5vPWrzLeacaNsJK5h1lQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTknmrXgyaH62en5mftGO0cEOsiyAdmzup0KVZiA7RUgRPdbhFrafbJMcJFuwv3EHC-vLKblTLHMbZAyoFt2HPBMb7LjreNvjaCeNEY_MOCx5pu1kSZEMpqGDiDBcXzw_W7Kwhh7G_03Y3t5SjfQaDjE&priceShown=493802&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=493802.00&fees=103698.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_14b58e4959b63d3f9a14d8d4bd92606d&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2aacf83e-3554-40a1-ab85-7fa02a2e9c5c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1240f2cfd60945afb3857738a9f9a05f1&area=QC_META_API&ik=174661321f614a66b5c5dcf2e6be02ba&dated=true&aok=c1f066b6335d496cb6c8819f925abf6b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c1f066b6335d496cb6c8819f925abf6b"
+                                   },
+                                   {
+                                          "content_id": "189002607",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=189002607&geo=21295613&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=5&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277363&managed=false&capped=false&gosox=Ne698shSCtbgeylBHWTCz2prTmIeft25FWx4aMIebi9XNFbyYVdqRpOc9O1QUlh6j162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn-pXYM-gCdpwzYIZ_gDRzdPNpl9R2Dv6yHCZ-p-_TGghkwt_jMseLJl-czs0D6u6jnQT2q1T8J7h7yAU838ZcveLUXehmlLeIKJXX-kyeAK1wlNQQBDctxE2wiEioDEFaYtTmG4sLEBr5KCPLSurhFO&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2aacf83e-3554-40a1-ab85-7fa02a2e9c5c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f9b58464bc724edf44d792fa271b2373&area=QC_META_API&ik=174661321f614a66b5c5dcf2e6be02ba&dated=true&aok=c61f0be145e6464bb6ab4ed10292d919&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c61f0be145e6464bb6ab4ed10292d919"
+                                   },
+                                   {
+                                          "content_id": "188454859",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=188454859&geo=21295613&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=5&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277363&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12p2knot88m50RvNwQ4usHZV1X9GW9K-M6HKJsA2Rz8ZH24chBIB1CJx2HB5xnAWDzd1Qs7_oS131Tu23vQIpV-4YKD34ARE57eHlfeKewzlpZ9BYjTaxFvR1R_wbobxRudz6Y7lHVkGZ2nGNa86xsLksHoVJZQGPRao4w-OzyQQbA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2aacf83e-3554-40a1-ab85-7fa02a2e9c5c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=102d22f1cb398762ffae9a4f5c3ad9431&area=QC_META_API&ik=174661321f614a66b5c5dcf2e6be02ba&dated=true&aok=051c1bbae78d4bd6acd094b86e80995a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "051c1bbae78d4bd6acd094b86e80995a"
+                                   },
+                                   {
+                                          "content_id": "188395342",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=188395342&geo=21295613&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=5&silo=4322&bucket=932885&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277363&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcqWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzXR9g9bDkpWuDNII9iDgGsYjpFtFa9k9h5x0iyGULCVsYEURFxFYyTqaia3BjV3v_nB-uYRSyk4gM7DrfONadw7tDtDaFMn6J9PLJ3-eIK1G&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2aacf83e-3554-40a1-ab85-7fa02a2e9c5c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1af450d03173f3217c499c47b691a153f&area=QC_META_API&ik=174661321f614a66b5c5dcf2e6be02ba&dated=true&aok=48c52476b2db4b539a7c3d0f7514db37&tp=HR_MainCommerce",
+                                          "auction_offer_key": "48c52476b2db4b539a7c3d0f7514db37"
+                                   },
+                                   {
+                                          "content_id": "194915656",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=194915656&geo=21295613&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=5&silo=18569&bucket=934050&nrank=4&crank=5&clt=M&ttype=MobileCR&tm=261277363&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01jOnH9CKIMnoWI36BzcgGqrBy-M-ypmsvltYE3f4OKePikNvxlAY_HnzzGJk64MalfPj7zkYlOdPTEH7sTI-_QtFYC7jWFv4ITY4Yak30r7k&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=2aacf83e-3554-40a1-ab85-7fa02a2e9c5c&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=117984f8dec446045b92ef8181faf0a26&area=QC_META_API&ik=174661321f614a66b5c5dcf2e6be02ba&dated=true&aok=3c06677a235a43ea84fe70ea1faeb4a4&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3c06677a235a43ea84fe70ea1faeb4a4"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "b777291e-93cd-4eca-b0af-7e371806e31b",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g3136745-d21295613-Reviews-Swiss_Belexpress_Cilegon-Cilegon_Banten_Province_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g3136745-d21295613-Swiss_Belexpress_Cilegon-Cilegon_Banten_Province_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Cilegon",
+                                   "abbrv": null,
+                                   "location_id": "3136745"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Banten Province",
+                                   "abbrv": null,
+                                   "location_id": "2323428"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Cilegon",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 254 7819777",
+                     "website": "http://www.swiss-belhotel.com/en-gb/swiss-belexpress-cilegon",
+                     "email": "cilegon-seci@swiss-belhotel.com",
+                     "address_obj": {
+                            "street1": "Jalan Sultan Ageng Tirtayasa No 99B",
+                            "street2": "Masigit, Jombang Kali",
+                            "city": "Cilegon",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "42414"
+                     },
+                     "address": "Jalan Sultan Ageng Tirtayasa No 99B Masigit, Jombang Kali, Cilegon 42414 Indonesia",
+                     "local_name": "Swiss-Belexpress Cilegon",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Allergy-free Room",
+                                   "name": "Kamar Bebas Alergi"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "20",
+              "auction_key": "2f22ea83bfb8411aaeb196770761cec9",
+              "impression_key": "174661321f614a66b5c5dcf2e6be02ba",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,450 @@
+{
+       "data": [
+              {
+                     "location_id": "8006186",
+                     "name": "Menumbing Heritage Hotel",
+                     "latitude": "-2.1275",
+                     "longitude": "106.1175",
+                     "num_reviews": "131",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Pangkal Pinang, Pulau Bangka, Kepulauan Bangka Belitung, Sumatra",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/a0/a2/a9/swimming-pool.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/a0/a2/a9/swimming-pool.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "960",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/a0/a2/a9/swimming-pool.jpg",
+                                          "height": "640"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a0/a2/a9/swimming-pool.jpg",
+                                          "height": "366"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/a0/a2/a9/swimming-pool.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2016-03-18T02:28:49-0400",
+                            "caption": "Swimming pool",
+                            "id": "178299561",
+                            "helpful_votes": "1",
+                            "published_date": "2016-03-18T02:32:47-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/8006186?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "3.918707847595215",
+                     "ranking_geo": "Pangkal Pinang",
+                     "ranking_geo_id": "1234796",
+                     "ranking_position": "3",
+                     "ranking_denominator": "39",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 3 dari 39 hotel di Pangkal Pinang",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "70390790",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=70390790&geo=8006186&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=4&silo=6128&bucket=933282&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278850&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH1xwqnJJGqUTBwH5zaQvFqp1Qs7_oS131Tu23vQIpV-4d-D5VOONgDkLNpgNvhxcUwhNOdCn29eJclgsF58sDoIp_NEAG_K5BR26MILQh8fA-GcWZe9XWEjmS1s5_BRe6g&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=938cb665-36f1-48e0-b1d5-a601284a9cff&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d87c4a42e0d2e3aea7780f850ed1ebf7&area=QC_META_API&ik=b3ef403a54744023b7bc471ec1b41e47&dated=true&aok=a4f362ef39934f329fac36cf9cb30ef0&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a4f362ef39934f329fac36cf9cb30ef0"
+                                   },
+                                   {
+                                          "content_id": "69378628",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=69378628&geo=8006186&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=4&silo=45096&bucket=974633&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278850&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxFAUU8DAKlJjp7JTn2nQqx1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0NiSYjqOYMkY8s66--ZkbR6_F3GkH6FneeHKmqpvNTC-DS9sY8cUIbHB_CxsN40Uf81Oln_sQ8oA8eegGnGyloc7&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=938cb665-36f1-48e0-b1d5-a601284a9cff&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=165ada57891710372bde2f0308abbc0d7&area=QC_META_API&ik=b3ef403a54744023b7bc471ec1b41e47&dated=true&aok=cf650e08b54b40df836555c24fd8543d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cf650e08b54b40df836555c24fd8543d"
+                                   },
+                                   {
+                                          "content_id": "69940824",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=69940824&geo=8006186&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=4&silo=4322&bucket=932885&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278850&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzQu6MQMog3-g9_AoRmB9S-cjpFtFa9k9h5x0iyGULCVsCYRrQWsgjKwnbwZppYvsXfd2GBbnDXcSoGKZ6Xbrj24krVithkSB5GNb7DOGtao1&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=938cb665-36f1-48e0-b1d5-a601284a9cff&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1054deac6450458ef81f1001295e0fc4c&area=QC_META_API&ik=b3ef403a54744023b7bc471ec1b41e47&dated=true&aok=177d6f848afd4f30a07199548cdac946&tp=HR_MainCommerce",
+                                          "auction_offer_key": "177d6f848afd4f30a07199548cdac946"
+                                   },
+                                   {
+                                          "content_id": "119865809",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119865809&geo=8006186&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=4&silo=42117&bucket=958557&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261278850&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3Gmxs4lL9XRkcQ0YJFlf4SCJFW56ZaNfqyCZ36Q8HTA-t0kwqQmV2D47_MRbu7q3U_xmpHftFRTKxGY0ITBLW_VwEYf44CIU-fN-brtk09nMELzrl1DlnZEWFOQOy1G3PpxBbD-8kvqwCVc6wQHd7d2Y&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=938cb665-36f1-48e0-b1d5-a601284a9cff&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1dcef405a6491f72625ee2d432839887b&area=QC_META_API&ik=b3ef403a54744023b7bc471ec1b41e47&dated=true&aok=bb50ea3c9c244886928029ca1a635737&tp=HR_MainCommerce",
+                                          "auction_offer_key": "bb50ea3c9c244886928029ca1a635737"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.5",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "2b9c8484-ef6b-4001-8ca6-7bd62f4097cb",
+                     "description": "Selamat datang di Menumbing Heritage Hotel! Sebagai \"rumah\" Anda di Pangkal Pinang, hotel dengan fasilitas yang akan menyempurnakan masa menginap Anda.\nBangka Botanical Garden (BBG) (3,7 km), lokasinya berdekatan, membuat Menumbing Heritage Hotel tempat terbaik untuk menginap jika ingin mengunjungi tempat terkenal di Pangkal Pinang ini.\nWi-fi gratis ditawarkan untuk para tamu, dan kamar di Menumbing Heritage Hotel memiliki minibar, tv layar datar, dan penyejuk udara.\nSelama Anda menginap, gunakan fasilitas yang ditawarkan, seperti resepsionis 24 jam, layanan concierge, dan layanan kamar. Tamu Menumbing Heritage Hotel juga dapat menikmati kolam renang dan sarapan di properti. Untuk tamu yang mengemudi, parkir gratis tersedia.\nPangkal Pinang memiliki banyak restoran makanan laut. Jadi pada saat Anda disini, jangan lupa mengunjungi tempat populer seperti Mr. Adox Restaurant, RM Asui, dan D'Grande Cafe & Resto, yang menyajikan hidangan lezat.\nMencari hal yang dapat dilakukan di Pangkal Pinang? Alun-alun Taman Merdeka (0,5 km) adalah sebuah tempat menarik populer yang dapat dicapai dengan berjalan kaki dari Menumbing Heritage Hotel.\nMenumbing Heritage Hotel menampilkan yang terbaik dari Pangkal Pinang dalam genggaman tangan anda, membuat masa menginap anda semakin sempurna.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1234796-d8006186-Reviews-Menumbing_Heritage_Hotel-Pangkal_Pinang_Bangka_Island_Bangka_Belitung_Islands_Sumatra.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1234796-d8006186-Menumbing_Heritage_Hotel-Pangkal_Pinang_Bangka_Island_Bangka_Belitung_Islands_Sumatra.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Pangkal Pinang",
+                                   "abbrv": null,
+                                   "location_id": "1234796"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "island",
+                                                 "name": "Pulau"
+                                          }
+                                   ],
+                                   "name": "Pulau Bangka",
+                                   "abbrv": null,
+                                   "location_id": "1234795"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Kepulauan Bangka Belitung",
+                                   "abbrv": null,
+                                   "location_id": "2301790"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Sumatra",
+                                   "abbrv": null,
+                                   "location_id": "294231"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Pangkal Pinang",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 717 422990",
+                     "website": "http://www.menumbingheritage.com",
+                     "address_obj": {
+                            "street1": "Jl. Gereja no. 5",
+                            "street2": "",
+                            "city": "Pangkal Pinang",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "33134"
+                     },
+                     "address": "Jl. Gereja no. 5, Pangkal Pinang, Pulau Bangka 33134 Indonesia",
+                     "local_name": "Menumbing Heritage Hotel",
+                     "local_address": "Jl. Gereja no. 5, 33134",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bridal Suite",
+                                   "name": "Suite Pengantin"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Gift Shop - Amenities",
+                                   "name": "Toko Hadiah"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Iron",
+                                   "name": "Setrika"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Newspaper",
+                                   "name": "Koran"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Shoeshine",
+                                   "name": "Semir Sepatu"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "VIP Room Facilities",
+                                   "name": "Fasilitas Kamar VIP"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "25",
+              "auction_key": "9675df040bb347d9ad1fe858bc42dc30",
+              "impression_key": "b3ef403a54744023b7bc471ec1b41e47",
+              "pricing": "base"
+       }
+}

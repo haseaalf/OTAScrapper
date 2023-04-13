@@ -1,0 +1,391 @@
+{
+       "data": [
+              {
+                     "location_id": "5308187",
+                     "name": "Amaroossa Cosmo Jakarta",
+                     "latitude": "-6.276372",
+                     "longitude": "106.80879",
+                     "num_reviews": "357",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Jakarta, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/03/1a/66/kolam-renang.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/03/1a/66/kolam-renang.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "640",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/03/1a/66/kolam-renang.jpg",
+                                          "height": "480"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/03/1a/66/kolam-renang.jpg",
+                                          "height": "412"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/03/1a/66/kolam-renang.jpg",
+                                          "height": "187"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2015-06-02T08:01:58-0400",
+                            "caption": "kolam renang",
+                            "id": "134421094",
+                            "helpful_votes": "2",
+                            "published_date": "2015-06-03T01:22:36-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/5308187?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.724821090698242",
+                     "ranking_geo": "Jakarta",
+                     "ranking_geo_id": "294229",
+                     "ranking_position": "90",
+                     "ranking_denominator": "1285",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 90 dari 1.285 hotel di Jakarta",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0418.000 - Rp\u00a0522.000",
+                     "neighborhood_info": [
+                            {
+                                   "location_id": "20484395",
+                                   "name": "Cilandak"
+                            }
+                     ],
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "54171093",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0425.866",
+                                          "display_price_int": "425866",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=54171093&geo=5308187&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=3&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278186&managed=false&capped=false&gosox=89rjlaaOGgCz9L3knUd6CmprTmIeft25FWx4aMIebi-medKJXJptMtaCgeS9YmUhrRRZTC4kbSOVK-TE-hw8yEgaT_qNZjt_IN96resPesYAUNIdkjZn5D7gM_xvjp517SyIrhgX7pDyASOWOVEBdobXy56qd47yhujuZ2skLwH_ymxYXj6CDW_n6J6_TenjtDRUphklFjaKlLCkmWspYUIDoxvnVeU0MGkzu9cDs5m-Z-56O2ihdrmivsoX2xh23LCMAsIlqUE7edxIbl3PtA&priceShown=425866&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=400&rate=425865.89&fees=89428.87&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_2f9d2669881bf187e21460f1534504d4&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=827191e7-a89d-4b52-b37b-2e30591a3634&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f0c26f49b944a85b88259064d13dd2e6&area=QC_META_API&ik=aeb466da3d5946b0ae4b122bf472529f&dated=true&aok=dd2953f442014df48cd40e10cfe29836&tp=HR_MainCommerce",
+                                          "auction_offer_key": "dd2953f442014df48cd40e10cfe29836"
+                                   },
+                                   {
+                                          "content_id": "79221749",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0417.272",
+                                          "display_price_int": "417272",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79221749&geo=5308187&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=3&silo=18569&bucket=962380&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278186&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GjQxlM7ji2c3pF8syBAF8FmgBF6b-R9Jlai-KUbFlz6v6MX9OANXfEFmioh24rYevAezWrEbfv2p7WKX_Zo4CnmrRINpoSCcIV2GE7ufcKXt0e0xQne9Euojbqh2UbKlrRMhCZnAEz_DXCdvxvWZ91HlAKkPT8-dBlJAoKjle7bfcpawOC06jsDf3cHTFj8A6JPkTwwOewNczWT0zIi00UQUfEjPCO9GQ7Vrh0pQ8kxH3aOq04aW24TdL9h4IvWFxJEucWPipokgj80rBcVofeY&priceShown=417272&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=343&rate=417272.00&fees=87627.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_3047736b055c72463f7fa5be9da37f4a&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=827191e7-a89d-4b52-b37b-2e30591a3634&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1595b255c03b4d936ff2f3b3b11061658&area=QC_META_API&ik=aeb466da3d5946b0ae4b122bf472529f&dated=true&aok=57f81475fe514f87a36326f08bf42aa2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "57f81475fe514f87a36326f08bf42aa2"
+                                   },
+                                   {
+                                          "content_id": "203149325",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0366.150",
+                                          "display_price_int": "366150",
+                                          "strikethrough_price": "Rp\u00a0425.866",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=203149325&geo=5308187&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=3&silo=5091&bucket=897544&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278186&managed=false&capped=false&gosox=EQnhGOsPsFhC88JFjxRmlqhrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGBl5vPWrzLeacaNsJK5h1lQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTvbr3A9qEnOFSZD00XYNFNe05FqwN1bQu2pQWQjK2WoO7f5pHm1mXnke7ePeH68Hw7Q0VKYZJRY2ipSwpJlrKWFCA6Mb51XlNDBpM7vXA7OZvmfuejtooXa5or7KF9sYdtywjALCJalBO3ncSG5dz7Q&priceShown=366150&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=366150.00&fees=76892.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4c410c22507063b77cb2b85403224be9&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=827191e7-a89d-4b52-b37b-2e30591a3634&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1f99dcbdb95bf07cacce9b2abac83621c&area=QC_META_API&ik=aeb466da3d5946b0ae4b122bf472529f&dated=true&aok=925cbae436114c4e84edf63d7e1f414f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "925cbae436114c4e84edf63d7e1f414f"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "66ff0cc5-1b7a-46ac-86f1-71edf0aed114",
+                     "description": "Amaroossa Cosmo Jakarta merupakan pilihan yang tepat ketika mengunjungi Jakarta, karena menawarkan suasana yang romantis ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nTempat terkenal terdekat seperti Galeri Seni Kemang 58 (1,6 km) dan Masjid Istiqlal (3,0 km) membuat Amaroossa Cosmo Jakarta tempat terbaik untuk menginap selama mengunjungi Jakarta.\nWi-fi gratis ditawarkan untuk para tamu, dan kamar di Amaroossa Cosmo Jakarta memiliki tv layar datar, kulkas, dan penyejuk udara.\nSelama Anda menginap, gunakan fasilitas yang ditawarkan, seperti resepsionis 24 jam, layanan kamar, dan layanan concierge. Tamu Amaroossa Cosmo Jakarta juga dapat menikmati kolam renang dan sarapan di properti. Untuk tamu yang mengemudi, parkir gratis tersedia.\nJika Anda mencari restoran italia, coba kunjungi KALTURE Progressive Cafe & Resto, Patio Venue & Dining, atau Alto Restaurant and Bar, semua terletak berdekatan dengan Amaroossa Cosmo Jakarta.\nJakarta juga dikenal dengan beberapa museum kesenian menarik, termasuk diantaranya Museum MACAN, Museum Basoeki Abdullah, dan Hakka Museum TMII Indonesia, yang terletak tidak jauh dari Amaroossa Cosmo Jakarta.\nNikmati masa menginap Anda di Jakarta!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g294229-d5308187-Reviews-Amaroossa_Cosmo_Jakarta-Jakarta_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g294229-d5308187-Amaroossa_Cosmo_Jakarta-Jakarta_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Jakarta",
+                                   "abbrv": null,
+                                   "location_id": "294229"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Jakarta",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 21 75918800",
+                     "website": "https://amaroossahotel.com/jakarta-cosmo/",
+                     "email": "reservation.caj@amaroossahotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Pangeran Antasari 9a-b",
+                            "street2": "",
+                            "city": "Jakarta",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "12150"
+                     },
+                     "address": "Jl. Pangeran Antasari 9a-b, Jakarta 12150 Indonesia",
+                     "local_name": "Amaroossa Cosmo Jakarta",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Swimup Bar",
+                                   "name": "Bar Kolam Renang"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "29cfbd6f57b34697a86842eaaaba82cd",
+              "impression_key": "aeb466da3d5946b0ae4b122bf472529f",
+              "pricing": "base"
+       }
+}
