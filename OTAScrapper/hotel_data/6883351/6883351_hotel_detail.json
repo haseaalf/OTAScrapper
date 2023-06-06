@@ -1,0 +1,543 @@
+{
+       "data": [
+              {
+                     "location_id": "6883351",
+                     "name": "Hotel Ciputra World Surabaya",
+                     "latitude": "-7.293864",
+                     "longitude": "112.71994",
+                     "num_reviews": "2542",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Surabaya, Jawa Timur, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/06/14/ec/guest-arrival.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/06/14/ec/guest-arrival.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/06/14/ec/guest-arrival.jpg",
+                                          "height": "1333"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/06/14/ec/guest-arrival.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/06/14/ec/guest-arrival.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2018-05-22T03:29:16-0400",
+                            "caption": "Hotel Lobby on 8th Floor / Guest arrival ",
+                            "id": "319165676",
+                            "helpful_votes": "0",
+                            "published_date": "2018-05-22T03:29:16-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/6883351?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.936947345733643",
+                     "ranking_geo": "Surabaya",
+                     "ranking_geo_id": "297715",
+                     "ranking_position": "1",
+                     "ranking_denominator": "517",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 517 hotel di Surabaya",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0803.000 - Rp\u00a0985.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "64869099",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "pay_at_stay_message": "Tidak perlu membayar di muka",
+                                          "display_price": "Rp\u00a0909.091",
+                                          "display_price_int": "909091",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=64869099&geo=6883351&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=5&silo=10473&bucket=903102&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914984&managed=false&capped=false&gosox=Ne698shSCtbgeylBHWTCz9I2gWmdiZ8Titqn9qycCA2YC2Pd9INjlDypM_U2RwebtSuefT2krD9fo6Mg7vECG0gaT_qNZjt_IN96resPesbAGC7JFGIbPaZ0JXGV4pR-SYpjU_PjbmSZkIS0ECJ0hW6nSauRfVU4fn-dLCTXFCE5JGp55dc-ry6hMjDPfr0B68spuVMscxtkDKgW3Yc8EycFp10ZKTdXg-xFrAKud_i1kGuviKtAnH8nYr0sI7JBnIRnXHyLFvkj-pP2PNlt7A&priceShown=909091&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=961&rate=909090.91&fees=190909.09&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_dc6e57d89b67b5ea0c4d3266c086130&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=575f40fa-d750-4c07-883a-fbf0bb31e698&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=182b4a381b7df653349c0d53fbc2ddb6e&area=QC_META_API&ik=f5bb400507b04afc84f6beb5f9ac1299&dated=true&aok=97a9ddfa2ca44384bfabbd5113744dc8&tp=HR_MainCommerce",
+                                          "auction_offer_key": "97a9ddfa2ca44384bfabbd5113744dc8"
+                                   },
+                                   {
+                                          "content_id": "79224767",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0763.455",
+                                          "display_price_int": "763455",
+                                          "strikethrough_price": "Rp\u00a0909.091",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79224767&geo=6883351&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=5&silo=18569&bucket=934050&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914984&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLDQxlM7ji2c3pF8syBAF8FlFQlAVDj7xjMvSfk9iRKS--E1RKdvdi462UpAR9oe6QH86C2i4OSOsvet3SFjM8PX-UKCwugDdAMbIbUQH_dJBYtDXyTKMHxRygorrE5IUveKl_qGCmD7DQpwWjA3FyoK8_78KWH11iCXMblR-ercoMaFJW6SJBcTnhHpNHTuY7JPkTwwOewNczWT0zIi00UQvBVNnn5Op4v34zwbGhNYvJPLHBeZo81Tw4lu7TGLx-6ClHkdw9dCmHxfLZNJiFew&priceShown=763455&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=763455.00&fees=160325.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_d18ecf414d1cd1b23d32676faf1150b&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=575f40fa-d750-4c07-883a-fbf0bb31e698&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1f44cf8d8cb30dc2fa4c11dd3cb8d7671&area=QC_META_API&ik=f5bb400507b04afc84f6beb5f9ac1299&dated=true&aok=966fd8f92e674cc7aeff36cd6f9f4eb5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "966fd8f92e674cc7aeff36cd6f9f4eb5"
+                                   },
+                                   {
+                                          "content_id": "63939601",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0881.818",
+                                          "display_price_int": "881818",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=63939601&geo=6883351&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=5&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=259914984&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULXhfaPQ13Oqd_ZpWCGSvOVCWrbymFmq0mfrg8tiIGn3W2L900sTPIaQ7WFLQmhe_shz0WP8EpBBZDj6EvxJISpER38IxCVsDEIZPekyEVf2Yp1gx7VZQu5N0sa_kOfVy-nNLEUOdWj5V7KLZZwYzrQd3s-wM54YZ0IsgS2l8m-ErEXL8HiZQmrpJVQ6n2zIZHZPkTwwOewNczWT0zIi00UQC1btNreXHFRBhKc9FO4b4JPLHBeZo81Tw4lu7TGLx-6ClHkdw9dCmHxfLZNJiFew&priceShown=881818&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=781&rate=881818.00&fees=185182.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_373e9614902725a86dac15982d0b0c4d&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=575f40fa-d750-4c07-883a-fbf0bb31e698&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=136622f97a3204bc16964a3e0807766f7&area=QC_META_API&ik=f5bb400507b04afc84f6beb5f9ac1299&dated=true&aok=d88c3149c7504f52a7a8767f7b5aeb7b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d88c3149c7504f52a7a8767f7b5aeb7b"
+                                   },
+                                   {
+                                          "content_id": "64410108",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0882.000",
+                                          "display_price_int": "882000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=64410108&geo=6883351&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=5&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=259914984&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p4N0gG5bNPtxBH315ID6LQsXxzKtKvJ8vMdpx_RUqrdfFBJFMFrPZkzGCuE4wh7fusE4vxt0MLsg6sC_lGTRnefDJdKK2dIia46GPlmnjp_O89s2JpUZu2fLNZqs6ef22IrQwM7yNZYKVzUzEdye9KopNCmMz-8R0W8u4A0-V3pfuJ828Km4RyflDSwIPz7nXVokqWuemoPTe3q4lnirp1wkvifcckZZ5KgvTUjatC8vgtyxS7AwgVepMQi_kT-a6qic43RgqGMcxX6RuZicfgE&priceShown=882000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=782&rate=882000.000000000000&fees=186000.000000000000&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=575f40fa-d750-4c07-883a-fbf0bb31e698&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1bd06645035582fb7aea5bb99c5dae905&area=QC_META_API&ik=f5bb400507b04afc84f6beb5f9ac1299&dated=true&aok=cc44ac51a5cf4554a99eca67fa382140&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cc44ac51a5cf4554a99eca67fa382140"
+                                   },
+                                   {
+                                          "content_id": "165283526",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=165283526&geo=6883351&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=5&silo=5091&bucket=897544&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914984&managed=false&capped=false&gosox=MbwUIxhjHBYmJBNQS5sBYqhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateeBmyuJrJbOK3HH1U45n8OQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTop42kUG8dCz5aCaUq-wgY0I4nHLNRo0p6sT9d_a_4WuooomCCCo-09XHaYRoh4B9jitkZDVDF72qa775dfKnys9OUNgdHhPqRa5KWgX7vW39OESLFJZQbSNjBd1k0vBW-83YE74etREwzcFFTD1P-s&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=575f40fa-d750-4c07-883a-fbf0bb31e698&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1db3b791699a75b6b7c7b9b36ad4dc819&area=QC_META_API&ik=f5bb400507b04afc84f6beb5f9ac1299&dated=true&aok=95c025578de54092b6826d4aca789154&tp=HR_MainCommerce",
+                                          "auction_offer_key": "95c025578de54092b6826d4aca789154"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "8ac5073f-43d8-444b-ac4c-b46ad63d89f3",
+                     "description": "Hotel Ciputra World Surabaya adalah pilihan tepat untuk wisatawan yang mengunjungi Surabaya, karena menawarkan suasana yang sesuai untuk keluarga ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nSebagai \"rumah\" Anda, kamar hotel menawarkan tv layar datar, kulkas, dan minibar, dan mudah terhubung dengan internet karena wi-fi gratis tersedia.\nPara tamu memiliki akses resepsionis 24 jam, layanan concierge, dan layanan kamar selama menginap di Hotel Ciputra World Surabaya. Selain itu, Hotel Ciputra World Surabaya juga menawarkan kolam renang atap dan sarapan, yang akan membuat pengalaman menginap di Surabaya semakin berkesan. Dan, untuk menambah kenyamanan, parkir gratis tersedia untuk para tamu.\nBerdekatan dengan beberapa tempat terkenal di Surabaya, seperti Patung Sura dan Buaya (2,1 km) dan Monumen Perjuangan POLRI (2,7 km), Hotel Ciputra World Surabaya adalah destinasi yang sangat baik untuk turis.\nSaat berkunjung, jangan lupa untuk mampir ke restoran populer di Surabaya yang menyajikan kepiting seperti Restaurant Kepiting Cak Gundul, Beatus Alfresco Dining & Grill, dan Depot AYEN, semua berdekatan dengan Hotel Ciputra World Surabaya.\nJika masih memiliki waktu, Stasiun Surabaya Gubeng, Gedung Balai Pemuda, dan Bangunan Grahadi merupakan beberapa bangunan arsitektur populer yang mudah untuk dicapai.\nNikmati masa menginap Anda di Surabaya!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297715-d6883351-Reviews-Hotel_Ciputra_World_Surabaya-Surabaya_East_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297715-d6883351-Hotel_Ciputra_World_Surabaya-Surabaya_East_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Surabaya",
+                                   "abbrv": null,
+                                   "location_id": "297715"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Timur",
+                                   "abbrv": null,
+                                   "location_id": "2301797"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Surabaya",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 31 51201000",
+                     "website": "http://www.hotelciputraworld.com",
+                     "email": "rsvcws@swiss-belhotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Mayjend Sungkono no. 89",
+                            "street2": "",
+                            "city": "Surabaya",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "60224"
+                     },
+                     "address": "Jl. Mayjend Sungkono no. 89, Surabaya 60224 Indonesia",
+                     "local_name": "Hotel Ciputra World Surabaya",
+                     "local_address": "Jl. Mayjend Sungkono no. 89, 60224",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Pool",
+                                   "name": "Kolam Renang Atap"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Rooftop Terrace",
+                                   "name": "Teras Atap"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Bridal Suite",
+                                   "name": "Suite Pengantin"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Fitness / Spa Locker Rooms",
+                                   "name": "Ruang Loker Kebugaran/Spa"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Newspaper",
+                                   "name": "Koran"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Pool with View",
+                                   "name": "Kolam Renang dengan Pemandangan"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Valet Parking - Amenities",
+                                   "name": "Layanan Parkir Valet"
+                            },
+                            {
+                                   "key": "VIP Room Facilities",
+                                   "name": "Fasilitas Kamar VIP"
+                            },
+                            {
+                                   "key": "Kids Pool",
+                                   "name": "Kolam renang anak"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "618e14b6b0624560b476e4b3a47894cf",
+              "impression_key": "f5bb400507b04afc84f6beb5f9ac1299",
+              "pricing": "base"
+       }
+}

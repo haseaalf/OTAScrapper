@@ -1,0 +1,743 @@
+{
+       "data": [
+              {
+                     "location_id": "4913622",
+                     "name": "Fraser Residence Menteng Jakarta",
+                     "latitude": "-6.184607",
+                     "longitude": "106.83474",
+                     "num_reviews": "408",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Jakarta, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/04/f8/3f/exterior.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/04/f8/3f/exterior.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/04/f8/3f/exterior.jpg",
+                                          "height": "1334"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/04/f8/3f/exterior.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/04/f8/3f/exterior.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2019-06-22T01:52:03-0400",
+                            "caption": "Exterior",
+                            "id": "402978879",
+                            "helpful_votes": "0",
+                            "published_date": "2019-06-22T01:52:03-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/4913622?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.623726844787598",
+                     "ranking_geo": "Jakarta",
+                     "ranking_geo_id": "294229",
+                     "ranking_position": "116",
+                     "ranking_denominator": "1285",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 116 dari 1.285 hotel di Jakarta",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a01.209.000 - Rp\u00a01.493.000",
+                     "neighborhood_info": [
+                            {
+                                   "location_id": "21002077",
+                                   "name": "Menteng"
+                            }
+                     ],
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "58362611",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a01.210.033",
+                                          "display_price_int": "1210033",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=58362611&geo=4913622&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278102&managed=false&capped=false&gosox=4sE2jxZJr38hMPD1kLgUiGprTmIeft25FWx4aMIebi_2PLJfgEwxOIX5dC1OhFRvTaAjfM7G0_IreAHPQwdu2UgaT_qNZjt_IN96resPesb7IpLX8Z6o-MT_G7hXLuEYkf9-qoFHTBkQsZnfXcaGvYwCpuFv8wr5J1-qq_MFOa2V1LncTRnyJymAjsjn5ZI868spuVMscxtkDKgW3Yc8E6l4nl2KAaaERvQSAm0WifL46fnl_FNVKEUD0gTZCD6jSuAUM13SWqmXQZ2LAwzvEA&priceShown=1210033&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=1142&rate=1210032.78&fees=254062.23&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_7f4bbd0e75391f816fcf29102cb425c2&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=17f37dde04dc35dbcd1ae5b94e32cb6ba&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=1b839aeb51574b7293efb232b2d77e23&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1b839aeb51574b7293efb232b2d77e23"
+                                   },
+                                   {
+                                          "content_id": "79236506",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.154.824",
+                                          "display_price_int": "1154824",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79236506&geo=4913622&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=18569&bucket=934050&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278102&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLDQxlM7ji2c3pF8syBAF8Fnt4BJICNMaC_UAoRJeG09N6MX9OANXfEFmioh24rYevJr5TiyZPkV90SMADply309jukT7j2kCn6Ky01A7yRhE2ZFgBRr-V3UUthoH4gOs59NgL5dYj_xAzZwSExMiH2JjIwaVMW-1oCQJduO3pxcE3amt1ekyRPkksRHPFHmACWvWHEO9Ji8XoU93Ewx4c7zbFzRfA3Ly2tKtAivOFUxvGNF8ICk-0uc3EOUk15LBceHEa7-C1FH9QMV7zSPyrGU&priceShown=1154824&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=772&rate=1154824.00&fees=153604.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_7ce2ab73f6fd058c59145dc04c07d781&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=13cca55741b385a3a8a44ee9ddd48b01d&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=a230d6e41a044d8280e7d3bf04d86a27&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a230d6e41a044d8280e7d3bf04d86a27"
+                                   },
+                                   {
+                                          "content_id": "174635690",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.039.547",
+                                          "display_price_int": "1039547",
+                                          "strikethrough_price": "Rp\u00a01.210.033",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174635690&geo=4913622&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261278102&managed=false&capped=false&gosox=p9NEpElxCEWyonM4pLGfqtB9Nk-3dZvv4uHo-0rPhIStE-R8pXPax9qRY6-XXK6jsTqQLOGU-WjCQD22pP8XFaYS_QfT0UVmyHTZtCEhlVQXDwGBTYiJXwx2FscdksEKH6_5Mfqgbbjp2vCNYib63OvYArrq2Ugks-rGTUk2wnyYQ5n16cK7iX0vPeo7Zaoc9NYiS0Pb6LbIIZMVw68bCbpo6AfyyUbz1zqybGs0MDU5GBtqc_LUXwsJqyIr42DzaB8Ey91l_CK5NO7nQ2OjwA&priceShown=1039547&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=1039547.00&fees=138254.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_9c797f29324c5c693ef14992344fa77&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1e2e9717c17f5f687586b13cc9f75c073&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=f09612d4849c4c40b963e4266ba75f35&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f09612d4849c4c40b963e4266ba75f35"
+                                   },
+                                   {
+                                          "content_id": "236664598",
+                                          "provider_display_name": "Official Site",
+                                          "internal_provider_name": "WIHP",
+                                          "logo": "https://static.tacdn.com/img2/langs/in/branding/hotels/official_site_logo.gif",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.176.000",
+                                          "display_price_int": "1176000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=WIHP&src=236664598&geo=4913622&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=43245&bucket=965271&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261278102&managed=false&capped=false&gosox=jc4B8RhBoTd-upCEkmD8nS8pv2NZ7JzY6uhLoSlbLyg84JM1w3pbRyPhsyHBGTCElV94Hq3s9Cc7MDxPmkVzAvPIoEWc-o36N2WNiQLSmE1R0O4w4uVLUlKNBg1VYlxN1CfXFHdo-2p5aVHePllqUbi-jbqxLfcS_156cOIpElioEMm7n7W3mhlCB4-M-RJudZGSbjkolhIZZQb_Ff-szO60u1UUuDgimKvr0op20i6pN8Qb8dDSYa1-rsqHo5-q-j6IDdvzOMEwRDjZaCHXeA&priceShown=1176000&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=914&rate=1176000.00&fees=133240.80&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_43bbbfa9408425a64fc9d28bed337c84&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=16458d4e822f6cce046d13e330a0947db&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=b67dd3ee304944f7a938fcd032b59fe1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b67dd3ee304944f7a938fcd032b59fe1"
+                                   },
+                                   {
+                                          "content_id": "205815966",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.145.537",
+                                          "display_price_int": "1145537",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=205815966&geo=4913622&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=5091&bucket=897544&nrank=4&crank=5&clt=M&ttype=MobileCR&tm=261278102&managed=false&capped=false&gosox=j2vqO_fb07A1JOafSxCEk6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGZNyjRhV4LM36GW5OXDRi_gIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTqhZf0qBDTV0txxvr2oxLJFpHa8dDRuqRQkdZCyoc_bEBPY59sN8avIjytUcamg4VAkGkcFbqW4KtiZ4bCjOPwCD1jFjBvYhXR4cJVMp7LbZR_QGsqRCEgQHWIs5gatOBagx9J56DdgvGsu5-2AHNvg&priceShown=1145537&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=710&rate=1145537.00&fees=240562.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_5c3d9f71b5c23459379fc9163551737b&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1320947e356ad6fd41cbc2bb5fff71c43&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=a9b3d158da964253901eae6a7b219d50&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a9b3d158da964253901eae6a7b219d50"
+                                   },
+                                   {
+                                          "content_id": "230602065",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.039.547",
+                                          "display_price_int": "1039547",
+                                          "strikethrough_price": "Rp\u00a01.210.033",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=230602065&geo=4913622&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=44859&bucket=973414&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261278102&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa7aenO18KttvLSLKY0zWlBDsTqQLOGU-WjCQD22pP8XFVEWvMFBVv0zLhshYabVz19GNV6EhUoLqFKQAWRBECw6Fwc5MfBIshLDGQd2I-Sj0OvYArrq2Ugks-rGTUk2wnxf7d9fIAAY9GVP230PTf-VPR0VActZAyGTbu-i_T8f9wz96UHxX8g1Lq0hBvqjbqiZejTeiO--t115460DccAzkLQXItyyShrVYhRH1ms7lA&priceShown=1039547&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=1039547.00&fees=138254.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_6a243ab469970a535ede061e8240e26&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1ea7c828babffa135e5afe8a276d85eec&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=6daeaeeb11344886bfc0f0c5efc2ce77&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6daeaeeb11344886bfc0f0c5efc2ce77"
+                                   },
+                                   {
+                                          "content_id": "211192411",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=211192411&geo=4913622&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278102&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH63fTXx3QtgCLRDzhYy8G5lgFkqQeLI1G85Gtc66JvTgVqRSKXZbPWdUO9ERYNJ7VWieRYCmN0-HNjQflVIV9hdknIXdH8U6qdS-32OQgZ6zRmCAeOE9_-uapV9sMK8UQw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1afd408dd6d565f65df99028e259eebc3&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=18177969dd24417da478a20a93bc5277&tp=HR_MainCommerce",
+                                          "auction_offer_key": "18177969dd24417da478a20a93bc5277"
+                                   },
+                                   {
+                                          "content_id": "205741118",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=205741118&geo=4913622&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261278102&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzdWY6lDX5Zeb15UatjJsFlle4xLsR5pNRE557XyWjJeqZadRznei86L7Kzqxz3kK-TkYG2pz8tRfCwmrIivjYPNoHwTL3WX8Irk07udDY6PA&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=18240e71f1b27916ca52f48cff969f143&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=26d8e7df0ca241a981d40ede7cc3ee7d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "26d8e7df0ca241a981d40ede7cc3ee7d"
+                                   },
+                                   {
+                                          "content_id": "150315125",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150315125&geo=4913622&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=42117&bucket=958560&nrank=9&crank=9&clt=M&ttype=MobileCR&tm=261278102&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GtcKCEG1B536UR4uixc5XFJFW56ZaNfqyCZ36Q8HTA-tV11JBXm5uoAMzojniX--AYq_2Tf_PYfGFRk18W62EKjEG-umKEQmc1v5HqIpNR4t3AP3gy3STF6bkBKLinV5RyGuJdVjI_Wp9CnToG4C-jw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=953080cc-bdaf-4c9d-9ed6-01a9d0a69f1b&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1ba30e3da2c308442ccf4b08fea0ab222&area=QC_META_API&ik=b240bbee1d9841ac8b84da7b8f6a1541&dated=true&aok=1a81e3f821d14855b6d7649f85e5a91d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1a81e3f821d14855b6d7649f85e5a91d"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": [
+                                   {
+                                          "value": "(021) 29551888",
+                                          "label": "Nomor telepon",
+                                          "type": "phone",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=231144531&geo=4913622&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=980137&ubucket=980137&nrank=1&crank=1&clt=CLTM&tm=261278102&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdxYsKS0dRMfbjaIyB5vER0wPQLvvylN5Ih3R86LEg3YkQ&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=1&cs=1ee348db29b086d127c9220812c077e97"
+                                   },
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=231144531&geo=4913622&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=980137&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261278102&managed=false&capped=false&gosox=svllDHBz9BFjQpXg6nR0ckPoXRR4cC-91XN48UARVRhR5zPFuFovzg8LTSjnPYB0tTBJMWLqDYB4ZNe5zmZDbye0Z1Ba8lXoCz3qn4xQU7KyWTdvuLCADlF1izG0BVU8&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&dated=true&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=2&cs=1f33b386e46e425c3a7712db7aabc8510",
+                                          "label": "Situs Web hotel",
+                                          "type": "url"
+                                   },
+                                   {
+                                          "value": "sales.menteng-jakarta@frasershospitality.com",
+                                          "label": "Kirimkan e-mail kepada hotel",
+                                          "type": "email",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=231144531&geo=4913622&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=30355&bucket=980137&ubucket=980137&nrank=1&crank=1&clt=CLEM&tm=261278102&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdzi-T72pzbjLf1c6qss8kwEZiEjA1cPnLqzXcimr5yjsg&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=3&cs=1e30095f25044b1573801bf5aef4f1dac"
+                                   }
+                            ]
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": [
+                                   {
+                                          "headline": "Penawaran paket",
+                                          "url": "https://www.tripadvisor.co.id/ShowSpecialOffer-a_d.4913622-a_offer.9407138-a_trafficSource.ba?adults=2&child_rm_ages=&inDay=13&inMonth=4&inYear=2023&outDay=14&outMonth=4&outYear=2023&rooms=1",
+                                          "offerless_click_tracking_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=231144531&geo=4913622&from=api&area=OID:9407138%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=980137&ubucket=980137&nrank=1&crank=1&clt=SOIM&tm=261278102&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkYeaWtkx0sZ7mNKigsNWMdxQvOPG8Msym5BRM9wkpIjD2h-8qO6hrvQdw-Iz2PujRQ&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&cs=17ddeaf44936b592debf8fc54ecaa3c53",
+                                          "coupon_id": null,
+                                          "coupon_type": "PACKAGE",
+                                          "bl_language": null,
+                                          "description": "",
+                                          "valid_start_date": "2022-10-03T00:00:00-04:00",
+                                          "valid_end_date": "2023-10-02T00:00:00-04:00",
+                                          "valid_days": "Penawaran berlaku untuk hari berikut: .",
+                                          "taxes": null
+                                   }
+                            ]
+                     },
+                     "listing_key": "a05f3f3a-615b-453e-b2b8-f0ef421c963e",
+                     "description": "Fraser Residence Menteng Jakarta merupakan pilihan tepat saat mengunjungi Jakarta. Kombinasi ideal antara harga, kenyamanan, dan kepraktisan, tempat ini menawarkan suasana yang sesuai untuk keluarga dengan fasilitas yang di desain untuk wisatawan seperti Anda.\nFraser Residence Menteng Jakarta bersuasana hotel sesuai untuk keluarga menawarkan tv layar datar, penyejuk udara, dan kulkas di dalam kamarnya, dan mudah terhubung dengan internet karena wi-fi gratis tersedia untuk para tamu.\nHotel menawarkan layanan kamar dan layanan concierge. Dan, para tamu dapat menikmati kolam renang dan sarapan, yang merupakan pilihan populer para wisatawan yang berkunjung ke Jakarta. Untuk para tamu yang mengemudi, parkir gratis tersedia.\nSelama menginap di Fraser Residence Menteng Jakarta, tamu dapat mengunjungi Gereja Immanuel (1,1 km) dan Masjid Agung Sunda Kelapa (1,8 km), beberapa tempat terkenal di Jakarta.\nSaat berkunjung, jangan lupa untuk mampir ke restoran populer di Jakarta yang menyajikan dim sum seperti Sana Sini Restaurant, Satoo, dan Taste Paradise, semua berdekatan dengan Fraser Residence Menteng Jakarta.\nSelalu ada banyak aktivitas yang dapat dilakukan di area ini: telusuri bangunan arsitektur populer seperti Stasiun Kereta Api Gambir, Metropole XXI, dan Balai Kota DKI Jakarta.\nAnda pasti akan menikmati menginap di Fraser Residence Menteng Jakarta sambil menikmati semua yang Jakarta dapat tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g294229-d4913622-Reviews-Fraser_Residence_Menteng_Jakarta-Jakarta_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g294229-d4913622-Fraser_Residence_Menteng_Jakarta-Jakarta_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Jakarta",
+                                   "abbrv": null,
+                                   "location_id": "294229"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Jakarta",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "02129551888",
+                     "website": "http://menteng-jakarta.frasershospitality.com/",
+                     "email": "sales.menteng-jakarta@frasershospitality.com",
+                     "address_obj": {
+                            "street1": "Jln. Menteng Raya No. 60",
+                            "street2": "Menteng",
+                            "city": "Jakarta",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "10340"
+                     },
+                     "address": "Jln. Menteng Raya No. 60 Menteng, Jakarta 10340 Indonesia",
+                     "local_name": "Fraser Residence Menteng Jakarta",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "kitchenette",
+                                   "name": "Dapur kecil"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Sauna",
+                                   "name": "Sauna"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Malay",
+                                   "name": "Bahasa Melayu"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Self-Serve Laundry",
+                                   "name": "Layanan Cuci Pakaian Mandiri"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Kids Pool",
+                                   "name": "Kolam renang anak"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Air Purifier",
+                                   "name": "Pembersih Udara"
+                            },
+                            {
+                                   "key": "Billiards",
+                                   "name": "Biliar"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Children's Playground",
+                                   "name": "Taman Bermain Anak-Anak"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Electric Kettle",
+                                   "name": "Cerek Listrik"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Hand Massage",
+                                   "name": "Pijat Tangan"
+                            },
+                            {
+                                   "key": "Happy Hour",
+                                   "name": "Waktu Diskon"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Indoor Play Area for Children",
+                                   "name": "Area Bermain Luar Ruangan untuk Anak-Anak"
+                            },
+                            {
+                                   "key": "Iron",
+                                   "name": "Setrika"
+                            },
+                            {
+                                   "key": "Kids' Outdoor Play Equipment",
+                                   "name": "Peralatan Bermain Anak-Anak Luar Ruangan"
+                            },
+                            {
+                                   "key": "Kitchenware",
+                                   "name": "Peralatan Dapur"
+                            },
+                            {
+                                   "key": "Laptop Safe",
+                                   "name": "Brankas Laptop"
+                            },
+                            {
+                                   "key": "Massage Chair",
+                                   "name": "Kursi Pijat"
+                            },
+                            {
+                                   "key": "Neck Massage",
+                                   "name": "Pijat Leher"
+                            },
+                            {
+                                   "key": "Oven",
+                                   "name": "Oven"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "Salon",
+                                   "name": "Salon"
+                            },
+                            {
+                                   "key": "Separate Living Room",
+                                   "name": "Ruang Keluarga Terpisah"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            },
+                            {
+                                   "key": "Steam Room",
+                                   "name": "Ruang Sauna"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Tile / Marble Floor",
+                                   "name": "Lantai Ubin/Marmer"
+                            },
+                            {
+                                   "key": "Umbrella",
+                                   "name": "Payung"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            },
+                            {
+                                   "key": "Walk-in Shower",
+                                   "name": "Shower Berdiri"
+                            },
+                            {
+                                   "key": "Wardrobe / Closet",
+                                   "name": "Lemari Pakaian/Lemari"
+                            },
+                            {
+                                   "key": "Washing Machine",
+                                   "name": "Mesin Cuci"
+                            },
+                            {
+                                   "key": "Whirlpool Bathtub",
+                                   "name": "Bathtub Pusaran Air"
+                            },
+                            {
+                                   "key": "Wine / Champagne",
+                                   "name": "Minuman Anggur/Sampanye"
+                            }
+                     ],
+                     "owner_website": "/Commerce?p=TABAIndependentHotels&src=231144531&geo=4913622&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=980137&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=261278102&managed=false&capped=false&gosox=svllDHBz9BFjQpXg6nR0ckPoXRR4cC-91XN48UARVRhR5zPFuFovzg8LTSjnPYB0tTBJMWLqDYB4ZNe5zmZDbye0Z1Ba8lXoCz3qn4xQU7KyWTdvuLCADlF1izG0BVU8&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&dated=true&inMonth=4&inYear=2023&outMonth=4&outYear=2023&def_d=false&bapid=2&cs=1f33b386e46e425c3a7712db7aabc8510"
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "25de6686c17a4cbe804032f2dc4c1b77",
+              "impression_key": "b240bbee1d9841ac8b84da7b8f6a1541",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,455 @@
+{
+       "data": [
+              {
+                     "location_id": "4762309",
+                     "name": "Taksu Sanur Hotel",
+                     "latitude": "-8.705903",
+                     "longitude": "115.255875",
+                     "num_reviews": "1092",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Sanur, Denpasar, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/d9/59/91/taksu-sanur-hotel.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/d9/59/91/taksu-sanur-hotel.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "3500",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/d9/59/91/taksu-sanur-hotel.jpg",
+                                          "height": "2333"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/d9/59/91/taksu-sanur-hotel.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/d9/59/91/taksu-sanur-hotel.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2020-02-09T23:01:06-0500",
+                            "caption": "Swimming Pool ",
+                            "id": "450451857",
+                            "helpful_votes": "1",
+                            "published_date": "2020-02-09T23:01:06-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/4762309?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.433752059936523",
+                     "ranking_geo": "Sanur",
+                     "ranking_geo_id": "297700",
+                     "ranking_position": "19",
+                     "ranking_denominator": "121",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 19 dari 121 hotel di Sanur",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0716.000 - Rp\u00a0955.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "50979094",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0697.575",
+                                          "display_price_int": "697575",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=50979094&geo=4762309&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278073&managed=false&capped=false&gosox=Py4qVwi9KMhHqFSSxfgRGWprTmIeft25FWx4aMIebi8wVAlVFqZEXsrfm419QyxKhLnud_GQlnPF7foMkiQjxUgaT_qNZjt_IN96resPesYxdpp7h3S6zPejTxSUSR4etOz6qQ_UaaJ16K0C4qoR_bIh_OJYefwxECeJnIjlzEQb0nh5dQQtt7M3F6ABOl55tDRUphklFjaKlLCkmWspYfn2vc4GTnoSa3QjXxlKiU3R_Vn_Iu2BKUjp0SnYa5NTyksCxfSRWed4A_Z4KReVAw&priceShown=697575&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=376&rate=697574.87&fees=146568.10&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_545f1f7b7bf48f1a758e2ef940613039&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1e04c351c72b285b43585fbef6c4b17dc&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=0e3182770f9348b9bee7ba4baad75ebe&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0e3182770f9348b9bee7ba4baad75ebe"
+                                   },
+                                   {
+                                          "content_id": "51729522",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0641.443",
+                                          "display_price_int": "641443",
+                                          "strikethrough_price": "Rp\u00a0697.575",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=51729522&geo=4762309&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278073&managed=false&capped=false&gosox=aH98Z3klDNboOFYXW50BL6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateoIWk6IUv_DeVYYZrK4mDLgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTv8ixZ2vjPLRQajFtFT4y7uIX-xh_lUJzka8dTtdrYoDB5h38NolmX2kYq1l-roMEQkGkcFbqW4KtiZ4bCjOPwAUcvV0G-QS1acTaKp3TKcp3Qytz0WwCGo1EEgFod274oBAaXT6kKjxKHsaDAwKSW4&priceShown=641443&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=641443.00&fees=134703.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4ecca139976bf002d0dc26fb9485c250&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=17097a4e7bde2b90dce03f935546f5a05&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=b4f2135d5a3f48c9a491685cfd28504c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b4f2135d5a3f48c9a491685cfd28504c"
+                                   },
+                                   {
+                                          "content_id": "79205788",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0652.437",
+                                          "display_price_int": "652437",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79205788&geo=4762309&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278073&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0Gqlb5w_5cn-lB0bkJuoG2FZq0gVus5QjtrSyY4z6CfvO6MX9OANXfEFmioh24rYevFcIurN1JhykZxt2rDGp0omG1tktqMM16T-_tHxSg7Iqw-0plFTnXNzWz1hFwmuagu9oahC-ds6uTX5iWBtTuVKMbjZBY4evq4TyyQrFdQtml7D_zURRXwEOLq7fGsDnr1okqWuemoPTe3q4lnirp1z4Vm_6PYFSjlup5BAhwsAIxgRayVffCsOe7-8mb5tAv7glX4XzvLTSOO8Ii3Vq1eQ&priceShown=652437&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=74&rate=652437.00&fees=137012.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4bfbbefa68e8c1e71b2725fa3fda69f9&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1ac07a7bf8b2b9b4f3693abc082a0a048&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=3e95811092954ff2a435c441ae96de59&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3e95811092954ff2a435c441ae96de59"
+                                   },
+                                   {
+                                          "content_id": "218475526",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0642.002",
+                                          "display_price_int": "642002",
+                                          "strikethrough_price": "Rp\u00a0697.575",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218475526&geo=4762309&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=44859&bucket=973414&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261278073&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5HmLDP5JC7l9SZgdLzZpHa7aenO18KttvLSLKY0zWlBDAPiVecjHF8ie3ogY8UjRXEphinEgIxepiiU_ejUsXckDTo2giALvBPjtC33fQ3pNc5J1L1OiNdWokK56s_NHwr2OUQkO9L_RONLwsvo-uuibv7Ne3Stw_Gre9HHSPOUpVad2srkr-q_NLt38B7WnQOXlZKAw7Riw75CaUB6Pmuf2Pt_KOBADzZ5vu5-iMp6HoPV7TVmf1GXlJLVBv7qYNw&priceShown=642002&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=4&rate=642002.00&fees=134820.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_2e5eadade9bd3408590fa986e63f52e7&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=161328e44f1e703a6661d43755c65b354&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=7cc9b78eceef490299547e0393d4d721&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7cc9b78eceef490299547e0393d4d721"
+                                   },
+                                   {
+                                          "content_id": "208817836",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=208817836&geo=4762309&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261278073&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH4ekb60S0YnL3d7r9_YKt_7PEI3nl1UoGtX9V96EBTWXnBK4Dckg74F_g8O-qE7SPl2CPc2VdctbKDar-K-8ftXpqlTyJDSRB_YBJoR2aFJkfnbdgxrnT3LtRsbELybvaw&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=11bb944026472fbf70f19a9daaf5cf68a&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=46d09e344c754658a473af410947d35b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "46d09e344c754658a473af410947d35b"
+                                   },
+                                   {
+                                          "content_id": "234016976",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=234016976&geo=4762309&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261278073&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzR0QytfoWl8cwcJQbGLNjctbv7XZL-c17242t3KUoM-td00D7f8gtnbt4F_sPA5oAEWpsmDEyLnhFNVvXG7ZtCW-pp0_1voT5Trd_9ZjDi2L&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d08b7bf5234d151f4a2d543740a39b35&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=8ce03ae59ceb4d95b7f9905882e7b655&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8ce03ae59ceb4d95b7f9905882e7b655"
+                                   },
+                                   {
+                                          "content_id": "119850044",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119850044&geo=4762309&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=42117&bucket=958557&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261278073&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GkwAXDVCVGmfDlvZ4OMkK7RFW56ZaNfqyCZ36Q8HTA-tNEIctK9d_yQIObp85QMGd4q_2Tf_PYfGFRk18W62EKid5pqeWnjEBeuq18NJQTbTxgRayVffCsOe7-8mb5tAv7glX4XzvLTSOO8Ii3Vq1eQ&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=ace1f312-deaa-4c54-b520-351da2f4d993&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=11093a3b67cc9ea61ff32fe415bc6c693&area=QC_META_API&ik=b32c3dd3f15744c48ae962672d6095b2&dated=true&aok=31d22514b4ef4fff8bde53d5ac3a55fa&tp=HR_MainCommerce",
+                                          "auction_offer_key": "31d22514b4ef4fff8bde53d5ac3a55fa"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "42c01b94-50f8-4ff5-b302-cf48733a3067",
+                     "description": "Menemukan hotel sesuai untuk keluarga yang ideal di Sanur sangatlah mudah. Selamat datang di Taksu Sanur Hotel, pilihan tepat untuk wisatawan seperti Anda.\nBerdekatan dengan beberapa tempat terkenal di Sanur, seperti Prasasti Blanjong (0,2 km) dan Pura Dalem Pengembak (1,4 km), Taksu Sanur Hotel adalah destinasi yang sangat baik untuk turis.\nSebagai \"rumah\" Anda, kamar hotel menawarkan tv layar datar, minibar, dan penyejuk udara, dan mudah terhubung dengan internet karena wi-fi gratis tersedia.\nPara tamu memiliki akses layanan concierge dan layanan kamar selama menginap di Taksu Sanur Hotel. Selain itu, Taksu Sanur Hotel juga menawarkan kolam renang dan restoran, yang akan membuat pengalaman menginap di Sanur semakin berkesan. Dan, untuk menambah kenyamanan, parkir gratis tersedia untuk para tamu.\nSaat mengunjungi Sanur, Anda sebaiknya mencoba makan udang di salah satu restoran terdekat, seperti Massimo - Italian Restaurant, Charming, atau Kayu Manis.\nIngin menelusuri? Berkunjunglah ke Ghostbird + Swoon dan Krisna Painting II, yang merupakan galeri seni terpopuler di Sanur \u2013 semua terletak berdekatan dengan hotel.\nTaksu Sanur Hotel tak sabar untuk menyambut Anda di Sanur.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297700-d4762309-Reviews-Taksu_Sanur_Hotel-Sanur_Denpasar_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297700-d4762309-Taksu_Sanur_Hotel-Sanur_Denpasar_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Sanur",
+                                   "abbrv": null,
+                                   "location_id": "297700"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Denpasar",
+                                   "abbrv": null,
+                                   "location_id": "297694"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Sanur",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 283401",
+                     "website": "http://www.taksusanur.com/en/",
+                     "email": "dos.taksusanur@gmail.com",
+                     "address_obj": {
+                            "street1": "Jl. Sudamala no. 26",
+                            "street2": "",
+                            "city": "Sanur",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80228"
+                     },
+                     "address": "Jl. Sudamala no. 26, Sanur, Denpasar 80228 Indonesia",
+                     "local_name": "Taksu Sanur Hotel",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Salon",
+                                   "name": "Salon"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "ea0d5683a7a548e28a9304adea844998",
+              "impression_key": "b32c3dd3f15744c48ae962672d6095b2",
+              "pricing": "base"
+       }
+}

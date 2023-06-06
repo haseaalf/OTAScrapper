@@ -1,0 +1,505 @@
+{
+       "data": [
+              {
+                     "location_id": "1539104",
+                     "name": "Puri Sari Beach Hotel",
+                     "latitude": "-8.521494",
+                     "longitude": "119.87159",
+                     "num_reviews": "800",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Labuan Bajo, Flores, Nusa Tenggara Timur",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/72/70/21/puri-sari-beach-hotel.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/72/70/21/puri-sari-beach-hotel.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1280",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/72/70/21/puri-sari-beach-hotel.jpg",
+                                          "height": "853"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/72/70/21/puri-sari-beach-hotel.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/72/70/21/puri-sari-beach-hotel.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2017-02-16T09:20:43-0500",
+                            "caption": "",
+                            "id": "242380833",
+                            "helpful_votes": "6",
+                            "published_date": "2017-02-16T09:20:43-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1539104?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.498283386230469",
+                     "ranking_geo": "Labuan Bajo",
+                     "ranking_geo_id": "1777483",
+                     "ranking_position": "6",
+                     "ranking_denominator": "43",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 6 dari 43 hotel di Labuan Bajo",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0627.000 - Rp\u00a01.179.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "44747130",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=44747130&geo=1539104&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276852&managed=false&capped=false&gosox=yquXKoEqcRkJTDXHDtkXlGprTmIeft25FWx4aMIebi-Hw1KWnVf1GtZRGfMAFoCPj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_8cAP05TMJIFFnQ5FMcOuUNpl9R2Dv6yHCZ-p-_TGghqXmm31-z202HujnwwBaagXx4IMVWNbtovSonVlgaHISb28arOtx7nDMRkXjOhvVNcoa2mYF6Ga-xqbx5pmb1z1mTUIS8TZ8aH5Od6sMueYD&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1e69ce9982e76c8315bb7c3f8e9f81892&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=d8fdea8455514928a661d81ee9c43a11&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d8fdea8455514928a661d81ee9c43a11"
+                                   },
+                                   {
+                                          "content_id": "33215417",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33215417&geo=1539104&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=5091&bucket=907712&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276852&managed=false&capped=false&gosox=-Tdx2efOwvF2ENHT5HQoXqhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewate12_mCInQQcEWlH2pIMfKrQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTk3dVhSlbwugZjATR5a4EuQ58McjK14J2ZA16XBsi9HS2a0wm3if2k9MhyVPADWsUHQS3x08fixeCrvz2d8PQQZB20n7N83vPvDzGEqPmUGHaASRETIOdCW6rolFa70tHAVpWLvTcUtsnP5OBuo459U&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1f753afc8cbedab265629ecb1d3706a76&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=383de44b277646fd9f8ff64ca41a41cd&tp=HR_MainCommerce",
+                                          "auction_offer_key": "383de44b277646fd9f8ff64ca41a41cd"
+                                   },
+                                   {
+                                          "content_id": "34603202",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34603202&geo=1539104&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276852&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZHzEeUQWT8EzR1mIiR0i_DjOIziIACybqzDyvv1Y8TXwu5CUIMuMI43xsqQ4NC0k5vUHbSfs3ze8-8PMYSo-ZQYdoBJERMg50JbquiUVrvS0cBWlYu9NxS2yc_k4G6jjn1Q&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1e41d8a3c2f7de3713b11366f4a64a2cd&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=8dd1edd4d97749e682949b44719d2740&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8dd1edd4d97749e682949b44719d2740"
+                                   },
+                                   {
+                                          "content_id": "60623087",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60623087&geo=1539104&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276852&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxFAUU8DAKlJjp7JTn2nQqx1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0Nh3083x15eoZAypbYMwWfCL6wAq1W2JXQIYw6fJFW4ZIbQLsGqNmYfHfcHx9mWT9mQLy887O41gD2TVxHdx1urU&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1537490685471f0206dde31e9ce49d7ec&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=38e8344d95bf4bfd8990895d5b41b431&tp=HR_MainCommerce",
+                                          "auction_offer_key": "38e8344d95bf4bfd8990895d5b41b431"
+                                   },
+                                   {
+                                          "content_id": "32701237",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32701237&geo=1539104&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276852&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzTuOusYvRJWMej_lJv8tcpGxKMdboIPuHzmBQsirrNiy619LjGnJ5OIA_2PfJs4U9Dm0srwYKOHWyyMpEKsrXl60qmfmM_NSQem8l4QGwXEx&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=185ea2531ba30f8b0d367150b8758ab19&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=c3043aaedc9c4e01a17d4d96a9e62a7a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c3043aaedc9c4e01a17d4d96a9e62a7a"
+                                   },
+                                   {
+                                          "content_id": "110223757",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=110223757&geo=1539104&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261276852&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01jRZnPMF863ffgNl-xhWsdqBVLn9ChWCk6L1xrKof62fe_Ccls9wEQiwBbRJwUvEyvANEo6eqBOBVbUzhSlahK0SGza34YdS9dD6MHxPsa6dIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=14d60ffcdec959a1a55aa4e79502bb2a6&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=80a436d418a5495a80934413c9f5a0ea&tp=HR_MainCommerce",
+                                          "auction_offer_key": "80a436d418a5495a80934413c9f5a0ea"
+                                   },
+                                   {
+                                          "content_id": "174707916",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174707916&geo=1539104&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=40643&bucket=944550&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=261276852&managed=false&capped=false&gosox=7f6Kak4IIEeOlBt5OHIErm8ow2dQ5v3DrUiwIJOqd1HXVy6YNvRKQVWjAxPAY6eVmUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vgEuz8E0dMwkEDkfHUXyzG40YiLaJ9BfKl2YUh-h6WtI4GjsQl_I9elsnYcSL_b3AWNG71dZxGgkDYs2jFpwke2CnTXxj3wTlIB53xrpn3beQddVv3iZMxNWMLiympYlh&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a7ba883f-db27-4290-b2a6-3a82d65da5f7&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1fed91af8106055c9a10e98d8b83dd5f8&area=QC_META_API&ik=510bdc0efcf247099771f1011b4e35e8&dated=true&aok=21d005f9abbf48e5b77f56e988bb6b6f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "21d005f9abbf48e5b77f56e988bb6b6f"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "35ffaa76-f101-4491-82db-9f2b35978c57",
+                     "description": "Semua orang butuh beristirahat. Untuk wisatawan yang mengunjungi Labuan Bajo, Puri Sari Beach Hotel merupakan pilihan terbaik untuk beristirahat dan memulihkan diri. Terkenal karena suasana romantis dan lokasinya yang dekat dengan restoran populer, Puri Sari Beach Hotel membuat Anda mudah menikmati yang terbaik dari Labuan Bajo.\nWi-fi gratis ditawarkan untuk para tamu, dan kamar di Puri Sari Beach Hotel memiliki kulkas, penyejuk udara, dan area tempat duduk.\nSelama Anda menginap, gunakan fasilitas yang ditawarkan, seperti resepsionis 24 jam, layanan kamar, dan layanan concierge. Tamu Puri Sari Beach Hotel juga dapat menikmati kolam renang dan sarapan di properti. Untuk tamu yang mengemudi, parkir gratis tersedia.\nBerdekatan dengan Desa Tado (2,0 km), sebuah lokasi yang populer di Labuan Bajo, Puri Sari Beach Hotel adalah destinasi yang sangat baik untuk turis.\nSaat menginap di Puri Sari Beach Hotel, coba kunjungi Atlantis Beachclub by Plataran (0,2 km) yang jaraknya berdekatan.\nOh ya, selama berkunjung, jangan lupa untuk melihat galeri seni, seperti Magnolia Boutique Komodo.\nBaik Anda berkunjung untuk urusan bisnis, berlibur ataupun keduanya, Puri Sari Beach Hotel akan menjadikan kunjungan Anda Labuan Bajo tak terlupakan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1777483-d1539104-Reviews-Puri_Sari_Beach_Hotel-Labuan_Bajo_Flores_East_Nusa_Tenggara.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1777483-d1539104-Puri_Sari_Beach_Hotel-Labuan_Bajo_Flores_East_Nusa_Tenggara.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Labuan Bajo",
+                                   "abbrv": null,
+                                   "location_id": "1777483"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "island",
+                                                 "name": "Pulau"
+                                          }
+                                   ],
+                                   "name": "Flores",
+                                   "abbrv": null,
+                                   "location_id": "297729"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Nusa Tenggara Timur",
+                                   "abbrv": null,
+                                   "location_id": "297728"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Labuan Bajo",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 385 2443710",
+                     "website": "http://www.purisaribeachhotel.net",
+                     "email": "purisarihotel@gmail.com",
+                     "address_obj": {
+                            "street1": "Jl. Pantai Pede Kecamatan Komodo",
+                            "street2": "",
+                            "city": "Labuan Bajo",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": ""
+                     },
+                     "address": "Jl. Pantai Pede Kecamatan Komodo, Labuan Bajo, Flores Indonesia",
+                     "local_name": "Puri Sari Beach Hotel",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Beach",
+                                   "name": "Pantai Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Free Airport Transportation",
+                                   "name": "Transportasi bandara gratis"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Canoeing - Amenities",
+                                   "name": "Bermain Kano"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Diving",
+                                   "name": "Menyelam"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Fishing - Amenities",
+                                   "name": "Memancing"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "2807dc142edf4f3e99f2fc9854fec3c0",
+              "impression_key": "510bdc0efcf247099771f1011b4e35e8",
+              "pricing": "base"
+       }
+}

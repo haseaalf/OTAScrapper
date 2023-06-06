@@ -1,0 +1,416 @@
+{
+       "data": [
+              {
+                     "location_id": "10782347",
+                     "name": "Hotel Horison Tasikmalaya",
+                     "latitude": "-7.326122",
+                     "longitude": "108.21639",
+                     "num_reviews": "301",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Tasikmalaya, Jawa Barat, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/c3/65/be/at-prime-location.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/c3/65/be/at-prime-location.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1280",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/c3/65/be/at-prime-location.jpg",
+                                          "height": "718"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/c3/65/be/at-prime-location.jpg",
+                                          "height": "309"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/c3/65/be/at-prime-location.jpg",
+                                          "height": "140"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2019-10-21T07:30:39-0400",
+                            "caption": "at Prime Location ",
+                            "id": "432235966",
+                            "helpful_votes": "0",
+                            "published_date": "2019-10-21T07:30:39-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/10782347?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.785614490509033",
+                     "ranking_geo": "Tasikmalaya",
+                     "ranking_geo_id": "1131500",
+                     "ranking_position": "1",
+                     "ranking_denominator": "42",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 42 hotel di Tasikmalaya",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0373.000 - Rp\u00a0493.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "109940504",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0454.545",
+                                          "display_price_int": "454545",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=109940504&geo=10782347&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=5091&bucket=907352&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276105&managed=false&capped=false&gosox=8NdEs8o8uD5oQF8k5M2FTqhrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGI7NEocv9YpZsCcmcciQvAQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTilbXEzxt_00GLC2aGbNGN6Jxn-pDfo-Eg2a_QrLUBYHeM2Y78HUrOD5015QwV-ti7Q0VKYZJRY2ipSwpJlrKWF8X9zaaG_RrdXuDxqaIhIIf_80-gciD9-3RHfiDDtpq4TAhY3yell07BaTkBKHlcY&priceShown=454545&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=973&rate=454545.00&fees=95455.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_5d595449db0e2f02eb74ee92a1aacb6c&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0c7c334b-6390-4ce6-9a91-6be1c345e8af&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=11798c9dba24098aca756d1ff1493f02a&area=QC_META_API&ik=5d9e25215c7e43698a7a7d0e199b0de8&dated=true&aok=081e6fe1968d40888751567761fd7c91&tp=HR_MainCommerce",
+                                          "auction_offer_key": "081e6fe1968d40888751567761fd7c91"
+                                   },
+                                   {
+                                          "content_id": "119676382",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0320.318",
+                                          "display_price_int": "320318",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=119676382&geo=10782347&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=18569&bucket=934050&nrank=3&crank=2&clt=M&ttype=MobileCR&tm=261276105&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLDQxlM7ji2c3pF8syBAF8Fl4byXSH-GZ8j4OUTYDcyiX6MX9OANXfEFmioh24rYevMs1Jb3V47AVD8ZRF8ex3S_O0oIEqjX-lcFGtWs-jwzivkMGmYt52htYy5F9824QuWeujWcFRpRhrX0Nh8rNOjj5rdPplsUZxoHqlZ9OkZRIKnyJLLORq8e1t6KP5yhtJFokqWuemoPTe3q4lnirp1w4k6M1p3hVgNMVuORqrdi2Vm9L52JmuM1d73LAa4Txa4momglg_9bZ9b4K5a12Euo&priceShown=320318&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=74&rate=320318.00&fees=67267.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_628ca1893de3dc5c539799f80bf660cd&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0c7c334b-6390-4ce6-9a91-6be1c345e8af&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=16bea4d3578ed1cd7603fde3148209f26&area=QC_META_API&ik=5d9e25215c7e43698a7a7d0e199b0de8&dated=true&aok=e9d8db879a204a2abab8f7db402352af&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e9d8db879a204a2abab8f7db402352af"
+                                   },
+                                   {
+                                          "content_id": "176932315",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0309.327",
+                                          "display_price_int": "309327",
+                                          "strikethrough_price": "Rp\u00a0454.545",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=176932315&geo=10782347&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=40643&bucket=944550&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276105&managed=false&capped=false&gosox=OMnCG0DMS63KS9aWB19EkW8ow2dQ5v3DrUiwIJOqd1G-OuI8SgbXRaV5W4xK8_kpQ2TS1XFdc10RE4KsVeAxVYXUI7Udw-P0iMKsmsxRbJ662-DXUPc-RPmKhcAuahfSnlzEK_A64TUTDRnU5RcrjqOJQAcVpBHZ1_AMi_qe0hLv_Fc_O636epQomVEtk0-KCQaRwVupbgq2JnhsKM4_AC-BYT2NGnj5nS7aBzm6-ScO96r7OunPOzBSHhSaJUCvX4nkmv3FgOCzdGi-JgtF2w&priceShown=309327&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=309327.00&fees=64959.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_75b0163298e5a27b5cca8db6fc454957&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0c7c334b-6390-4ce6-9a91-6be1c345e8af&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=18c3441c20c48a6eb5bc323e3df936081&area=QC_META_API&ik=5d9e25215c7e43698a7a7d0e199b0de8&dated=true&aok=58a5aa3b929146cca183708e1f5d8766&tp=HR_MainCommerce",
+                                          "auction_offer_key": "58a5aa3b929146cca183708e1f5d8766"
+                                   },
+                                   {
+                                          "content_id": "133500721",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=133500721&geo=10782347&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=2&crank=3&clt=M&ttype=MobileCR&tm=261276105&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH5_wJlqygHollFFKa5YGM3ejlOlHT23YduVnijBSKI82dmSLBbJAK1Wgr9QL5TAemNPKQvHVWn0D6OF2H_1dv7L76Yi8tDWZu528xs17-5Y80pgOEayZC9-P_RElLyI3Rg&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0c7c334b-6390-4ce6-9a91-6be1c345e8af&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=12ac1ba042a93601aadee6e26d964f7f0&area=QC_META_API&ik=5d9e25215c7e43698a7a7d0e199b0de8&dated=true&aok=4eeb10e138134d51a5f5046a83e2e411&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4eeb10e138134d51a5f5046a83e2e411"
+                                   },
+                                   {
+                                          "content_id": "124714376",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=124714376&geo=10782347&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276105&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzZhf9h-acdEASjX4U2jdcxQpO-a93GtgZTDVFcTRoSp9X8WHIw2S0W6B2eBtAEEQXcP_uAaKWf0MafWhlXfRKV3IkQyAXCWe67zP1wPhCCIh&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0c7c334b-6390-4ce6-9a91-6be1c345e8af&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1add717d61eb7d33018aabf757c1ca968&area=QC_META_API&ik=5d9e25215c7e43698a7a7d0e199b0de8&dated=true&aok=348efccf5cf441559ea4aa8b47bbca10&tp=HR_MainCommerce",
+                                          "auction_offer_key": "348efccf5cf441559ea4aa8b47bbca10"
+                                   },
+                                   {
+                                          "content_id": "150257506",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150257506&geo=10782347&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=42117&bucket=958557&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261276105&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3Gmxs4lL9XRkcQ0YJFlf4SCJFW56ZaNfqyCZ36Q8HTA-tdF-Azr92_Flssw_xlVTE6Iq_2Tf_PYfGFRk18W62EKh8sFHvb7A3R9h9GWtzokQLVm9L52JmuM1d73LAa4Txa4momglg_9bZ9b4K5a12Euo&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=0c7c334b-6390-4ce6-9a91-6be1c345e8af&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=15cba5e684ab422401570470e870c8f81&area=QC_META_API&ik=5d9e25215c7e43698a7a7d0e199b0de8&dated=true&aok=053cc4b25634414ba1c97b0df8bf008c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "053cc4b25634414ba1c97b0df8bf008c"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "8211fe6d-83b3-48d1-8d08-43e49a033ca2",
+                     "description": "Hotel Horison Tasikmalaya merupakan pilihan yang tepat ketika mengunjungi Tasikmalaya, karena menawarkan suasana yang romantis ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nSebagai \"rumah\" Anda, kamar hotel menawarkan minibar, kulkas, dan penyejuk udara, dan mudah terhubung dengan internet karena wi-fi gratis tersedia.\nPara tamu memiliki akses layanan kamar selama menginap di Hotel Horison Tasikmalaya. Selain itu, Hotel Horison Tasikmalaya juga menawarkan kolam renang atap dan sarapan, yang akan membuat pengalaman menginap di Tasikmalaya semakin berkesan. Dan, untuk menambah kenyamanan, parkir gratis tersedia untuk para tamu.\nJika Anda ingin makanan restoran steak yang lezat, Anda sebaiknya mencoba makan di Workshop Idea Cafe saat menginap di Hotel Horison Tasikmalaya.\nJika masih memiliki waktu, Taman Wisata Karang Resik merupakan taman populer yang mudah untuk dicapai.\nNikmati masa menginap Anda di Tasikmalaya!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1131500-d10782347-Reviews-Hotel_Horison_Tasikmalaya-Tasikmalaya_West_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1131500-d10782347-Hotel_Horison_Tasikmalaya-Tasikmalaya_West_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Tasikmalaya",
+                                   "abbrv": null,
+                                   "location_id": "1131500"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301792"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Tasikmalaya",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 265 7522788",
+                     "website": "https://booking.myhorison.com/horison-tasikmalaya.show-rates",
+                     "email": "rsv.tasikmalaya@horisonhotels.com",
+                     "address_obj": {
+                            "street1": "Jl. Yudanagara no. 63",
+                            "street2": "",
+                            "city": "Tasikmalaya",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "46121"
+                     },
+                     "address": "Jl. Yudanagara no. 63, Tasikmalaya 46121 Indonesia",
+                     "local_name": "Hotel Horison Tasikmalaya",
+                     "local_address": "Jl. Yudanagara no. 63, 46121",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Pool",
+                                   "name": "Kolam Renang Atap"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "01a1200918da46d4876dc163aa34bfe7",
+              "impression_key": "5d9e25215c7e43698a7a7d0e199b0de8",
+              "pricing": "base"
+       }
+}

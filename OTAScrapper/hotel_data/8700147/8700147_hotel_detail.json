@@ -1,0 +1,433 @@
+{
+       "data": [
+              {
+                     "location_id": "8700147",
+                     "name": "Hemangini Hotel Bandung",
+                     "latitude": "-6.880547",
+                     "longitude": "107.599335",
+                     "num_reviews": "415",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Bandung, Jawa Barat, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/0c/ff/d6/deluxe-summer-room.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/0c/ff/d6/deluxe-summer-room.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1280",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/0c/ff/d6/deluxe-summer-room.jpg",
+                                          "height": "721"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/0c/ff/d6/deluxe-summer-room.jpg",
+                                          "height": "310"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/0c/ff/d6/deluxe-summer-room.jpg",
+                                          "height": "141"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-02-11T04:40:28-0500",
+                            "caption": "Deluxe Summer Room",
+                            "id": "571277270",
+                            "helpful_votes": "0",
+                            "published_date": "2022-02-11T04:40:28-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/8700147?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.6895036697387695",
+                     "ranking_geo": "Bandung",
+                     "ranking_geo_id": "297704",
+                     "ranking_position": "36",
+                     "ranking_denominator": "674",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 36 dari 674 hotel di Bandung",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0448.000 - Rp\u00a0731.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "73149477",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0490.909",
+                                          "display_price_int": "490909",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=73149477&geo=8700147&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=4&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278956&managed=false&capped=false&gosox=AeL1WpvbJVN8388az49kaGprTmIeft25FWx4aMIebi9-wU0dY51s_IWAWeGDwxBaMExS2jcqRSxpEO_Bjr2Z40gaT_qNZjt_IN96resPesaqxI3lVjiYQwuNK7qcF1HWeTS8IGnyI90--3Wzt6Qmu0FIrEUhnP7Aw9Y9ZsZ1YLm2wbR94cJSOE9RpD9EcE8RdZGSbjkolhIZZQb_Ff-szEIC9O33aLkN843vwPtRzlDPWvCkzk5hawITzlJJCK4dy-pgFzg2F81Q2nqzSX8jsA&priceShown=490909&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=384&rate=490909.09&fees=103090.91&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_9b9ae15f4f13bf929d0c7a5ab7e28d9&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=1d26cdd6-2d90-4889-8794-8c678c5258ee&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1bd969b2ceff6b951454ce44d3bf14ad0&area=QC_META_API&ik=dc8319d0231f4c11a5a97f275e952213&dated=true&aok=5a59c002121f42638f5e5d80f95f073b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "5a59c002121f42638f5e5d80f95f073b"
+                                   },
+                                   {
+                                          "content_id": "73775090",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0433.637",
+                                          "display_price_int": "433637",
+                                          "strikethrough_price": "Rp\u00a0490.909",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=73775090&geo=8700147&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=4&silo=5091&bucket=897544&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278956&managed=false&capped=false&gosox=T760TUNEsZv4a5M1YCyTnKhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOLRJIn-WhjpvMpKbIUaYowQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTiVoEOeCfl9vNZ-jF5x2QrAvZ37vcqmUckeoviudi0acGpd1kgaxFipgmYaSMmLmb-vLKblTLHMbZAyoFt2HPBPe3cR0rt85nj8oRMX7OaGHVqMWIdcHWy8GsxeGsnzKnCMr9T1tTuB6EtjIenvUoOs&priceShown=433637&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=433637.00&fees=91064.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4cc8d587def108740fb69c92690c0c59&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=1d26cdd6-2d90-4889-8794-8c678c5258ee&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1a765f6c1e7edb5f46f392f136e9d7659&area=QC_META_API&ik=dc8319d0231f4c11a5a97f275e952213&dated=true&aok=bbf6861107764a05b3acd5c96c60f9de&tp=HR_MainCommerce",
+                                          "auction_offer_key": "bbf6861107764a05b3acd5c96c60f9de"
+                                   },
+                                   {
+                                          "content_id": "174629606",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0433.637",
+                                          "display_price_int": "433637",
+                                          "strikethrough_price": "Rp\u00a0490.909",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174629606&geo=8700147&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=4&silo=40643&bucket=944550&nrank=3&crank=4&clt=M&ttype=MobileCR&tm=261278956&managed=false&capped=false&gosox=7f6Kak4IIEeOlBt5OHIErm8ow2dQ5v3DrUiwIJOqd1Gv2UEEymM1rKHOPGHt1zI3WqRd5Uwnh0SmrXYvKrLJKYXUI7Udw-P0iMKsmsxRbJ662-DXUPc-RPmKhcAuahfSeJ-bLrHcZHuDZzyZAwKn6ARk1pgjnmwmeZfOJazk5fLKK8yTWp_M_1bZAM_nTDco68spuVMscxtkDKgW3Yc8E97dxHSu3zmePyhExfs5oYdWoxYh1wdbLwazF4ayfMqcIyv1PW1O4HoS2Mh6e9Sg6w&priceShown=433637&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=433637.00&fees=91064.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_d6767f25cc74df8a18ec99853127919&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=1d26cdd6-2d90-4889-8794-8c678c5258ee&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=146af4d28b75ede6a54dbbb34f3ee7857&area=QC_META_API&ik=dc8319d0231f4c11a5a97f275e952213&dated=true&aok=cceddf5bda3c4b59a55bc6f32d3dfb29&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cceddf5bda3c4b59a55bc6f32d3dfb29"
+                                   },
+                                   {
+                                          "content_id": "119694001",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=119694001&geo=8700147&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=4&silo=18569&bucket=962380&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278956&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01nPPm0DoSQ5gUjE4wbC-rtHQlot8tc_8S3LeomA4K-bZvlOtUsen0LhNBZws4VmWJZHHeSAoCL5vL_pIymf6pX5na0bZjpOwrUC5KM3Jxast&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=1d26cdd6-2d90-4889-8794-8c678c5258ee&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=121a2029059b769db44923df77498e054&area=QC_META_API&ik=dc8319d0231f4c11a5a97f275e952213&dated=true&aok=fbe67714f6934f1e832ae0efa79ee7e8&tp=HR_MainCommerce",
+                                          "auction_offer_key": "fbe67714f6934f1e832ae0efa79ee7e8"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "41046b28-995a-4013-99d5-ded31b37696e",
+                     "description": "Hemangini Hotel merupakan pilihan yang tepat ketika mengunjungi Bandung, karena menawarkan suasana yang sesuai untuk keluarga ditambah dengan fasilitas akan menyempurnakan masa menginap Anda.\nJika ingin melihat tempat terkenal sewaktu mengunjungi Bandung, Hemangini Hotel jaraknya berdekatan dengan Gedung Sate (3,1 km) dan Katedral Santo Petrus (3,8 km).\nWi-fi gratis ditawarkan untuk para tamu, dan kamar di Hemangini Hotel memiliki penyejuk udara.\nSelama Anda menginap, gunakan fasilitas yang ditawarkan, seperti resepsionis 24 jam, layanan concierge, dan layanan kamar. Tamu Hemangini Hotel juga dapat menikmati kolam renang dan sarapan di properti. Untuk tamu yang mengemudi, parkir gratis tersedia.\nSelama berada di sini, jangan lupa untuk mencicipi makanan makanan laut, seperti Raja Rasa, Purnawarman Restaurant, dan King Crab Bandung, semuanya berdekatan dengan Hemangini Hotel.\nBandung juga dikenal dengan beberapa taman menarik, termasuk diantaranya Taman Patung NuArt, Taman Balai Kota Bandung, dan Alun Alun Bandung, yang terletak tidak jauh dari Hemangini Hotel.\nNikmati masa menginap Anda di Bandung!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297704-d8700147-Reviews-Hemangini_Hotel_Bandung-Bandung_West_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297704-d8700147-Hemangini_Hotel_Bandung-Bandung_West_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Bandung",
+                                   "abbrv": null,
+                                   "location_id": "297704"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301792"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Bandung",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 22 2032110",
+                     "website": "http://www.hemanginihotel.com/",
+                     "email": "reservation.hemanginihotel@gmail.com",
+                     "address_obj": {
+                            "street1": "Jln. Dr Setiabudhi No. 66",
+                            "street2": "",
+                            "city": "Bandung",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "40141"
+                     },
+                     "address": "Jln. Dr Setiabudhi No. 66, Bandung 40141 Indonesia",
+                     "local_name": "Hemangini Hotel Bandung",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Indoor Pool",
+                                   "name": "Kolam renang dalam ruangan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Rooftop Pool",
+                                   "name": "Kolam Renang Atap"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Kids Pool",
+                                   "name": "Kolam renang anak"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "Highchairs Available - Amenities",
+                                   "name": "Tersedia Kursi Bayi"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Shallow End",
+                                   "name": "Kolam Renang Datar"
+                            },
+                            {
+                                   "key": "Umbrella",
+                                   "name": "Payung"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "811e3b9374284629b376b086d16094a3",
+              "impression_key": "dc8319d0231f4c11a5a97f275e952213",
+              "pricing": "base"
+       }
+}

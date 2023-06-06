@@ -1,0 +1,317 @@
+{
+       "data": [
+              {
+                     "location_id": "23744554",
+                     "name": "Sanora Villa",
+                     "latitude": "-8.692298",
+                     "longitude": "115.25862",
+                     "num_reviews": "419",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Sanur, Denpasar, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/9f/e1/cb/caption.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/9f/e1/cb/caption.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2047",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/9f/e1/cb/caption.jpg",
+                                          "height": "1365"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/9f/e1/cb/caption.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/9f/e1/cb/caption.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2021-12-16T02:29:09-0500",
+                            "caption": ".",
+                            "id": "564126155",
+                            "helpful_votes": "0",
+                            "published_date": "2021-12-16T02:29:09-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/23744554?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [
+                            {
+                                   "award_type": "Traveler's Choice",
+                                   "year": "2022",
+                                   "images": {
+                                          "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+                                          "large": "https://www.tripadvisor.co.id/img2/awards/TC_2014_downloadable_LL_TM.jpg"
+                                   },
+                                   "categories": [
+                                          "Hotel Baru Terpopuler"
+                                   ],
+                                   "display_name": "Travellers' Choice 2022"
+                            }
+                     ],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.935094833374023",
+                     "ranking_geo": "Sanur",
+                     "ranking_geo_id": "297700",
+                     "ranking_position": "1",
+                     "ranking_denominator": "121",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 121 hotel di Sanur",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$",
+                     "price": "Rp\u00a01.940.000 - Rp\u00a03.104.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "226023057",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a01.647.917",
+                                          "display_price_int": "1647917",
+                                          "strikethrough_price": "Rp\u00a01.978.513",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=226023057&geo=23744554&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=5&silo=18569&bucket=934050&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277578&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLKlb5w_5cn-lB0bkJuoG2FayA2vODFLjfsy7VDtL4uiC6MX9OANXfEFmioh24rYevBvs_evfqRS9lWMFYY8tRPJAyVGd049tRvuAPU5DAKFtd2fFmZqi-zHvMbv83baVqZbEwQRF7TsCYLx5kGrg5DfoQw-wQdaTMpVDAdh3SCXEMSgvjajBMlGrLmYE_6aClWqDzPQpMGlcEM2tKgkBzB7TrLbJ9Zxr6TPJkAVNZnsEpjuiN7foigcytHrsNOO18r01J25_aUGOl_jY_rwPEyA&priceShown=1647917&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=1647917.00&fees=164792.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_7677e346a8763090ea2505349cd820a1&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e7dc91d3-ce42-41d9-b9f3-45011f4e9ac1&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=137cce9625fcd404db8d0b778e6332ac0&area=QC_META_API&ik=dd4bd2bf8ce145adaf7f41bc4890ac87&dated=true&aok=619be77801d249e6bae6032af7d2b450&tp=HR_MainCommerce",
+                                          "auction_offer_key": "619be77801d249e6bae6032af7d2b450"
+                                   },
+                                   {
+                                          "content_id": "231557121",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.978.513",
+                                          "display_price_int": "1978513",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=231557121&geo=23744554&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=5&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277578&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12pl8RtYkBYFRoWJxDK34IehEp2Pqq3zXxcQTRS0PqI9cvdvqYggRNuTjwddEeSVtftXnUjct7d0t104XPsbtJkvODPbldYgHlVy2mdnONoNMglH1BjpTmofZBucqZ_cP9d1j8SV0yb-ojudzZS3rlxjkllr95GDVbGBRbnx6ZdtvTSyPQ5ko-aHaBZTZm6BBFqHIwsFhm_WPDKnCgbWZMfGnJxUxIcEWQ-tbUxbVc0kYiLLsDqhvUmE0MhkGY4xFHk&priceShown=1978513&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2215&rate=1978513.00&fees=415487.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_94c9578366fc8339603b51cb80883e1&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e7dc91d3-ce42-41d9-b9f3-45011f4e9ac1&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d5c9af83fc1a16c8eb7f6568c2c68c31&area=QC_META_API&ik=dd4bd2bf8ce145adaf7f41bc4890ac87&dated=true&aok=58f12fe78c04466189f2c389eb8b44d2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "58f12fe78c04466189f2c389eb8b44d2"
+                                   },
+                                   {
+                                          "content_id": "231559334",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a01.978.513",
+                                          "display_price_int": "1978513",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=231559334&geo=23744554&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=5&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261277578&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcoLLMHodBSjRLRUeh5bSYEaRh2nCSJdYqD-vw7cE88XtVx57hXTZhId4Jx4dI_hFZzJKAkPMYVhebCxU8kBjjCBWbpkx0EVcDFt1wbmC38NLEmGDDDEJVHfpwYC3HhyLoFS40rU5q0x6uOmoJZpjdb4q5sZLiIrnz2QxsKDbMm4TpPkTwwOewNczWT0zIi00USkAPqVAnP0IKj9PiY2_K3wgUkHlBb0F41z-196Mq7XEVrAjjKCnCj3LOZ-6m0sfcc&priceShown=1978513&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2215&rate=1978513.00&fees=415487.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e7dc91d3-ce42-41d9-b9f3-45011f4e9ac1&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=114a717cb127b84c84996b4104653ef15&area=QC_META_API&ik=dd4bd2bf8ce145adaf7f41bc4890ac87&dated=true&aok=6e4947359fa7422db677a1a2d3fa13a0&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6e4947359fa7422db677a1a2d3fa13a0"
+                                   },
+                                   {
+                                          "content_id": "225575366",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=225575366&geo=23744554&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=5&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277578&managed=false&capped=false&gosox=vXi6b6tJP98Ks0fGFAPPA6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewatecapBHhN1fQ21l1rcNqPwVgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTk3dVhSlbwugZjATR5a4EuTw8EnmtspLxNx7gYW6r0_HkTJ2Zb04YcrqDhhAMCLRCKy0JfHG2Ep1FwGpr_jZDqEi0is0msOmBW6PW8RWodlJgmrPs2e0mI5GnxETvv91o751u2nd-0UolGsMnduNr_0&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e7dc91d3-ce42-41d9-b9f3-45011f4e9ac1&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=173d59b6fda21652636cf883713cf7b2b&area=QC_META_API&ik=dd4bd2bf8ce145adaf7f41bc4890ac87&dated=true&aok=386f35d59a9e40e7ac2c22d77a83a808&tp=HR_MainCommerce",
+                                          "auction_offer_key": "386f35d59a9e40e7ac2c22d77a83a808"
+                                   },
+                                   {
+                                          "content_id": "239155979",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=239155979&geo=23744554&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=5&silo=40643&bucket=944550&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277578&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1Ez9VJxqPr6Z93u26JbGRY3mUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vhBD8L5igZwMWSTS-shbnpLa-XyqjE79wv1RQbZRXVqCxP-NqpBmz2pcb7W47nDd_nokGzeJirk8WvtpjZ9tTUYWD39by4cfNoVi0UdtcFehgjmrqEIU-qV9FX0dw_NNk&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e7dc91d3-ce42-41d9-b9f3-45011f4e9ac1&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1be7ee23337728343df9693ef94c747e1&area=QC_META_API&ik=dd4bd2bf8ce145adaf7f41bc4890ac87&dated=true&aok=326989f3aff040fa9009d0a4ee4ed049&tp=HR_MainCommerce",
+                                          "auction_offer_key": "326989f3aff040fa9009d0a4ee4ed049"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "32877be0-0b48-4a25-86d3-5e6472c708bf",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297700-d23744554-Reviews-Sanora_Villa-Sanur_Denpasar_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297700-d23744554-Sanora_Villa-Sanur_Denpasar_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Sanur",
+                                   "abbrv": null,
+                                   "location_id": "297700"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Denpasar",
+                                   "abbrv": null,
+                                   "location_id": "297694"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Sanur",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+6285333935563",
+                     "website": "http://sanorasanur.com/",
+                     "email": "info@sanorasanur.com",
+                     "address_obj": {
+                            "street1": "Jl Bypass Ngurah Rai No 255",
+                            "street2": "",
+                            "city": "Sanur",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": null
+                     },
+                     "address": "Jl Bypass Ngurah Rai No 255, Sanur, Denpasar Indonesia",
+                     "local_name": "Sanora Villa",
+                     "local_address": "Jl Bypass Ngurah Rai No 255",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Dining Area",
+                                   "name": "Area Makan"
+                            },
+                            {
+                                   "key": "Complimentary Welcome Drink",
+                                   "name": "Minuman Selamat Datang Gratis"
+                            },
+                            {
+                                   "key": "Pool View",
+                                   "name": "Pemandangan Kolam Renang"
+                            },
+                            {
+                                   "key": "Separate Dining Area",
+                                   "name": "Area Makan Terpisah"
+                            },
+                            {
+                                   "key": "Separate Living Room",
+                                   "name": "Ruang Keluarga Terpisah"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "60",
+              "auction_key": "02a8ba9ef4e7469db9e4656f42213e71",
+              "impression_key": "dd4bd2bf8ce145adaf7f41bc4890ac87",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,467 @@
+{
+       "data": [
+              {
+                     "location_id": "10053729",
+                     "name": "Grand Serela Hotel Yogyakarta",
+                     "latitude": "-7.768841",
+                     "longitude": "110.36124",
+                     "num_reviews": "210",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Sleman, Sleman District, Yogyakarta, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/d4/f5/e5/entrance.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/d4/f5/e5/entrance.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1080",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/d4/f5/e5/entrance.jpg",
+                                          "height": "803"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/d4/f5/e5/entrance.jpg",
+                                          "height": "409"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/d4/f5/e5/entrance.jpg",
+                                          "height": "186"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2017-03-31T00:14:49-0400",
+                            "caption": "Entrance",
+                            "id": "248837605",
+                            "helpful_votes": "1",
+                            "published_date": "2017-03-31T00:14:49-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/10053729?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.499295234680176",
+                     "ranking_geo": "Sleman",
+                     "ranking_geo_id": "2304080",
+                     "ranking_position": "4",
+                     "ranking_denominator": "49",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 4 dari 49 hotel di Sleman",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0269.000 - Rp\u00a0478.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "100958151",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0234.298",
+                                          "display_price_int": "234298",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=100958151&geo=10053729&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261275869&managed=false&capped=false&gosox=AeL1WpvbJVN8388az49kaGprTmIeft25FWx4aMIebi9o-AxqI--LHAyarVXsIegnmdgEhRMlwMxf3hUP0av6cMcfyl8G9EqMvLL1LyrpkmDdP6ci5-ZIBFKK9cz-poTDwPD2A0IfrcvG1tfDPUGsJCUlljkSLEGd3lrGOGpsHgbV0ZY6ZqS1-kisWc6LJP8tTJ0YjyZYXftSN4G6myMYRVJFUEp2iJvmTBtV1q7j5506DmFeZqdXIIFMX1pbDEeEAJqNm1ghsYC9_JkpcogZQQ&priceShown=234298&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=116&rate=234297.52&fees=49202.48&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_52432e50811118580bdfdbf134f4959c&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=439719cd-1597-4f4d-803e-99f8afbc1471&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1ea65d3713a6e81363e157ab001ebde46&area=QC_META_API&ik=7fe34f05f7034cb093fcaff6db0d2c95&dated=true&aok=f0d6b94c054d4e4c8b78d6aebd52fac3&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f0d6b94c054d4e4c8b78d6aebd52fac3"
+                                   },
+                                   {
+                                          "content_id": "100971487",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0234.298",
+                                          "display_price_int": "234298",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=100971487&geo=10053729&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=5091&bucket=907712&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261275869&managed=false&capped=false&gosox=T760TUNEsZv4a5M1YCyTnKhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOLRJIn-WhjpvMpKbIUaYowQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTro-sQ2qgMsFz2qLjljikPDpbw3R6YHMiVkKyyWykAZsRia3NLllk4x9wgRXrAdTqQkGkcFbqW4KtiZ4bCjOPwDR90coFgjInVL4QbSp6VMlc5nB6TPo_-PzQcD7K6X0gRTmmdQX3fDdweHNBG-Pv_Y&priceShown=234298&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=116&rate=234298.00&fees=49202.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_4916e43487b9cfa4b9f4fe2c42546e0b&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=439719cd-1597-4f4d-803e-99f8afbc1471&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=14d1a5aaca67d9bf5f007b94e0e67190e&area=QC_META_API&ik=7fe34f05f7034cb093fcaff6db0d2c95&dated=true&aok=36fa17b9b90f42ed93f6e82304ce3ab2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "36fa17b9b90f42ed93f6e82304ce3ab2"
+                                   },
+                                   {
+                                          "content_id": "115626507",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0216.930",
+                                          "display_price_int": "216930",
+                                          "strikethrough_price": "Rp\u00a0234.298",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=115626507&geo=10053729&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=18569&bucket=962380&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261275869&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GjQxlM7ji2c3pF8syBAF8Fm8oKr4M6vlhhRcmhEKEWAc-E1RKdvdi462UpAR9oe6QHu0fZ3b9IPw_8nALHtmDzL7vMzuqlCTPvNj2RRczPImT5W7q9eiAAf31t2IDiMgw5rHsDkvXrWXZ-kKl-OvG8KO02ozAScw23d00XahdfV3KiKLyb3pDCO6E085nmwt_VokqWuemoPTe3q4lnirp1zLYfVIkJrah8fYRp_z4gioTLVNuaLBG2rbxwD3Fh29HPC-M1W1szlSlHliwZIhBR8&priceShown=216930&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=216930.00&fees=45555.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_44827600fa31ef9727d9e3c26b94d13&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=439719cd-1597-4f4d-803e-99f8afbc1471&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1fbe22d1baecac625a89b917d8e6f35e6&area=QC_META_API&ik=7fe34f05f7034cb093fcaff6db0d2c95&dated=true&aok=8cd013170f9f4c3a84630a2533370e38&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8cd013170f9f4c3a84630a2533370e38"
+                                   },
+                                   {
+                                          "content_id": "100970953",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=100970953&geo=10053729&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261275869&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12p2knot88m50RvNwQ4usHZV1X9GW9K-M6HKJsA2Rz8ZHyM9Z15LOsWcqsVoLqo7N31hw2R0zPU2vtkKs8bVNv2oI1rPw-ms17u6o5YRVXtqBA9xTnmGYEUQj1fcHIhJBRFt3KFqta68TIvXXBuXP1Mn&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=439719cd-1597-4f4d-803e-99f8afbc1471&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=141dcc83cbb9c80e4b1672b345e3580f5&area=QC_META_API&ik=7fe34f05f7034cb093fcaff6db0d2c95&dated=true&aok=29f4b31b561348529ed77e9fd6f99f1c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "29f4b31b561348529ed77e9fd6f99f1c"
+                                   },
+                                   {
+                                          "content_id": "100943874",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=100943874&geo=10053729&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261275869&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-pyT-RPwLeiqGOcZ5E_gTPRSWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzfDJ50p1FbILjxLJDGidTQphw2R0zPU2vtkKs8bVNv2ofntuWqq_LbxylsT6pxaWrQ9xTnmGYEUQj1fcHIhJBRFt3KFqta68TIvXXBuXP1Mn&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=439719cd-1597-4f4d-803e-99f8afbc1471&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1fd9853960bc9f54137468ebb7ff287a0&area=QC_META_API&ik=7fe34f05f7034cb093fcaff6db0d2c95&dated=true&aok=1c9a081fdf5648f9ad5d7c3e01d692ed&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1c9a081fdf5648f9ad5d7c3e01d692ed"
+                                   },
+                                   {
+                                          "content_id": "119873110",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119873110&geo=10053729&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=42117&bucket=958557&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261275869&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GvJ-haV5DmHLJzbF067Yudo2mX1HYO_rIcJn6n79MaCGGT4yQfb37YApXTvnUi_xBBmpHftFRTKxGY0ITBLW_Vz26fW-XIu9ZF9bdIPgtHYRuRWBhCAzbBqxTCRE1Gjm4hvoL1ttFu6NoghHYnGBsso&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=439719cd-1597-4f4d-803e-99f8afbc1471&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1d5554a8c9d7289df50b9531579b186c5&area=QC_META_API&ik=7fe34f05f7034cb093fcaff6db0d2c95&dated=true&aok=d517dcf066d04effb0ca850fc8b014f9&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d517dcf066d04effb0ca850fc8b014f9"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "e9cc409d-9f54-4378-82a2-3847238f9e1f",
+                     "description": "Menemukan hotel sesuai untuk keluarga yang ideal di Sleman sangatlah mudah. Selamat datang di Grand Serela Hotel Yogyakarta, pilihan tepat untuk wisatawan seperti Anda.\nSelama menginap di Grand Serela Hotel Yogyakarta, tamu dapat mengunjungi Sabila Farm (4,4 km) dan Jungle Paintball Jogja (4,7 km), beberapa tempat terkenal di Sleman.\nKamar tamu memiliki penyejuk udara, dan Grand Serela Hotel Yogyakarta membuat terhubung dengan internet semakin mudah karena menawarkan wi-fi gratis.\nAnda juga dapat menggunakan fasilitas yang disediakan oleh hotel, seperti layanan concierge dan layanan kamar. Para tamu juga dapat menikmati sarapan saat mereka menginap. Untuk menambah kenyamanan, parkir gratis tersedia untuk para tamu.\nSaat berkunjung, jangan lupa untuk mampir di salah satu restoran terpopuler di Sleman yang menyajikan hidangan korea seperti Nasi Campur Babi Panggang Warung 52, yang jaraknya berdekatan dengan Grand Serela Hotel Yogyakarta.\nGrand Serela Hotel Yogyakarta tak sabar untuk menyambut Anda di Sleman.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g2304080-d10053729-Reviews-Grand_Serela_Hotel_Yogyakarta-Sleman_Sleman_District_Yogyakarta_Region_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g2304080-d10053729-Grand_Serela_Hotel_Yogyakarta-Sleman_Sleman_District_Yogyakarta_Region_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Sleman",
+                                   "abbrv": null,
+                                   "location_id": "2304080"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Sleman District",
+                                   "abbrv": null,
+                                   "location_id": "12872450"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Yogyakarta",
+                                   "abbrv": null,
+                                   "location_id": "294230"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Sleman",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 896-3452-1188",
+                     "website": "https://grandserela.com/magelang-yogyakarta/",
+                     "email": "rsv.yogyakarta@grandserela.com",
+                     "address_obj": {
+                            "street1": "Jl. Magelang KM 4 no. 145",
+                            "street2": "",
+                            "city": "Sleman",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "55284"
+                     },
+                     "address": "Jl. Magelang KM 4 no. 145, Sleman 55284 Indonesia",
+                     "local_name": "Grand Serela Hotel Yogyakarta",
+                     "local_address": "Jl. Magelang KM 4 no. 145, 55284",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Kids Activities",
+                                   "name": "Aktivitas Anak"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Cable / Satellite TV",
+                                   "name": "TV Kabel/Satelit"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Children's Television Networks",
+                                   "name": "Jaringan Televisi Anak-Anak"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Electric Kettle",
+                                   "name": "Cerek Listrik"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Highchairs Available - Amenities",
+                                   "name": "Tersedia Kursi Bayi"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Walk-in Shower",
+                                   "name": "Shower Berdiri"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "100",
+              "auction_key": "d9662cc72cd5432d9c27844f71cc8f6b",
+              "impression_key": "7fe34f05f7034cb093fcaff6db0d2c95",
+              "pricing": "base"
+       }
+}

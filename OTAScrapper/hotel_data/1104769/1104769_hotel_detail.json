@@ -1,0 +1,544 @@
+{
+       "data": [
+              {
+                     "location_id": "1104769",
+                     "name": "Bali Mountain Retreat",
+                     "latitude": "-8.392815",
+                     "longitude": "115.077835",
+                     "num_reviews": "341",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Tabanan, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/03/6b/58/3b/cool-air-clean-water.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/03/6b/58/3b/cool-air-clean-water.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "500",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/03/6b/58/3b/cool-air-clean-water.jpg",
+                                          "height": "375"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/03/6b/58/3b/cool-air-clean-water.jpg",
+                                          "height": "412"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/03/6b/58/3b/cool-air-clean-water.jpg",
+                                          "height": "187"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2013-01-31T06:37:58-0500",
+                            "caption": "Cool air, clean water.",
+                            "id": "57366587",
+                            "helpful_votes": "0",
+                            "published_date": "2013-01-31T06:37:40-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1104769?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.682449817657471",
+                     "ranking_geo": "Tabanan",
+                     "ranking_geo_id": "608496",
+                     "ranking_position": "5",
+                     "ranking_denominator": "26",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 5 dari 26 hotel di Tabanan",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0284.000 - Rp\u00a0687.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "41677411",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0239.180",
+                                          "display_price_int": "239180",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=41677411&geo=1104769&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=5&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276140&managed=false&capped=false&gosox=Eg5pRGO7plArtR1O8fhmgqhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eONfgbJx9lKPP_xZ6BLm72KgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTrqH9P0qHiWa5VmyFgLMa4WzY_kW4ahSR7AZiTN7j17xRNz1p1ynUO5KdxnWeB6SxAkGkcFbqW4KtiZ4bCjOPwDobVx14ChOpJdURebdjeBt1cPin3tK2Xc1GoAN9muvghbPWH-y6g9stIkPhKeSIQU&priceShown=239180&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=239180.00&fees=50228.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_347058421dbe507a5d67dd9301d9065&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dcc6178e-8861-43b0-bdf1-c47f0fda82d6&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1ccdc3a80509b66d976627404daa74463&area=QC_META_API&ik=a610a2caaf074786b511626a6eb94c3a&dated=true&aok=496b97c110ab4a088baae2e8132fa167&tp=HR_MainCommerce",
+                                          "auction_offer_key": "496b97c110ab4a088baae2e8132fa167"
+                                   },
+                                   {
+                                          "content_id": "120838996",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=120838996&geo=1104769&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=5&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276140&managed=false&capped=false&gosox=pvNxG1QamoKxGDP4rlMyM2prTmIeft25FWx4aMIebi8s8VPLiE80eARRjAdUvS9tj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn9zEVvx2mnEi4oFn0GT7kTsNpl9R2Dv6yHCZ-p-_TGghm5XZRIRIesvAziLdhHwj7XGXdWrvxWnY5BF7Vu_1xSdC5G6W_GQP2h9D3-Ddw2wzYYBBaDtNOWPaCxm2V-wUntmVULOKYHSckXFEiedXhlA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dcc6178e-8861-43b0-bdf1-c47f0fda82d6&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=11bb614cedbd164412f6f669dd31136dd&area=QC_META_API&ik=a610a2caaf074786b511626a6eb94c3a&dated=true&aok=e7bdfb9ba307402a89f37060290d3237&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e7bdfb9ba307402a89f37060290d3237"
+                                   },
+                                   {
+                                          "content_id": "120855562",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=120855562&geo=1104769&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=5&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276140&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdzxv1-_ZnZYY8swQ5wKnGbW1X9GW9K-M6HKJsA2Rz8ZH8gs2U9v752Qt6C3WnqT_pl8937RHXVBk2-PPF9frkwO-CvVnqhpSkcGDCSmt-xTLisGeIG5aH_U_toxOvMJYaPrGRHgloDLF7F8Xhp94v2G&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dcc6178e-8861-43b0-bdf1-c47f0fda82d6&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1a316f055f1e8438855a73eb825a9a061&area=QC_META_API&ik=a610a2caaf074786b511626a6eb94c3a&dated=true&aok=129878a7a89848b8af3a1aef4232470d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "129878a7a89848b8af3a1aef4232470d"
+                                   },
+                                   {
+                                          "content_id": "110221363",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=110221363&geo=1104769&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=5&silo=18569&bucket=934050&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276140&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01uCoSKQ-_ing_3xGARuPjwURamkFGHXeD3ahWYYHTGZl3qL_h7IoqwREHzz33_bZ36D8zCZq676rn-cHOd6Olti_Jjveybb_FPJyxCVDOxAyIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dcc6178e-8861-43b0-bdf1-c47f0fda82d6&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=11dab3a0469292a75b58ba069c40f0294&area=QC_META_API&ik=a610a2caaf074786b511626a6eb94c3a&dated=true&aok=6e2ff8624ce8439194a94146995ad2ac&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6e2ff8624ce8439194a94146995ad2ac"
+                                   },
+                                   {
+                                          "content_id": "150184131",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150184131&geo=1104769&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=5&silo=42117&bucket=958557&nrank=4&crank=5&clt=M&ttype=MobileCR&tm=261276140&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GmccB79KHcPwz8MkfX6nnahFW56ZaNfqyCZ36Q8HTA-tl2PPdzehwBacC4HjU91DS4q_2Tf_PYfGFRk18W62EKgYatFXEsLgC18BOOprMDcx43rwrKG1H-YTOjEnlnbHtvThRp-Ikn4gF-KKnTxS1aU&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dcc6178e-8861-43b0-bdf1-c47f0fda82d6&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=15b791fea25ef33f61cd7a6dff2271a2b&area=QC_META_API&ik=a610a2caaf074786b511626a6eb94c3a&dated=true&aok=cbb863f6750a460f8572516396de3b93&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cbb863f6750a460f8572516396de3b93"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.5",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "002171e5-8041-4a06-97da-01022bcc8a41",
+                     "description": "Menemukan penginapan romantis yang ideal di Tabanan sangatlah mudah. Selamat datang di Bali Mountain Retreat, pilihan tepat untuk wisatawan seperti Anda.\nAnda dapat menggunakan fasilitas yang ditawarkan oleh Bali Mountain Retreat, seperti toko hadiah, layanan penukaran mata uang, dan penyimpanan bagasi. Para tamu juga dapat menikmati sarapan saat mereka menginap. Ditambah dengan parkir gratis yang tersedia untuk para tamu.\nJika Anda mencari tempat terdekat untuk makan, Bali Mountain Retreat erada dalam jarak berjalan kaki dari Sarinbuana Eco Lodge Restaurant (0,3 km), sebuah restoran yang populer di area ini.\nBali Mountain Retreat tak sabar untuk menyambut Anda di Tabanan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g608496-d1104769-Reviews-Bali_Mountain_Retreat-Tabanan_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g608496-d1104769-Bali_Mountain_Retreat-Tabanan_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Tabanan",
+                                   "abbrv": null,
+                                   "location_id": "608496"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Tabanan",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 813-5378-0810",
+                     "website": "http://www.balimountainretreat.com",
+                     "email": "balimountainretreat@gmail.com",
+                     "address_obj": {
+                            "street1": "Banjar Biyahan",
+                            "street2": "",
+                            "city": "Tabanan",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "82162"
+                     },
+                     "address": "Banjar Biyahan, Tabanan 82162 Indonesia",
+                     "local_name": "Bali Mountain Retreat",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Babysitting",
+                                   "name": "Penitipan anak"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Books, DVDs, Music for Children",
+                                   "name": "Buku, DVD, dan Musik untuk Anak-Anak"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Currency Exchange",
+                                   "name": "Layanan Penukaran Mata Uang"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Electric Kettle",
+                                   "name": "Cerek Listrik"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Fireplace",
+                                   "name": "Perapian"
+                            },
+                            {
+                                   "key": "First Aid Kit",
+                                   "name": "Perlengkapan Pertolongan Pertama"
+                            },
+                            {
+                                   "key": "Fitness / Spa Locker Rooms",
+                                   "name": "Ruang Loker Kebugaran/Spa"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Game Room",
+                                   "name": "Ruang Permainan"
+                            },
+                            {
+                                   "key": "Gift Shop - Amenities",
+                                   "name": "Toko Hadiah"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Hand Massage",
+                                   "name": "Pijat Tangan"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Hiking - Amenities",
+                                   "name": "Lintas Alam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Interconnected rooms available",
+                                   "name": "Tersedia kamar terhubung"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Kids' Meals",
+                                   "name": "Makanan Anak-Anak"
+                            },
+                            {
+                                   "key": "Kitchenware",
+                                   "name": "Peralatan Dapur"
+                            },
+                            {
+                                   "key": "Manicure",
+                                   "name": "Manikur"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Mountain View - Amenities",
+                                   "name": "Pemandangan Gunung"
+                            },
+                            {
+                                   "key": "Neck Massage",
+                                   "name": "Pijat Leher"
+                            },
+                            {
+                                   "key": "Oven",
+                                   "name": "Oven"
+                            },
+                            {
+                                   "key": "Parking Garage",
+                                   "name": "Garasi Parkir"
+                            },
+                            {
+                                   "key": "Pedicure",
+                                   "name": "Pedikur"
+                            },
+                            {
+                                   "key": "Private Bathrooms",
+                                   "name": "Kamar Mandi Pribadi"
+                            },
+                            {
+                                   "key": "Private Check-in / Check-out",
+                                   "name": "Check-in/Check-out Pribadi"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "Secured Parking",
+                                   "name": "Parkir Aman"
+                            },
+                            {
+                                   "key": "Shared Lounge / TV Area",
+                                   "name": "Ruang Duduk/Area TV Bersama"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Special Diet Menus",
+                                   "name": "Menu Diet Khusus"
+                            },
+                            {
+                                   "key": "Stovetop",
+                                   "name": "Tungku"
+                            },
+                            {
+                                   "key": "Umbrella",
+                                   "name": "Payung"
+                            },
+                            {
+                                   "key": "Walk-in Shower",
+                                   "name": "Shower Berdiri"
+                            },
+                            {
+                                   "key": "Walking Tours - Amenities",
+                                   "name": "Tur Jalan Kaki"
+                            },
+                            {
+                                   "key": "Wardrobe / Closet",
+                                   "name": "Lemari Pakaian/Lemari"
+                            },
+                            {
+                                   "key": "Yoga Classes - Amenities",
+                                   "name": "Kelas Yoga"
+                            },
+                            {
+                                   "key": "Yoga Room",
+                                   "name": "Ruang Yoga"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isPersistableOncePerGeo": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "40",
+              "auction_key": "f42fa9b738e74906b28c3ba4cae0682f",
+              "impression_key": "a610a2caaf074786b511626a6eb94c3a",
+              "pricing": "base"
+       }
+}

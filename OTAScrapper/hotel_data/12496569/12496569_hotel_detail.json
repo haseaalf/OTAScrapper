@@ -1,0 +1,474 @@
+{
+       "data": [
+              {
+                     "location_id": "12496569",
+                     "name": "Swiss-Belinn Luwuk",
+                     "latitude": "-0.987911",
+                     "longitude": "122.78634",
+                     "num_reviews": "197",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Luwuk, Sulawesi Tengah, Sulawesi",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/67/ec/00/exterior.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/67/ec/00/exterior.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "810",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/67/ec/00/exterior.jpg",
+                                          "height": "810"
+                                   },
+                                   "large": {
+                                          "width": "450",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/67/ec/00/exterior.jpg",
+                                          "height": "450"
+                                   },
+                                   "medium": {
+                                          "width": "205",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/67/ec/00/exterior.jpg",
+                                          "height": "205"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2023-03-07T15:06:53-0500",
+                            "caption": "Exterior",
+                            "id": "677899264",
+                            "helpful_votes": "0",
+                            "published_date": "2023-03-07T15:06:53-0500",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/12496569?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.754147052764893",
+                     "ranking_geo": "Luwuk",
+                     "ranking_geo_id": "1071663",
+                     "ranking_position": "1",
+                     "ranking_denominator": "9",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 9 hotel di Luwuk",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0418.000 - Rp\u00a0522.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "117890875",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0404.959",
+                                          "display_price_int": "404959",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=117890875&geo=12496569&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276401&managed=false&capped=false&gosox=Eg5pRGO7plArtR1O8fhmgqhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eONfgbJx9lKPP_xZ6BLm72KgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTilX8W12F8NIHOynKpz14d0KekERDNEgDTH_ufhLJKomPdbhFrafbJMcJFuwv3EHC-vLKblTLHMbZAyoFt2HPBP8Vu09Lqli4J6PIH7_YU1kmS-HAJovKgKPDAm-7W4k3SRe90lihaGXv-0nD0i_Xf0&priceShown=404959&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=435&rate=404959.00&fees=85041.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_5130e40abc82f207dcde9f0c07ebf44f&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a1500479-23eb-4622-ba4c-223f0a963b96&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=19e366b049d3df4e2bbffbf5ab0f3da5e&area=QC_META_API&ik=199d980110ae40c5810186e619421fde&dated=true&aok=a3e7cb707bbb4c169951201051a735d9&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a3e7cb707bbb4c169951201051a735d9"
+                                   },
+                                   {
+                                          "content_id": "153142630",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0340.084",
+                                          "display_price_int": "340084",
+                                          "strikethrough_price": "Rp\u00a0404.959",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=153142630&geo=12496569&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=18569&bucket=962380&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276401&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GjQxlM7ji2c3pF8syBAF8Fk9eq3DNDY0zHoiHH7332_c6MX9OANXfEFmioh24rYevIHdJ_jeuiepT5g7_DrsBh2hcb2KDeIYo5z1HTUoH5CiP8MJVgmXVm8ny9297EDHHUZg_UvJmd_eczd0EaC2P7E9pFxKpiTnpyEfTSnqIIumU-jnbgyCtcUlede-eVq0dlokqWuemoPTe3q4lnirp1z-ZyFCQS4oJznRvzZcW1lS6nKZuG0xX1TIaWjv7nRkpz5109q4bKWXHvFmZg4ViNU&priceShown=340084&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=340084.00&fees=71417.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_1600b6fce51d112fbd5b182e8b2aadc3&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a1500479-23eb-4622-ba4c-223f0a963b96&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=197adf48c85df04bfc5fc2e2fedaa065e&area=QC_META_API&ik=199d980110ae40c5810186e619421fde&dated=true&aok=02b4fbe07b344e3e8208cd5d8c94936f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "02b4fbe07b344e3e8208cd5d8c94936f"
+                                   },
+                                   {
+                                          "content_id": "116588043",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=116588043&geo=12496569&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276401&managed=false&capped=false&gosox=xNUgDrnKq0502e7aJDnE72prTmIeft25FWx4aMIebi_zOA5YeAys6tuY1B6fvd0lj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_9OH_efazvTd-vlDGnVEzLNpl9R2Dv6yHCZ-p-_TGghm5XZRIRIesvAziLdhHwj7UYKjcmqZTz2GF2Kvrw9dFe0KCGg9Qmju95BEFDeJqC09wKC-oFZeK7gYiKkYptRWf7KSmP7Wkovc0-V_5pQxIS&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a1500479-23eb-4622-ba4c-223f0a963b96&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1721b01c6352fb2c8fe297b3cc6f00ddb&area=QC_META_API&ik=199d980110ae40c5810186e619421fde&dated=true&aok=cb9b83818d53429e8944e61024f1d559&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cb9b83818d53429e8944e61024f1d559"
+                                   },
+                                   {
+                                          "content_id": "116920017",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=116920017&geo=12496569&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276401&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12osGCr2Jx2g6Z6dHm9X014y1X9GW9K-M6HKJsA2Rz8ZH1xwqnJJGqUTBwH5zaQvFqp1Qs7_oS131Tu23vQIpV-4-reQpdn-FoZqTk23MJOAK8GGG5My1kURwOD0djUXfQhDL9cpTTtZmdOU2aD-sZuW15UiLfjocEnXB5ooQqGJkA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a1500479-23eb-4622-ba4c-223f0a963b96&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1f59e45554810ca161f90986197091e6b&area=QC_META_API&ik=199d980110ae40c5810186e619421fde&dated=true&aok=0f815e42b3994ff8b86fcfcd8fffa20e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0f815e42b3994ff8b86fcfcd8fffa20e"
+                                   },
+                                   {
+                                          "content_id": "116600250",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=116600250&geo=12496569&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276401&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdxFAUU8DAKlJjp7JTn2nQqx1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0NgPWWBPe6bRhHx5ERPT0CByv-qSLaeL4UyyMj71aeNaZELnFT4BT8GDWr6oGANVaIX-Adej80-5Md92DV8t3ebI&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a1500479-23eb-4622-ba4c-223f0a963b96&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=112a522dd84e8ec02d8d40040fa7a6a9b&area=QC_META_API&ik=199d980110ae40c5810186e619421fde&dated=true&aok=15f4c88e570d48ee85a4bfa80c2b5ce5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "15f4c88e570d48ee85a4bfa80c2b5ce5"
+                                   },
+                                   {
+                                          "content_id": "116708667",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=116708667&geo=12496569&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261276401&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nza186Dr56VL0arESW269ArGvY4-uyzGTBtSymys1qGj5N99AC67PG1BkAgDJCcXhKdxtFs6MnPklT09BEX_XMybHeJiPQNNmowQlkhyl31o5&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a1500479-23eb-4622-ba4c-223f0a963b96&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1a03cfdfb280ca832bd85a788db3a619f&area=QC_META_API&ik=199d980110ae40c5810186e619421fde&dated=true&aok=171799d598b94da0bab209ef0865b976&tp=HR_MainCommerce",
+                                          "auction_offer_key": "171799d598b94da0bab209ef0865b976"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "46829a96-547e-473f-b65c-eef81172fd58",
+                     "description": "Menemukan hotel mewah yang ideal di Luwuk sangatlah mudah. Selamat datang di Swiss-Belinn Luwuk, pilihan tepat untuk wisatawan seperti Anda.\nKamar memiliki kulkas, penyejuk udara, dan minibar, dan Anda dapat menggunakan internet, karena wi-fi gratis tersedia, sehingga Anda dapat beristirahat dan menyegarkan diri dengan mudah.\nSwiss-Belinn Luwuk menawarkan resepsionis 24 jam, layanan concierge, dan layanan kamar. Sebagai tamu Swiss-Belinn Luwuk, Anda dapat menikmati kolam renang dan restoran yang tersedia di properti. Para tamu yang mengemudi memiliki akses ke tempat parkir gratis.\nSaat mengunjungi Luwuk, Anda dapat mampir ke restoran makanan laut seperti RM Surabaya Luwuk, yang menyajikan hidangan lezat.\nSwiss-Belinn Luwuk tak sabar untuk menyambut Anda di Luwuk.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1071663-d12496569-Reviews-Swiss_Belinn_Luwuk-Luwuk_Central_Sulawesi_Sulawesi.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1071663-d12496569-Swiss_Belinn_Luwuk-Luwuk_Central_Sulawesi_Sulawesi.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Luwuk",
+                                   "abbrv": null,
+                                   "location_id": "1071663"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Sulawesi Tengah",
+                                   "abbrv": null,
+                                   "location_id": "2301804"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Sulawesi",
+                                   "abbrv": null,
+                                   "location_id": "297719"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Luwuk",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 461 3128600",
+                     "website": "http://www.swiss-belhotel.com/en-gb/swiss-belinn-luwuk",
+                     "email": "luwuk@swiss-belhotel.com",
+                     "address_obj": {
+                            "street1": "Jl.Kantor DPRD Baru RT 13",
+                            "street2": "",
+                            "city": "Luwuk",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "94716"
+                     },
+                     "address": "Jl.Kantor DPRD Baru RT 13, Luwuk 94716 Indonesia",
+                     "local_name": "Swiss-Belinn Luwuk",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Hot tub",
+                                   "name": "Bathtub Air Panas"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Free Airport Transportation",
+                                   "name": "Transportasi bandara gratis"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Fireplace",
+                                   "name": "Perapian"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Gift Shop - Amenities",
+                                   "name": "Toko Hadiah"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Valet Parking - Amenities",
+                                   "name": "Layanan Parkir Valet"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "33",
+              "auction_key": "479ff83238de4ad7807b9c905dc067ad",
+              "impression_key": "199d980110ae40c5810186e619421fde",
+              "pricing": "base"
+       }
+}

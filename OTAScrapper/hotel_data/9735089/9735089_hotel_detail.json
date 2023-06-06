@@ -1,0 +1,512 @@
+{
+       "data": [
+              {
+                     "location_id": "9735089",
+                     "name": "Mercure Nexa Bandung Supratman",
+                     "latitude": "-6.904818",
+                     "longitude": "107.62901",
+                     "num_reviews": "1572",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Bandung, Jawa Barat, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/dd/d3/3f/exterior-view.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/dd/d3/3f/exterior-view.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/dd/d3/3f/exterior-view.jpg",
+                                          "height": "768"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/dd/d3/3f/exterior-view.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/dd/d3/3f/exterior-view.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2021-04-16T01:27:35-0400",
+                            "caption": "Exterior view",
+                            "id": "484299583",
+                            "helpful_votes": "0",
+                            "published_date": "2021-04-16T01:27:35-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/9735089?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.928554534912109",
+                     "ranking_geo": "Bandung",
+                     "ranking_geo_id": "297704",
+                     "ranking_position": "4",
+                     "ranking_denominator": "674",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 4 dari 674 hotel di Bandung",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0552.000 - Rp\u00a0657.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "115620571",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=115620571&geo=9735089&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=9&silo=18569&bucket=934050&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=261279072&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01pddu8fgHsQswC2uuIeQw8wCHEYFTATegLtcm9D7PT_C_hEsFVuIWOddKs8LtwJTizqsVmnB3UmqfXeV8sRkqn6-04htGTlxA9802RGE4dFxIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1ab2dc808b8f69dbbb553a3bbf1f0240c&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=19331b5b4ddc44f88c054906ce42c336&tp=HR_MainCommerce",
+                                          "auction_offer_key": "19331b5b4ddc44f88c054906ce42c336"
+                                   },
+                                   {
+                                          "content_id": "79684303",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=79684303&geo=9735089&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=9&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261279072&managed=false&capped=false&gosox=Jocx2wPBxPGucJKO55tbmGprTmIeft25FWx4aMIebi-kU6R9fHw1FToqkvkASErNj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn-pXYM-gCdpwzYIZ_gDRzdPNpl9R2Dv6yHCZ-p-_TGghgPFnwSqJ8DOU2R7MOtMa2KxW83uin7yPqoDSl1TPtzW7CjMwmn-32bWo1S0WV9qaWl36T6MwHZTTSHAjWxBi9ochC7P0ojJZOg0yFdwvtpx&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=16fc780616c2166bb6fe6b836f21e116a&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=1dce9e47e6964d1f9f5dfd3cd8014c98&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1dce9e47e6964d1f9f5dfd3cd8014c98"
+                                   },
+                                   {
+                                          "content_id": "79277081",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=79277081&geo=9735089&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=9&silo=5091&bucket=897544&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261279072&managed=false&capped=false&gosox=0f-YBuPPwq1X_PnVii3EAqhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOZTWo4TT-k3UxuIqDEr1lMQIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTspnW4cKy8g7ny8QL4bNSBJG6dfT_gQr66zg1uDPU35iIj9iRB7xTgS3rVsixXKHaikuHhWRZEjR3WR-jfn3sSJGLi9i9E4DksCLyNBLnRcQfvK3egcHlJEVJpl_jkht_RvFKgsk8RqqTVoFgFWQAeo&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1bdb9b690c432f96247018e1a5579a6e9&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=c61a564c0ace40489be697a88737a63b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c61a564c0ace40489be697a88737a63b"
+                                   },
+                                   {
+                                          "content_id": "80664709",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=80664709&geo=9735089&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=9&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261279072&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12qvOb0bkKxtW1VaK6TssZl01X9GW9K-M6HKJsA2Rz8ZH0CYg2nouS_q6U-htStzCUm_Sx2Kd-S_y4qw4Y1Lpc3rihjuwaU_dCSCMCPy2s-8fkYuL2L0TgOSwIvI0EudFxB-8rd6BweUkRUmmX-OSG39G8UqCyTxGqpNWgWAVZAB6g&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1b6d6eafe54e876aaeea166dc048747a6&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=cb85d0c338bc416fb2d688bd9fac1d78&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cb85d0c338bc416fb2d688bd9fac1d78"
+                                   },
+                                   {
+                                          "content_id": "174628188",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174628188&geo=9735089&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=9&silo=40643&bucket=944550&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261279072&managed=false&capped=false&gosox=p9NEpElxCEWyonM4pLGfqtB9Nk-3dZvv4uHo-0rPhISgpx93gr8vlTHAqjkimAAHaRAGEEO-YzknBuaF_jagLeMP4Q9egshXVQ1btEvzBhB_zgIzYKvbNCOzBfupR8scLZu-d3mG1mmNmnOD89r0d0STRzDf_VlO0IwJSDeQkRHGkkp9q-SuBOvW2kKsNVwqKS4eFZFkSNHdZH6N-fexIkYuL2L0TgOSwIvI0EudFxB-8rd6BweUkRUmmX-OSG39G8UqCyTxGqpNWgWAVZAB6g&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=188b7607a16d20d4f194228336a14273b&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=197730e3f51349f2aa38bbae6a57e6a1&tp=HR_MainCommerce",
+                                          "auction_offer_key": "197730e3f51349f2aa38bbae6a57e6a1"
+                                   },
+                                   {
+                                          "content_id": "79709452",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=79709452&geo=9735089&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=9&silo=45096&bucket=974633&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261279072&managed=true&capped=false&gosox=OQL-nQi08WphSXd0W_XaOnJm4ZnrC-rIfr4-dN96LcbyfoWleQ5hyyc2xdOu2LnaNpl9R2Dv6yHCZ-p-_TGghmtS-2UyImsAqt2CxM659BQZqR37RUUysRmNCEwS1v1cvAx9s8zEgk58OVA5X6SOS-8rf0hP2OGtopfhFb8BU4eLDoKgywHNgEikEWyM1Ilm&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1148cd03eb747411ab525689ff08a51a3&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=0a90a22e101b417b88ebd6247826916b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0a90a22e101b417b88ebd6247826916b"
+                                   },
+                                   {
+                                          "content_id": "80665876",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=80665876&geo=9735089&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=9&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261279072&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-pyT-RPwLeiqGOcZ5E_gTPRSWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzR63VZOOFdNxtYp-H2QRSHB3LEYfoGYugqo5EFKZTtmZuotF1eXVMnQo0zePDgEwRhAcNJP4a8ooOBR58eyCujt_XXHzyLCYTpWdwKykgyTi&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=11a0a1198a6ecbf98c531d0a29edf639f&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=866868e7da7a45ce902bf2565847db4e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "866868e7da7a45ce902bf2565847db4e"
+                                   },
+                                   {
+                                          "content_id": "119819016",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119819016&geo=9735089&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=9&silo=42117&bucket=958560&nrank=6&crank=8&clt=M&ttype=MobileCR&tm=261279072&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GvJ-haV5DmHLJzbF067Yudo2mX1HYO_rIcJn6n79MaCGmX3Uk_cOpITN2NtsVx_p9RmpHftFRTKxGY0ITBLW_Vy8DH2zzMSCTnw5UDlfpI5L7yt_SE_Y4a2il-EVvwFTh4sOgqDLAc2ASKQRbIzUiWY&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=10ce16bebe70c348f1e1d695bcfbe4eb4&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=91d25e2b6db84b33853d9aaf9a5eb83f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "91d25e2b6db84b33853d9aaf9a5eb83f"
+                                   },
+                                   {
+                                          "content_id": "233708874",
+                                          "provider_display_name": "Mercure",
+                                          "internal_provider_name": "Accor",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/TAMercureHotels_logo_RGB-min.png",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Accor&src=233708874&geo=9735089&from=HotelDateSearch_api&slot=9&matchID=1&oos=0&cnt=9&silo=15994&bucket=903828&nrank=6&crank=9&clt=M&ttype=MobileCR&tm=261279072&managed=false&capped=false&gosox=dvvuPUQtTenwFbtPpMccdKktQF1YCu9wnNpJEAi9zAI9S15EUjuype9FWhdtiReaFnm7b70toowV761ZAZECIgzXClZ_Cc9JEENWMzoawf-hot8ECcWX1Z4X0_68XvROaXs-epalNNvpUxGhixR3GHyTEZ4tg5PDnqyZ3EauZ83ExQPOT09TpkTh-2HFFtR1nMQxX_DsAoOLb3ZAbXfmIZlUMUwDFeQ47I4D2M85L7nwpzSuyHjKDLuaYzx93Yr9vRMbcLOtUjBWKNLzeZ4PJA&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=a212e1eb-cc91-4f06-b67a-8978b6e856ad&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1e966016abff4bcbab4e10c0f3358f9b4&area=QC_META_API&ik=86e9e197d7af4b4e8c25dc30e4214cd8&dated=true&aok=945022e7461b4b149e8452e240d1d506&tp=HR_MainCommerce",
+                                          "auction_offer_key": "945022e7461b4b149e8452e240d1d506"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Accor Hotels.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "a8f08572-fdba-4906-83f0-5fff9ec17cd4",
+                     "description": "Menemukan hotel sesuai untuk keluarga yang ideal di Bandung sangatlah mudah. Selamat datang di Mercure Nexa Bandung Supratman, pilihan tepat untuk wisatawan seperti Anda.\nTempat terkenal terdekat seperti Katedral Santo Petrus (2,2 km) dan Masjid Salman ITB (2,3 km) membuat Mercure Nexa Bandung Supratman tempat terbaik untuk menginap selama mengunjungi Bandung.\nAnda akan menikmati kenyamanan kamar yang menawarkan tv layar datar, kulkas, dan penyejuk udara, dan anda dapat tetap menggunakan internet pada saat menginap karena Mercure Nexa Bandung Supratman menawarkan wi-fi gratis.\nHotel menawarkan resepsionis 24 jam, layanan concierge, dan layanan kamar. Dan, Mercure Nexa Bandung Supratman juga menyediakan kolam renang dan sarapan, untuk memulihkan diri dari hari yang sibuk. Untuk tamu yang mengemudi, parkir gratis tersedia.\nJika Anda merasa lapar, jangan lupa untuk mampir ke Badung, Hangover Bandung, dan Q Meals & Beverages, restoran pub yang populer dengan warga sekitar dan pengunjung dari luar kota.\nOh ya, selama berkunjung, jangan lupa untuk melihat beberapa taman, seperti Wot Batu, Taman Lansia, dan Taman Musik Centrum.\nMercure Nexa Bandung Supratman tak sabar untuk menyambut Anda di Bandung.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297704-d9735089-Reviews-Mercure_Nexa_Bandung_Supratman-Bandung_West_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297704-d9735089-Mercure_Nexa_Bandung_Supratman-Bandung_West_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Bandung",
+                                   "abbrv": null,
+                                   "location_id": "297704"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Barat",
+                                   "abbrv": null,
+                                   "location_id": "2301792"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Bandung",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 22 86017000",
+                     "website": "http://www.accorhotels.com/gb/hotel-B2U4-mercure-nexa-bandung-supratman/index.shtml",
+                     "address_obj": {
+                            "street1": "Jl. W.R Supratman no. 66-68",
+                            "street2": "Bandung Wetan",
+                            "city": "Bandung",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "40111"
+                     },
+                     "address": "Jl. W.R Supratman no. 66-68 Bandung Wetan, Bandung 40111 Indonesia",
+                     "local_name": "Mercure Nexa Bandung Supratman",
+                     "local_address": "Jl. W.R Supratman no. 66-68, Bandung Wetan, 40111",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Indoor Pool",
+                                   "name": "Kolam renang dalam ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "BBQ Facilities",
+                                   "name": "Fasilitas BBQ"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "89",
+              "auction_key": "dc97b1c1ec254efbb51de7467281f2ad",
+              "impression_key": "86e9e197d7af4b4e8c25dc30e4214cd8",
+              "pricing": "base"
+       }
+}

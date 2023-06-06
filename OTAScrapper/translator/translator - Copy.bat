@@ -1,0 +1,1 @@
+start "translator 1" cmd /k "C:\Users\MSI-GAMMING\Documents\COOLYEAH\.skripsi\Code\OTAScrapper\.venv\Scripts\activate & python C:\Users\MSI-GAMMING\Documents\COOLYEAH\.skripsi\Code\OTAScrapper\translator\translator.py 1 > log1.txt"

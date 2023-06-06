@@ -1,0 +1,548 @@
+{
+       "data": [
+              {
+                     "location_id": "6434430",
+                     "name": "ibis Styles Jakarta Airport",
+                     "latitude": "-6.115915",
+                     "longitude": "106.68241",
+                     "num_reviews": "1307",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Tangerang, Banten Province, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/ff/c2/56/exterior-view.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/ff/c2/56/exterior-view.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/ff/c2/56/exterior-view.jpg",
+                                          "height": "768"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/ff/c2/56/exterior-view.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/ff/c2/56/exterior-view.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-07-28T11:55:58-0400",
+                            "caption": "Exterior view",
+                            "id": "620741206",
+                            "helpful_votes": "0",
+                            "published_date": "2022-07-28T11:55:58-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/6434430?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.685733318328857",
+                     "ranking_geo": "Tangerang",
+                     "ranking_geo_id": "1493703",
+                     "ranking_position": "17",
+                     "ranking_denominator": "165",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 17 dari 165 hotel di Tangerang",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0642.000 - Rp\u00a0836.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "58368289",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "pay_at_stay_message": "Tidak perlu membayar di muka",
+                                          "display_price": "Rp\u00a0576.200",
+                                          "display_price_int": "576200",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=58368289&geo=6434430&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=5091&bucket=897544&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261278449&managed=false&capped=false&gosox=j2vqO_fb07A1JOafSxCEk6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGZNyjRhV4LM36GW5OXDRi_gIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTjN7sutMEAqtm7NWn0OFn1NAnghdf7OcHLoWF8_PzEWwLp02T0sYKLnEPjgbRdEiXuvLKblTLHMbZAyoFt2HPBNybgTZoP7SfTSCyka5GEPKEXXT7eqKM7OxPHgjxf5h0XDwfmnlnRmvxbX1OPnCepA&priceShown=576200&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=576200.00&fees=121002.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_1b044e1aac9c903fd028a2633ac099af&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=18977745a420f07099e945ccdc7bfdade&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=988211c9e92d491e8649fd172ba13456&tp=HR_MainCommerce",
+                                          "auction_offer_key": "988211c9e92d491e8649fd172ba13456"
+                                   },
+                                   {
+                                          "content_id": "58803365",
+                                          "provider_display_name": "ibis Styles",
+                                          "internal_provider_name": "Accor",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/IbisStyles2.gif",
+                                          "treatment": "supplier_direct",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0576.200",
+                                          "display_price_int": "576200",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Accor&src=58803365&geo=6434430&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=15994&bucket=903828&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261278449&managed=false&capped=false&gosox=UxwUoufrWYvpGxE8e4qYU10oKCluCijA7-8aji1hH_qxULC9r-GEcR4xxHlgGmkfGeA1QxvjHpxbmEFRs2cOZjQG2hLAiobRumbL4oPT-DuDG8YAbheG-UdM6XQ8WsdMzXWhDAwyZ0wa-JINy7oM2MP-8QKZygDvo179H9DF1VCVW7ZdKIaaH6kpQkU6rioqh_L_9TEvLvyrA4Qk0JWiY7Q0VKYZJRY2ipSwpJlrKWGTRuaNukZKv3scEX-jJyEgenFzSFi89eAxf0e1t9Mf-KdyJjVre-xIKrtLOqHysJA&priceShown=576200&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=576200.00&fees=121002.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=139349a52a6468eef8ec7f2802475e86e&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=a79b2fd2e5f54e61bcc037b8d6e11e81&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a79b2fd2e5f54e61bcc037b8d6e11e81"
+                                   },
+                                   {
+                                          "content_id": "62704787",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0576.200",
+                                          "display_price_int": "576200",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=62704787&geo=6434430&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261278449&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULXhfaPQ13Oqd_ZpWCGSvOVDKv5i-gp_dq6fghycsE55x2L900sTPIaQ7WFLQmhe_sog2jC-xPnBEjwywJ8I_jkWkGShPJzeiZ9vKNIcXf0NPtDh7zV-FuamNsUkyh2pgS1O-6YbBHzy8Q0m5dyqXptGwWWban6NQcq_wLuUT9cwna9YcQ70mLxehT3cTDHhzvH1I7ek4KSvc-gEcnReUMWhTiHvGEcoYCXVawG141PWBZQ09JcVQilhX6ji-v585Xg&priceShown=576200&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=576200.00&fees=121002.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_7a53598f5ffa2fb4a391c0c23ad8d0d4&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d8baa6a0dea1173b714d89b0bcac49a8&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=a9846ac80a034914b06a976b777d2641&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a9846ac80a034914b06a976b777d2641"
+                                   },
+                                   {
+                                          "content_id": "63401365",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0576.200",
+                                          "display_price_int": "576200",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=63401365&geo=6434430&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=10473&bucket=930628&nrank=3&crank=4&clt=M&ttype=MobileCR&tm=261278449&managed=false&capped=false&gosox=BWTCcKlUqCW1coD4S6oKLqvZhm75ctqRz0I99iy-X04NZSQxcCAytjNb4TEiGoJ87BZlFz5nbwsHoJU0C-n6MyFkJ8epyiY8AKjPdHTicVTtcp6nb5bfhh3YIFBvhc-gs4_mPV402px-PCUa78BTiui0gIOLHqkHDhxUSWkgKWQ9kMIIk6OsLcw-kkMz5ypZ68spuVMscxtkDKgW3Yc8E3JuBNmg_tJ9NILKRrkYQ8oRddPt6oozs7E8eCPF_mHRcPB-aeWdGa_FtfU4-cJ6kA&priceShown=576200&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=576200.00&fees=121002.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_6e22f04f9502677c25789741dc6c712f&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1443b904de1b3ab17a0fea5c3882c9791&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=d77c085539784e5ab816598f20ddd1e6&tp=HR_MainCommerce",
+                                          "auction_offer_key": "d77c085539784e5ab816598f20ddd1e6"
+                                   },
+                                   {
+                                          "content_id": "56236344",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0576.200",
+                                          "display_price_int": "576200",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=56236344&geo=6434430&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261278449&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcpS0IJslh2OJKt6yjxdrAloRh2nCSJdYqD-vw7cE88Xtf1lpQphM0gGwRJv_HOPMRYEur0nHAMzEnE_pxr71DjohTxBhW7OI-FPt79HdWXWJMqzBKxUXxK3AwoYLnw6lJJkgT6d6hPTihyItBpMSs7yuU-yYQ9bKrVtLwgm_3no5vY7LxJNdZ9rGM5ujM-pFyWTRuaNukZKv3scEX-jJyEgenFzSFi89eAxf0e1t9Mf-KdyJjVre-xIKrtLOqHysJA&priceShown=576200&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=576200.00&fees=121002.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1da864b781e0f231c1d5ae3dec7997a79&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=6863cf33e1894f3d87afeba121f09929&tp=HR_MainCommerce",
+                                          "auction_offer_key": "6863cf33e1894f3d87afeba121f09929"
+                                   },
+                                   {
+                                          "content_id": "79227992",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79227992&geo=6434430&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261278449&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01gGaLWdRJqnnqmzYfgmgKxBuXR8URTTRYtCmehT8M78usea1rcCG-O1ZdYKJPy1wCl_H53g-BNLhNZ_MW1M-SBycbp6Tu3jqDqADd8HPPqYn&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=123f85f4be1561fff2fcd488bb00ac12d&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=720fd3b929e947e9a91c588c09f77a3c&tp=HR_MainCommerce",
+                                          "auction_offer_key": "720fd3b929e947e9a91c588c09f77a3c"
+                                   },
+                                   {
+                                          "content_id": "150157598",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=150157598&geo=6434430&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=42117&bucket=958560&nrank=5&crank=7&clt=M&ttype=MobileCR&tm=261278449&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GnLSsTRc3g6Kh8CgpA3KZLw2mX1HYO_rIcJn6n79MaCGH8xcQQMQ1trDTSKdPBpx_xmpHftFRTKxGY0ITBLW_Vyvw5vQEShd53mc_-Bdu026KTYvSKpaJeW9XPepR0lEl0oOCd4VJnKzf6OWTudWYAo&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=bc9d65e7-0724-4467-bb57-874b05a11d60&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1eca789bdf297b748e558f1231a73bfdd&area=QC_META_API&ik=2b59c4fe85bc46719d1ca0ba0ee046da&dated=true&aok=04ac483434e545e1b1282c5bc6372c5f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "04ac483434e545e1b1282c5bc6372c5f"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Accor Hotels.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "6f1ce082-e80c-4096-97f7-2c2be173c4e2",
+                     "description": "Mencari tempat menginap di Tangerang? Coba lihat Ibis Styles Jakarta Airport, hotel trendi yang menyuguhkan daya tarik terbaik Tangerang ke kamar Anda.\nKamar di Ibis Styles Jakarta Airport menawarkan tv layar datar, penyejuk udara, dan meja memaksimalkan kenyamanan, dan para tamu dapat menggunakan internet dengan tersedianya wi-fi gratis.\nResepsionis 24 jam, layanan concierge, dan layanan kamar adalah beberapa hal yang ditawarkan oleh hotel. Kolam renang dan sarapan akan membuat kunjungan Anda menjadi lebih spesial. Jika Anda mengemudi ke Ibis Styles Jakarta Airport, parkir gratis tersedia.\nJika Anda mencari tempat terdekat untuk makan, Ibis Styles Jakarta Airport berada dalam jarak berjalan kaki dari beberapa restoran populer seperti Rumah Makan Lembur Kuring (0,6 km), The Porte di FM7 Resort Hotel (1,0 km), dan Linjani Restaurant (0,7 km).\nKami yakin Anda akan menikmati menginap di Ibis Styles Jakarta Airport sambil menikmati apa yang Tangerang tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1493703-d6434430-Reviews-Ibis_Styles_Jakarta_Airport-Tangerang_Banten_Province_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1493703-d6434430-Ibis_Styles_Jakarta_Airport-Tangerang_Banten_Province_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Tangerang",
+                                   "abbrv": null,
+                                   "location_id": "1493703"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Banten Province",
+                                   "abbrv": null,
+                                   "location_id": "2323428"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Tangerang",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 21 29327777",
+                     "website": "http://www.accorhotels.com/gb/hotel-8593-ibis-styles-jakarta-airport/index.shtml",
+                     "email": "h8593-re@accor.com",
+                     "address_obj": {
+                            "street1": "Jl. Raya Bandara Soekarno Hatta",
+                            "street2": "Kp. Rawa Bokor",
+                            "city": "Tangerang",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "15125"
+                     },
+                     "address": "Jl. Raya Bandara Soekarno Hatta Kp. Rawa Bokor, Tangerang 15125 Indonesia",
+                     "local_name": "ibis Styles Jakarta Airport",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Free Airport Transportation",
+                                   "name": "Transportasi bandara gratis"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Facilities for Disabled Guests",
+                                   "name": "Fasilitas untuk Tamu Penyandang Disabilitas"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Paid Public Parking On-site",
+                                   "name": "Parkir Publik Berbayar di Lokasi"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "86",
+              "auction_key": "c9eb2d67a6de4b248c2f18dc42af81a6",
+              "impression_key": "2b59c4fe85bc46719d1ca0ba0ee046da",
+              "pricing": "base"
+       }
+}

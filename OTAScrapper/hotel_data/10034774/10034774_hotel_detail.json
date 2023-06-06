@@ -1,0 +1,535 @@
+{
+       "data": [
+              {
+                     "location_id": "10034774",
+                     "name": "ARTOTEL Sanur",
+                     "latitude": "-8.705424",
+                     "longitude": "115.260895",
+                     "num_reviews": "2114",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Sanur, Denpasar, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/84/73/6e/artotel-sanur.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/84/73/6e/artotel-sanur.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1732",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/84/73/6e/artotel-sanur.jpg",
+                                          "height": "1154"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/84/73/6e/artotel-sanur.jpg",
+                                          "height": "366"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/84/73/6e/artotel-sanur.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2020-01-06T05:03:15-0500",
+                            "caption": "",
+                            "id": "444887918",
+                            "helpful_votes": "0",
+                            "published_date": "2020-01-06T05:03:15-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/10034774?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.62446928024292",
+                     "ranking_geo": "Sanur",
+                     "ranking_geo_id": "297700",
+                     "ranking_position": "12",
+                     "ranking_denominator": "121",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 12 dari 121 hotel di Sanur",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0896.000 - Rp\u00a01.299.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "80858985",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a01.297.521",
+                                          "display_price_int": "1297521",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=80858985&geo=10034774&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=6&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261275845&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcoKB-pW5skdKYPL0V7efqdrRh2nCSJdYqD-vw7cE88XtVxlVxuEw2IbzB7WD9ju6YME4uRd4EOJMS50rUT2AZMSnEW6FKogZ9jXS7mKXSWytiMs4gX-U1DaSgg4zdgrevRtThVFe7CiT43Nrpnf9m_6M6wk15HH-yHYutCYSN0oZ2qDzPQpMGlcEM2tKgkBzB52c6DxTEYJULNDCq0AtonakW_JDOWUqvIS17tX5trJ8sFjdKjk1sfjbLXK8DBLCbY&priceShown=1297521&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=3034&rate=1297521.00&fees=272479.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e88d0a3a-822b-48bd-a09e-56190dcb8c59&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=13c23d705f597f50369b47ada06fd7142&area=QC_META_API&ik=ea08cec805a5407190e68aa50c9732e4&dated=true&aok=1cb36207200a48c78fea6ef81c98c259&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1cb36207200a48c78fea6ef81c98c259"
+                                   },
+                                   {
+                                          "content_id": "82235371",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=82235371&geo=10034774&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=6&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261275845&managed=false&capped=false&gosox=jr0C8VovTGKJVzQ7gdSuMWprTmIeft25FWx4aMIebi_bTZDqDZp2sEdV3QvBPUTCj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_FgC38DsznRClNEfLM8grXNpl9R2Dv6yHCZ-p-_TGghgfif8D-SD3K4g-q-D0d4pAx8AUAdEWUYNBrBP2e3xfSvUfYuphBOPoP25iNm8ot-suXbwGCiSPdsZnLoR70TAE0scJpD1ebHAEjCMbuXNig&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e88d0a3a-822b-48bd-a09e-56190dcb8c59&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=167834c0179d01ced43b40d7482971422&area=QC_META_API&ik=ea08cec805a5407190e68aa50c9732e4&dated=true&aok=cbdb8da95546413681a09e80c5620bd3&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cbdb8da95546413681a09e80c5620bd3"
+                                   },
+                                   {
+                                          "content_id": "109935356",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=109935356&geo=10034774&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=6&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261275845&managed=false&capped=false&gosox=aH98Z3klDNboOFYXW50BL6hrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewategAxrRZdtvhtYgcvCVWav0AIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTgIqBCGsB6TnwHCk_Ex4Rhdmwr4DvAGo7_LjNIILm1QS73F83_Be8k2KmmSurkSaC1Ul-9krHBMjRnJWFblAvxaGxxm37hfwLS71VmlY2p475zVF0Smjbk_SDX8JTkeiB6d9CaA1MH62dO-crcR7TX8&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e88d0a3a-822b-48bd-a09e-56190dcb8c59&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1c664e8aed74dcb4e2d7069f33da8d4b9&area=QC_META_API&ik=ea08cec805a5407190e68aa50c9732e4&dated=true&aok=7d69d935e66948ba90e17d35f64df973&tp=HR_MainCommerce",
+                                          "auction_offer_key": "7d69d935e66948ba90e17d35f64df973"
+                                   },
+                                   {
+                                          "content_id": "81087011",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=81087011&geo=10034774&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=6&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261275845&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12o9ztEBYHcCqRvRneCnGB8C1X9GW9K-M6HKJsA2Rz8ZH3q-xhKZ95M-Wmcxv4JLPXbrMyNNzM6VU8v9sWJ6KATkKcbAqIiuZ9P5Krekfe2DdWu1U9a-BNUG9bpBgZ20txGTGSZoYnIEKUAVgCiH448G6foV5-HnPkOEPra-st1ByA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e88d0a3a-822b-48bd-a09e-56190dcb8c59&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1ca70059ec66bf3c16514ee431e2bef36&area=QC_META_API&ik=ea08cec805a5407190e68aa50c9732e4&dated=true&aok=a167309b4a4e49be87b97e62d2a7b392&tp=HR_MainCommerce",
+                                          "auction_offer_key": "a167309b4a4e49be87b97e62d2a7b392"
+                                   },
+                                   {
+                                          "content_id": "174676949",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174676949&geo=10034774&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=6&silo=40643&bucket=944550&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261275845&managed=false&capped=false&gosox=OMnCG0DMS63KS9aWB19EkW8ow2dQ5v3DrUiwIJOqd1EnaqAFX0Pvt9o-_DyUZGQemUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vIydUh7iBrhBB-t9zdI49eLa-XyqjE79wv1RQbZRXVqAflKGOkmA-LHi9Z83zmFxP1l4pXBtsFH_7gdTyTP9_KvA6kSdeKFYVDn67aCzErXe-kTUsmU6uKBf_DupF-ok0Iv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e88d0a3a-822b-48bd-a09e-56190dcb8c59&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=110b2441583b0e893b36ca0628ffee72e&area=QC_META_API&ik=ea08cec805a5407190e68aa50c9732e4&dated=true&aok=3a70ec6dd7ec4d92be54f3b8239b8b3e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3a70ec6dd7ec4d92be54f3b8239b8b3e"
+                                   },
+                                   {
+                                          "content_id": "115617681",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=115617681&geo=10034774&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=6&silo=18569&bucket=962380&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261275845&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01gratKFrO_zptnD0cZakJYrLLf_K_dMxTMPZAguNx4dsP9CXJ7mgmJqUbrbGzmO5-vA6kSdeKFYVDn67aCzErXe-kTUsmU6uKBf_DupF-ok0Iv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=e88d0a3a-822b-48bd-a09e-56190dcb8c59&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=185008728c9e254fd83a02bca8e6018b7&area=QC_META_API&ik=ea08cec805a5407190e68aa50c9732e4&dated=true&aok=3f7a08a43c094ec4a25b335e5e6dba61&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3f7a08a43c094ec4a25b335e5e6dba61"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "adb26def-356f-44aa-b964-fd90922a3ae6",
+                     "description": "Semua orang butuh beristirahat. Untuk wisatawan yang mengunjungi Sanur, ARTOTEL Sanur merupakan pilihan terbaik untuk beristirahat dan memulihkan diri. Terkenal karena suasana sesuai untuk keluarga dan lokasinya yang dekat dengan restoran populer, ARTOTEL Sanur membuat Anda mudah menikmati yang terbaik dari Sanur.\nKamar tamu memiliki tv layar datar, penyejuk udara, dan minibar, dan ARTOTEL Sanur membuat terhubung dengan internet semakin mudah karena menawarkan wi-fi gratis.\nAnda juga dapat menggunakan fasilitas yang disediakan oleh hotel, seperti layanan kamar, layanan concierge, dan teras atap. Para tamu juga dapat menikmati kolam renang dan sarapan saat mereka menginap. Untuk menambah kenyamanan, parkir gratis tersedia untuk para tamu.\nSelama menginap di ARTOTEL Sanur, para tamu dapat mengunjungi Prasasti Blanjong (0,8 km) dan Pura Dalem Pengembak (1,9 km), salah satu tempat terkenal di Sanur.\nJika Anda suka makanan cina, ARTOTEL Sanur terletak dekat White Orchid, Warung Makan Little Mars, dan Apa Kabar Restaurant.\nOh ya, selama berkunjung, jangan lupa untuk melihat marina, seperti divedivedivebali.\nBaik Anda berkunjung untuk urusan bisnis, berlibur ataupun keduanya, ARTOTEL Sanur akan menjadikan kunjungan Anda Sanur tak terlupakan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297700-d10034774-Reviews-ARTOTEL_Sanur-Sanur_Denpasar_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297700-d10034774-ARTOTEL_Sanur-Sanur_Denpasar_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Sanur",
+                                   "abbrv": null,
+                                   "location_id": "297700"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Denpasar",
+                                   "abbrv": null,
+                                   "location_id": "297694"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Sanur",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 4721000",
+                     "website": "http://www.artotelindonesia.com/sanur-bali",
+                     "email": "reservation.sanur@artotelindonesia.com",
+                     "address_obj": {
+                            "street1": "Jl. Kusuma Sari no. 1",
+                            "street2": "",
+                            "city": "Sanur",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80227"
+                     },
+                     "address": "Jl. Kusuma Sari no. 1, Sanur, Denpasar 80227 Indonesia",
+                     "local_name": "ARTOTEL Sanur",
+                     "local_address": "Jl. Kusuma Sari no. 1, 80227",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "reduced_mobility_rooms",
+                                   "name": "Kamar dengan akses difabel"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Bar",
+                                   "name": "Bar Atap"
+                            },
+                            {
+                                   "key": "Rooftop Pool",
+                                   "name": "Kolam Renang Atap"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Rooftop Terrace",
+                                   "name": "Teras Atap"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Infinity Pool",
+                                   "name": "Kolam Renang Cakrawala"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Doorperson",
+                                   "name": "Penjaga Pintu"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Evening Entertainment",
+                                   "name": "Hiburan Malam"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Fitness / Spa Locker Rooms",
+                                   "name": "Ruang Loker Kebugaran/Spa"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Laptop Safe",
+                                   "name": "Brankas Laptop"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "17",
+              "auction_key": "1518cbd545894fd9943b2ebe3a621582",
+              "impression_key": "ea08cec805a5407190e68aa50c9732e4",
+              "pricing": "base"
+       }
+}

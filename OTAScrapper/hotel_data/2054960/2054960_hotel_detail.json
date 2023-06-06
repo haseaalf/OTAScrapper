@@ -1,0 +1,389 @@
+{
+       "data": [
+              {
+                     "location_id": "2054960",
+                     "name": "Pondok Bambu",
+                     "latitude": "-8.509859",
+                     "longitude": "115.56996",
+                     "num_reviews": "210",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Candidasa, Karangasem, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/24/b7/08/pondok-bambu.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/24/b7/08/pondok-bambu.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1224",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/24/b7/08/pondok-bambu.jpg",
+                                          "height": "918"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/24/b7/08/pondok-bambu.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/24/b7/08/pondok-bambu.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2017-01-12T20:51:44-0500",
+                            "caption": "",
+                            "id": "237287176",
+                            "helpful_votes": "3",
+                            "published_date": "2017-01-12T20:51:44-0500",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/2054960?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.091161251068115",
+                     "ranking_geo": "Candidasa",
+                     "ranking_geo_id": "312684",
+                     "ranking_position": "8",
+                     "ranking_denominator": "24",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 8 dari 24 hotel di Candidasa",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0627.000 - Rp\u00a0642.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "108661725",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=108661725&geo=2054960&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=3&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277316&managed=false&capped=false&gosox=1B9EzLoATkfOIY72Lsb2ZahrSisX4AWH_5guVC0aU_wvgKviE0XGzDeS0gJEHVAnXj2NTHuHdqVBB3Efi_YSdwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTspnW4cKy8g7ny8QL4bNSBLjXpEenOwqnkYBtyZBKuR9FdiXseS2X80g-6Q-ODNcbPXeqD_HTl_6Tx7Lo7L-rUMb1rbh9jmeEHto2ULjE8AqDMTxBYa14LoeXRG_LGB5MrDY0Qd9sius40gUbOS0TTA&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=174a3c22-4bbd-49f3-afd8-d6acc2eb1ab0&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1bd67675328c5bfffca425eea02246821&area=QC_META_API&ik=c54548aaf5734565b0774589cc3510ab&dated=true&aok=3881bcbac1144f80ac27f424d4fec33b&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3881bcbac1144f80ac27f424d4fec33b"
+                                   },
+                                   {
+                                          "content_id": "46080552",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=46080552&geo=2054960&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=3&silo=10473&bucket=903102&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277316&managed=false&capped=false&gosox=fkzQ8-CnvrOE6IsLG7kFY2prTmIeft25FWx4aMIebi_BFOmJTSE0-XR_kKvmIPL0j162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_ipIx5DUWgON79GoVpsuO6Npl9R2Dv6yHCZ-p-_TGghkwt_jMseLJl-czs0D6u6jm2VhhnnuY6lGG_cVxUuc9URcjKn5obJrw-goVVL-7LyMXEJC2K3Nl2Fgsa2_Be3nJf0lFapinSCBjKJKikNcOV&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=174a3c22-4bbd-49f3-afd8-d6acc2eb1ab0&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=13baea24ee59bc1d00a56fd2966abb7c0&area=QC_META_API&ik=c54548aaf5734565b0774589cc3510ab&dated=true&aok=905def35b2514b6ea2d08a78ac076694&tp=HR_MainCommerce",
+                                          "auction_offer_key": "905def35b2514b6ea2d08a78ac076694"
+                                   },
+                                   {
+                                          "content_id": "60644772",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60644772&geo=2054960&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=3&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277316&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdyOSJvGTG-zs0YQ3Rgryv8AiMShykcf-t_lImP_P3J01ipiuyO9CL-pv2j-fNmkvpym9rWwghWge7B6PLSd_f3tk0_c0dHQgRGCWveJeJbdm5HhZoGDNfuyapGRuH0jXQagK3yPsEthzhICZVvUDdFV&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=174a3c22-4bbd-49f3-afd8-d6acc2eb1ab0&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=152c6fdc1848ecb02a20fd0ca38fd7b09&area=QC_META_API&ik=c54548aaf5734565b0774589cc3510ab&dated=true&aok=e89c6edb032c4c83a209295841faf493&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e89c6edb032c4c83a209295841faf493"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "159834ce-1668-456b-9d94-01589be3a3df",
+                     "description": "Mencari tempat menginap di Candidasa? Coba lihat Pondok Bambu, hotel unik yang menyuguhkan daya tarik terbaik Candidasa ke kamar Anda.\nPondok Bambu menawarkan para tamu fasilitas beragam seperti penyejuk udara, kulkas, dan minibar, dan mudah untuk terhubung dengan internet, karena tersedia wi-fi gratis.\nHotel menawarkan layanan kamar, teras terbuka, dan koran, sehingga kunjungan anda semakin spesial. Properti ini juga menyediakan kolam renang dan sarapan. Tamu yang menggunakan kendaraan memiliki akses parkir gratis.\nJika Anda suka makanan makanan laut, Pondok Bambu terletak dekat Crazy Kangaroo, Warung Lu Putu, dan Warung Bintang.\nKami yakin Anda akan menikmati menginap di Pondok Bambu sambil menikmati apa yang Candidasa tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g312684-d2054960-Reviews-Pondok_Bambu-Candidasa_Karangasem_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g312684-d2054960-Pondok_Bambu-Candidasa_Karangasem_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Candidasa",
+                                   "abbrv": null,
+                                   "location_id": "312684"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "municipality",
+                                                 "name": "Kabupaten"
+                                          }
+                                   ],
+                                   "name": "Karangasem",
+                                   "abbrv": null,
+                                   "location_id": "608484"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Candidasa",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 363 41534",
+                     "website": "http://www.pondokbambu.com/",
+                     "email": "pondokbambu@live.com",
+                     "address_obj": {
+                            "street1": "Jln. Raya Ulakan",
+                            "street2": "Karangasem ,amlapura",
+                            "city": "Candidasa",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80871"
+                     },
+                     "address": "Jln. Raya Ulakan Karangasem ,amlapura, Candidasa, Karangasem 80871 Indonesia",
+                     "local_name": "Pondok Bambu",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bicycle Rental",
+                                   "name": "Penyewaan Sepeda"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "Diving",
+                                   "name": "Menyelam"
+                            },
+                            {
+                                   "key": "Dutch - Amenities",
+                                   "name": "Bahasa Belanda"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Fishing - Amenities",
+                                   "name": "Memancing"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Newspaper",
+                                   "name": "Koran"
+                            },
+                            {
+                                   "key": "Seating Area",
+                                   "name": "Area Tempat Duduk"
+                            },
+                            {
+                                   "key": "Snorkeling - Amenities",
+                                   "name": "Snorkeling"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "3139224f98b44c42b3ffcafb8c9d792e",
+              "impression_key": "c54548aaf5734565b0774589cc3510ab",
+              "pricing": "base"
+       }
+}

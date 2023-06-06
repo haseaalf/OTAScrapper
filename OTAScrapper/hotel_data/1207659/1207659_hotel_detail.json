@@ -1,0 +1,469 @@
+{
+       "data": [
+              {
+                     "location_id": "1207659",
+                     "name": "Java Paragon Hotel & Residences",
+                     "latitude": "-7.29208",
+                     "longitude": "112.71534",
+                     "num_reviews": "1298",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Surabaya, Jawa Timur, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/91/25/23/2-bedroom-suite--v13515856.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/91/25/23/2-bedroom-suite--v13515856.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2600",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/91/25/23/2-bedroom-suite--v13515856.jpg",
+                                          "height": "1733"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/91/25/23/2-bedroom-suite--v13515856.jpg",
+                                          "height": "450"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/91/25/23/2-bedroom-suite--v13515856.jpg",
+                                          "height": "205"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2016-06-23T09:26:43-0400",
+                            "caption": "The 2 Bedroom Suite at the Java Paragon Hotel & Residences",
+                            "id": "210838819",
+                            "helpful_votes": "1",
+                            "published_date": "2016-08-17T12:19:58-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1207659?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.393223762512207",
+                     "ranking_geo": "Surabaya",
+                     "ranking_geo_id": "297715",
+                     "ranking_position": "26",
+                     "ranking_denominator": "520",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 26 dari 520 hotel di Surabaya",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0463.000 - Rp\u00a0522.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "33207552",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0433.998",
+                                          "display_price_int": "433998",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33207552&geo=1207659&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=5091&bucket=897544&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261276320&managed=false&capped=false&gosox=j2vqO_fb07A1JOafSxCEk6hrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGZNyjRhV4LM36GW5OXDRi_gIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTiVoEOeCfl9vNZ-jF5x2QrCzY_kW4ahSR7AZiTN7j17xGpd1kgaxFipgmYaSMmLmb2J50vpp3V6gb_xJGRUPw3k_WO3ZG53JlkXFzAjYO-JQpe_uQvYL7S3f2D-spb9PYRMQUdOZNGztmQ5SflvBV64&priceShown=433998&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=433998.00&fees=91140.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_73e42e5305528d6f08904b0c0ccb29be&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1f66db379b3d4bd5ad5c0285aee75f994&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=f311c72f4cc74c86ba46fb5b5bd9582e&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f311c72f4cc74c86ba46fb5b5bd9582e"
+                                   },
+                                   {
+                                          "content_id": "32668182",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a0434.000",
+                                          "display_price_int": "434000",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=32668182&geo=1207659&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261276320&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p4N0gG5bNPtxBH315ID6LQuWAcXVtdVJL-UQFjiacWbKzcvOVXNYORhOccrh2n2BRe2O2AcXaILDM01TeaUlpnvY-vteLLAFDgaLTvjHm_SefAFdXVkJTCfwh8vC88UAhGEmViXlP-osQhosXsCKWuHlHRgURIr7ocUXVv-5U2bKXRxBuauM4g2TpHtfIdPh_Qwv3jAMkzfBqzMDusa00HBcvQ1jtfIqT2EG5qLAyVh-u3x0vF-5e_G73LNk18zkObB6FSWUBj0WqOMPjs8kEGw&priceShown=434000&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=434000.00000000000000&fees=95000.00000000000000&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1af2cf3abe38a778d84c2df4503bfa737&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=ccccadb6e1424fc8aee8fe626472696f&tp=HR_MainCommerce",
+                                          "auction_offer_key": "ccccadb6e1424fc8aee8fe626472696f"
+                                   },
+                                   {
+                                          "content_id": "35083515",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=35083515&geo=1207659&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261276320&managed=false&capped=false&gosox=C_lP84us96cTNYV4eMfbymprTmIeft25FWx4aMIebi-aofkFjpuQqyQMM4BJZ8Gxj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_8cAP05TMJIFFnQ5FMcOuUNpl9R2Dv6yHCZ-p-_TGghjLBBmXy0V4x14y5rUsz7TedyErCdQmDB7t1ausQ5Lqxfx1aXMYmZHsSOBn_X-DyQaJETQE70Z4bjwX0fBkhX6KOhkQmPqVuiYoxSJJEhn3a&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=11eaa947aaacc4d27da7896b15168a728&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=4704966b41f84cb3bd053b2bd50c166d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4704966b41f84cb3bd053b2bd50c166d"
+                                   },
+                                   {
+                                          "content_id": "60318462",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60318462&geo=1207659&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261276320&managed=true&capped=false&gosox=JWak8IhE4drx42lzjSlizki5fd4b6wNamnPVGW63fdzxv1-_ZnZYY8swQ5wKnGbW1X9GW9K-M6HKJsA2Rz8ZHxhx_QqsVi7_ESOxMd_0QZtSp-oatUOXmJPb2_Y8mRg4iAPsQ7W6e8ks146X5WMOGfCqZf5pjatHDV5XVq298B1vLjjQFH-oikGjjTMnFA4R&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1f3527d0ad29d8e431e1330bca2dc2acf&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=38629094230e41f78b9f975ba21c5367&tp=HR_MainCommerce",
+                                          "auction_offer_key": "38629094230e41f78b9f975ba21c5367"
+                                   },
+                                   {
+                                          "content_id": "34599308",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=34599308&geo=1207659&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261276320&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12rHor3ScbvLTuxikP6anMDV1X9GW9K-M6HKJsA2Rz8ZH5kCGadyWIUStw8DrDZ50b2YaI0cCO1C14r-V4HR7TFHipySmr24V2y-yBTiwzZ5bqJETQE70Z4bjwX0fBkhX6KOhkQmPqVuiYoxSJJEhn3a&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1c441239a0147a339e143992e6d41f907&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=34e84550eeba48139ea823eeb9c596b5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "34e84550eeba48139ea823eeb9c596b5"
+                                   },
+                                   {
+                                          "content_id": "64225127",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=64225127&geo=1207659&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261276320&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01nPPm0DoSQ5gUjE4wbC-rtHQlot8tc_8S3LeomA4K-bZVGy0_o1hmEXNeiXazz2fXJCyHhX-vBxVJkIS78ZO-kUPUac9whrOHO0Th8ecLwBd&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=17f9cc500429466a08664b4ee57664770&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=8ba7c045fd8643f19ce86d84bfb97118&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8ba7c045fd8643f19ce86d84bfb97118"
+                                   },
+                                   {
+                                          "content_id": "119851240",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119851240&geo=1207659&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=42117&bucket=958557&nrank=6&crank=7&clt=M&ttype=MobileCR&tm=261276320&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GmccB79KHcPwz8MkfX6nnahFW56ZaNfqyCZ36Q8HTA-tObI2K9YJzcluwcTESFmA4c8L4BVSNXWOXDZjW6Hy1SLGegIgU91mmw40pWK9Sf4uhr1CqBfUJuxmSYoBRvx1wIaVz89777VGM5_NTS-jlV8&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=dc77679c-1c50-48be-b9bb-e3e78ee48cb2&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1c50035b4689f19634b446720db43758b&area=QC_META_API&ik=fb2898ac810f418f9f0f9c249da15e13&dated=true&aok=4f895935da7042c2bfaf2167e1a09c53&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4f895935da7042c2bfaf2167e1a09c53"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "30f69458-afc0-4ef7-be62-c099f9ac5ff6",
+                     "description": "Menemukan hotel trendi yang ideal di Surabaya sangatlah mudah. Selamat datang di Java Paragon Hotel & Residences, pilihan tepat untuk wisatawan seperti Anda.\nBerdekatan dengan beberapa tempat terkenal di Surabaya, seperti Patung Sura dan Buaya (2,6 km) dan Monumen Perjuangan POLRI (3,1 km), Java Paragon Hotel & Residences adalah destinasi yang sangat baik untuk turis.\nJava Paragon Hotel & Residences bersuasana hotel trendi menawarkan tv layar datar, penyejuk udara, dan minibar di dalam kamarnya, dan mudah terhubung dengan internet karena wi-fi gratis tersedia untuk para tamu.\nHotel menawarkan layanan kamar, layanan concierge, dan teras atap. Dan, para tamu dapat menikmati kolam renang dan restoran, yang merupakan pilihan populer para wisatawan yang berkunjung ke Surabaya. Untuk para tamu yang mengemudi, parkir gratis tersedia.\nPada saat di Surabaya jangan lupa menikmati hidangan cina di Arumanis Restaurant, Moi Garden Restaurant, atau Tang Palace Chinese Restaurant.\nSurabaya juga merupakan lokasi Hutan Bambu dan Taman Sakura Keputih Sukolilo, taman kota populer yang terletak tidak jauh dari Java Paragon Hotel & Residences.\nJava Paragon Hotel & Residences tak sabar untuk menyambut Anda di Surabaya.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297715-d1207659-Reviews-Java_Paragon_Hotel_Residences-Surabaya_East_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297715-d1207659-Java_Paragon_Hotel_Residences-Surabaya_East_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Surabaya",
+                                   "abbrv": null,
+                                   "location_id": "297715"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Timur",
+                                   "abbrv": null,
+                                   "location_id": "2301797"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Surabaya",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 31 5621234",
+                     "website": "http://www.javaparagon.com",
+                     "email": "info.javaparagon@reveurhotels.com",
+                     "address_obj": {
+                            "street1": "Jl. Mayjen Sungkono no. 101-103",
+                            "street2": "",
+                            "city": "Surabaya",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "60189"
+                     },
+                     "address": "Jl. Mayjen Sungkono no. 101-103, Surabaya 60189 Indonesia",
+                     "local_name": "Java Paragon Hotel & Residences",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Rooftop Bar",
+                                   "name": "Bar Atap"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Rooftop Terrace",
+                                   "name": "Teras Atap"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Kids Stay Free",
+                                   "name": "Anak-Anak Menginap Gratis"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            },
+                            {
+                                   "key": "VIP Room Facilities",
+                                   "name": "Fasilitas Kamar VIP"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false,
+                     "questionCircleTooltip": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "43",
+              "auction_key": "45fece4b04f0472a96642aa5fa10a802",
+              "impression_key": "fb2898ac810f418f9f0f9c249da15e13",
+              "pricing": "base"
+       }
+}

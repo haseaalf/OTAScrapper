@@ -1,0 +1,315 @@
+{
+       "data": [
+              {
+                     "location_id": "23992024",
+                     "name": "Monolocale Resort",
+                     "latitude": "-8.6516",
+                     "longitude": "115.157104",
+                     "num_reviews": "369",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Kerobokan, Kuta Utara, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/98/44/57/monolocale-resort.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/98/44/57/monolocale-resort.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "2048",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/98/44/57/monolocale-resort.jpg",
+                                          "height": "1365"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/98/44/57/monolocale-resort.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/98/44/57/monolocale-resort.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-10-19T05:52:33-0400",
+                            "caption": "",
+                            "id": "647513175",
+                            "helpful_votes": "0",
+                            "published_date": "2022-10-19T05:52:33-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/23992024?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.9246673583984375",
+                     "ranking_geo": "Kerobokan",
+                     "ranking_geo_id": "608486",
+                     "ranking_position": "1",
+                     "ranking_denominator": "54",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 1 dari 54 hotel di Kerobokan",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0985.000 - Rp\u00a01.652.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "226023796",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0891.069",
+                                          "display_price_int": "891069",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=226023796&geo=23992024&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=3&silo=18569&bucket=934050&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914100&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLDQxlM7ji2c3pF8syBAF8FkWq1vcubKJzKVFkvT36eSf6MX9OANXfEFmioh24rYevAvpTdSauBJJn_doyN27RwWnPJNRpicUuIfyHNaxzdrSW_iCY4-_XWJUyhDxHQQ4T7bXTc3SSANc_-DhYg7WhP9m2AAiqGU_tb3474rnT9UCBnoI4fJYoxM6l0glaqtbLAJBcVVfPLd8blJEgnDqY2ZKBfggI8QzfqZRISoQn0knUuxSovxn7nlEDLncqMspbF3IrZLBZ91Oj9hUy1266nc&priceShown=891069&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=891069.00&fees=89107.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_4d8930486ae3cd4983b2ebbf56817657&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bf05cb62-3109-413c-a94e-05d3ed94700d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1401b36aba1a5ff0c4d7c546b442ab329&area=QC_META_API&ik=70d9a3686ff546e190f2e9bfd688a9d2&dated=true&aok=dd4bb3e826354988adb1e675174c7ea0&tp=HR_MainCommerce",
+                                          "auction_offer_key": "dd4bb3e826354988adb1e675174c7ea0"
+                                   },
+                                   {
+                                          "content_id": "225807286",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=225807286&geo=23992024&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=3&silo=5091&bucket=907532&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914100&managed=false&capped=false&gosox=T760TUNEsZv4a5M1YCyTnKhrSisX4AWH_5guVC0aU_xFhlIselNCIyHZQT7Kc2eOltMnQHh2CPLgeJ6GwyMORwIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTk3dVhSlbwugZjATR5a4EuQ58McjK14J2ZA16XBsi9HSkTJ2Zb04YcrqDhhAMCLRCIV0phpXJe59DpIAHe-3YPX_f-OUOsDUsFbja84kw4Tswpm51eBHNPZXQzgg1c9By8G0-KiJgCM57oJV3GU8rBg&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bf05cb62-3109-413c-a94e-05d3ed94700d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=133742dbfb6888f2f92615d6dfba78b46&area=QC_META_API&ik=70d9a3686ff546e190f2e9bfd688a9d2&dated=true&aok=71ac84e7d21d4008b59ee938f256b450&tp=HR_MainCommerce",
+                                          "auction_offer_key": "71ac84e7d21d4008b59ee938f256b450"
+                                   },
+                                   {
+                                          "content_id": "239155304",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=239155304&geo=23992024&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=3&silo=40643&bucket=944550&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=259914100&managed=false&capped=false&gosox=7f6Kak4IIEeOlBt5OHIErjPQxPQTH9UHfeitk5eNI78jRPfOE6UG7RubjNkXU3r3X1RxoO1GNnxeLlJMVR0aVtekSOT1ID0C3rP-6T6ilnYyz-0oJiyc4WLr8lF8FpPBWeGPk0_ZujRNM227Jh-QpTdek_3TgHv8hYYiecO8YmCCiUXlDb-FwZH-h4Y9LOhGfQiyMid1ATXEbsvxsTZhtC6A3hjwyo2aaVrL10yy25gcs50rW6odlZBikdNdIDhsIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=bf05cb62-3109-413c-a94e-05d3ed94700d&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1daca9c59169679344f2e4c4be0ff0a71&area=QC_META_API&ik=70d9a3686ff546e190f2e9bfd688a9d2&dated=true&aok=211e149f236b4a5b811f119d797f626a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "211e149f236b4a5b811f119d797f626a"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "0026b1de-c942-49ea-a7c7-49e41b03c841",
+                     "description": "",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g608486-d23992024-Reviews-Monolocale_Resort-Kerobokan_North_Kuta_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g608486-d23992024-Monolocale_Resort-Kerobokan_North_Kuta_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Kerobokan",
+                                   "abbrv": null,
+                                   "location_id": "608486"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kuta Utara",
+                                   "abbrv": null,
+                                   "location_id": "12622795"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Kerobokan",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 821-2222-5088",
+                     "website": "http://www.monolocalebali.com",
+                     "email": "Info@monolocalebali.com",
+                     "address_obj": {
+                            "street1": "Umalas 1 No. 88A",
+                            "street2": "",
+                            "city": "Kerobokan",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Umalas 1 No. 88A, Kerobokan 80361 Indonesia",
+                     "local_name": "Monolocale Resort",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "Microwave",
+                                   "name": "Microwave"
+                            },
+                            {
+                                   "key": "Blackout Curtains",
+                                   "name": "Tirai Kedap Cahaya"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Clothes Rack",
+                                   "name": "Rak Pakaian"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "Complimentary Tea",
+                                   "name": "Teh Gratis"
+                            },
+                            {
+                                   "key": "Desk",
+                                   "name": "Meja"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Hair Dryer",
+                                   "name": "Pengering Rambut"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Pool View",
+                                   "name": "Pemandangan Kolam Renang"
+                            },
+                            {
+                                   "key": "Sofa",
+                                   "name": "Sofa"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Walk-in Shower",
+                                   "name": "Shower Berdiri"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "33",
+              "auction_key": "1e8de1eba36d4330b5b0d4502f6f1279",
+              "impression_key": "70d9a3686ff546e190f2e9bfd688a9d2",
+              "pricing": "base"
+       }
+}

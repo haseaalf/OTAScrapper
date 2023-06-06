@@ -1,0 +1,443 @@
+{
+       "data": [
+              {
+                     "location_id": "2035261",
+                     "name": "Hotel Dafam Semarang",
+                     "latitude": "-6.979722",
+                     "longitude": "110.41194",
+                     "num_reviews": "404",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Semarang, Jawa Tengah, Jawa",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/02/69/94/04/deluxe-room.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/02/69/94/04/deluxe-room.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/69/94/04/deluxe-room.jpg",
+                                          "height": "358"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/69/94/04/deluxe-room.jpg",
+                                          "height": "358"
+                                   },
+                                   "medium": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/69/94/04/deluxe-room.jpg",
+                                          "height": "358"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2012-04-07T01:06:37-0400",
+                            "caption": "Deluxe Room",
+                            "id": "40473604",
+                            "helpful_votes": "5",
+                            "published_date": "2012-04-07T01:06:36-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/2035261?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.839334011077881",
+                     "ranking_geo": "Semarang",
+                     "ranking_geo_id": "297712",
+                     "ranking_position": "4",
+                     "ranking_denominator": "273",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 4 dari 273 hotel di Semarang",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a0373.000 - Rp\u00a0493.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "33215421",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a0342.149",
+                                          "display_price_int": "342149",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33215421&geo=2035261&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=4&silo=5091&bucket=907352&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277292&managed=false&capped=false&gosox=1Z7AJwXwA_eL2vhtHSW3TqhrSisX4AWH_5guVC0aU_z5acN9PdAqEtD1QeA4xnZGG1edQA79-MaJdJR1RjJsswIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTlq4HE8lW0Mk1jMOKWk7aiULq3xK6hAIc1LtlIqoyQs_f4hsNN61Q10uexBFhi_u7nWRkm45KJYSGWUG_xX_rMyaC9qqdFbVVtHU2FJ6zXc8XdRskC1w2rSBPum_DHHEFPbb5bM00zvmQLxRpA-wTNY&priceShown=342149&pm=BR&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rate=342149.00&fees=71851.00&cur=IDR&adults=2&child_rm_ages=&inDay=13&outDay=14&rdex=RDEX_17c359f6ef760a5304ca6faab2fe13f8&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7be06d93-ca99-4b82-8242-2c381455249f&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1333e632761680c2973242945b8f77c76&area=QC_META_API&ik=2ab0e2efc3594c8eb5683f6d154f5c5a&dated=true&aok=cf5caf43dff040f29a3655053e2f79c4&tp=HR_MainCommerce",
+                                          "auction_offer_key": "cf5caf43dff040f29a3655053e2f79c4"
+                                   },
+                                   {
+                                          "content_id": "35086167",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=35086167&geo=2035261&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=4&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277292&managed=false&capped=false&gosox=tTHOeYxMY6yIgwFkI9z2UmprTmIeft25FWx4aMIebi-1Xt4O7qVjifqPhTKCYG2Ij162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn-pXYM-gCdpwzYIZ_gDRzdPNpl9R2Dv6yHCZ-p-_TGghhWAuimf4pcku3MwEH6XglcSPfHqyPPjqAV5BSv-lq-yiJdCYLv4h4TG-PqaPftPVQJPgnj89c042Qc5WhWvGTwwq4oN2u-8G1S0OGh1YJ9d&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7be06d93-ca99-4b82-8242-2c381455249f&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1d43ed92348994f2e258bcf945cf11ed6&area=QC_META_API&ik=2ab0e2efc3594c8eb5683f6d154f5c5a&dated=true&aok=1980d07900da465f823b137103b06331&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1980d07900da465f823b137103b06331"
+                                   },
+                                   {
+                                          "content_id": "60409714",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60409714&geo=2035261&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=4&silo=45096&bucket=974633&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277292&managed=true&capped=false&gosox=lNLPeUePO28vmy7KE57CZ7rAd4VPsDXOZsv86JnOG03yfoWleQ5hyyc2xdOu2LnaNpl9R2Dv6yHCZ-p-_TGghqG-8Pf60vzBW_eom9Kbq3gZqR37RUUysRmNCEwS1v1cUCjFjNAku1RLtS2AQV6xZMwobDPr16kUQn3apI2CUJcCrzsPRyTCCspTMhhEA4RG&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7be06d93-ca99-4b82-8242-2c381455249f&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=167f018d78f90ccdd14d4fb440c4e4096&area=QC_META_API&ik=2ab0e2efc3594c8eb5683f6d154f5c5a&dated=true&aok=e64e4040698e46b9811a61c16b389392&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e64e4040698e46b9811a61c16b389392"
+                                   },
+                                   {
+                                          "content_id": "79206467",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79206467&geo=2035261&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=4&silo=18569&bucket=962380&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277292&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01hsFW2zl67tMtAWR4f2x3QASgnt5_rPIyP6wZ327YwBYGQCtJ1fmb2-Cq0Mui9H97Vfz7dn5h2mtQKh5JTPZHCYedw9rZReOnC61bDxw-A0T&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7be06d93-ca99-4b82-8242-2c381455249f&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1bbbaf8fb8603f069d1d74246d4fbd1a4&area=QC_META_API&ik=2ab0e2efc3594c8eb5683f6d154f5c5a&dated=true&aok=f11d59f5a7aa46cf9e247dfe380d3b1d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "f11d59f5a7aa46cf9e247dfe380d3b1d"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "3.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "5e4397cf-3767-4bec-bd0f-f475dade6dcc",
+                     "description": "Hotel Dafam Semarang adalah pilihan tepat untuk wisatawan yang mengunjungi Semarang, karena menawarkan suasana yang akan menyempurnakan masa menginap Anda.\nKamar di Hotel Dafam Semarang memiliki penyejuk udara, dan para tamu tetap dapat menggunakan internet dengan tersedianya wi-fi gratis.\nAnda juga dapat menikmati pusat kebugaran dan sarapan selama menginap di Hotel Dafam Semarang. Butuh tempat parkir? Parkir gratis tersedia di Hotel Dafam Semarang.\nKarena berdekatan dengan beberapa tempat terkenal, seperti Gereja Katolik St. Yusuf (Gedangan) (2,6 km) dan Masjid Agung Jawa Tengah (3,7 km), para tamu Hotel Dafam Semarang dapat mengunjungi beberapa lokasi populer di Semarang.\nJika Anda merasa lapar, jangan lupa untuk mampir ke Spiegel Bar & Bistro, Cafe Pelangi, dan Goodfellas Resto & Bar, restoran asia yang populer dengan warga sekitar dan pengunjung dari luar kota.\nOh ya, selama berkunjung, jangan lupa untuk melihat beberapa monumen, seperti Klenteng Sam Po Kong (Gedong Batu), Kota Lama Semarang, dan Tugu Muda.\nNikmati masa menginap Anda di Semarang!\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297712-d2035261-Reviews-Hotel_Dafam_Semarang-Semarang_Central_Java_Java.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297712-d2035261-Hotel_Dafam_Semarang-Semarang_Central_Java_Java.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Semarang",
+                                   "abbrv": null,
+                                   "location_id": "297712"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Jawa Tengah",
+                                   "abbrv": null,
+                                   "location_id": "2301793"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "region",
+                                                 "name": "Wilayah"
+                                          }
+                                   ],
+                                   "name": "Jawa",
+                                   "abbrv": null,
+                                   "location_id": "294228"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Semarang",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 813-4200-7545",
+                     "website": "http://www.dafamhotels.com/hotel-directory/hotel-dafam-semarang",
+                     "email": "rsv@dafamhotels.com",
+                     "address_obj": {
+                            "street1": "Jl. Imam Bonjol no. 188",
+                            "street2": "",
+                            "city": "Semarang",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "50132"
+                     },
+                     "address": "Jl. Imam Bonjol no. 188, Semarang 50132 Indonesia",
+                     "local_name": "Hotel Dafam Semarang",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bath / Shower",
+                                   "name": "Pemandian/Shower"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Coffee Shop - Amenities",
+                                   "name": "Kedai Kopi"
+                            },
+                            {
+                                   "key": "Coffee / Tea Maker",
+                                   "name": "Mesin Pembuat Kopi/Teh"
+                            },
+                            {
+                                   "key": "wheelchair_access",
+                                   "name": "Akses kursi roda"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "non_smoking_hotel",
+                                   "name": "Hotel bebas rokok"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "Currency Exchange",
+                                   "name": "Layanan Penukaran Mata Uang"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Complimentary Toiletries",
+                                   "name": "Perlengkapan Mandi Gratis"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Shops - Amenities",
+                                   "name": "Toko"
+                            },
+                            {
+                                   "key": "Telephone",
+                                   "name": "Layanan Telepon"
+                            },
+                            {
+                                   "key": "Valet Parking - Amenities",
+                                   "name": "Layanan Parkir Valet"
+                            },
+                            {
+                                   "key": "Wake Up Service / Alarm Clock",
+                                   "name": "Layanan Bangun Tidur/Jam Alarm"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "25",
+              "auction_key": "a14a495ad5b240d1a39cb0ee6356e354",
+              "impression_key": "2ab0e2efc3594c8eb5683f6d154f5c5a",
+              "pricing": "base"
+       }
+}

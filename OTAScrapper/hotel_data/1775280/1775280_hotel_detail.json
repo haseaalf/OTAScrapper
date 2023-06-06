@@ -1,0 +1,465 @@
+{
+       "data": [
+              {
+                     "location_id": "1775280",
+                     "name": "Sudamala Resort, Seraya",
+                     "latitude": "-8.412504",
+                     "longitude": "119.86724",
+                     "num_reviews": "426",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Labuan Bajo, Flores, Nusa Tenggara Timur",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/b3/6f/57/sudamala-resort-seraya.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/b3/6f/57/sudamala-resort-seraya.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "4000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/b3/6f/57/sudamala-resort-seraya.jpg",
+                                          "height": "3000"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/b3/6f/57/sudamala-resort-seraya.jpg",
+                                          "height": "413"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/b3/6f/57/sudamala-resort-seraya.jpg",
+                                          "height": "188"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2023-03-31T22:03:00-0400",
+                            "caption": "",
+                            "id": "682848087",
+                            "helpful_votes": "0",
+                            "published_date": "2023-03-31T22:03:00-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/1775280?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.5747551918029785",
+                     "ranking_geo": "Labuan Bajo",
+                     "ranking_geo_id": "1777483",
+                     "ranking_position": "5",
+                     "ranking_denominator": "43",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 5 dari 43 hotel di Labuan Bajo",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.5",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$",
+                     "price": "Rp\u00a01.896.000 - Rp\u00a03.910.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "66696695",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=66696695&geo=1775280&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=8&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277063&managed=false&capped=false&gosox=q-aGlvoLWI0f3dgYUv5yhWprTmIeft25FWx4aMIebi-Pma3nZN1XVdNGXSKASWQrj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_8cAP05TMJIFFnQ5FMcOuUNpl9R2Dv6yHCZ-p-_TGghtbq-kBC5p00p1zHkzylcLrx4IMVWNbtovSonVlgaHISxRvpOVp6dlr6HVMXA-rzzu0zRMxO8Ebl-VRns3Jk1YekomvWixTAsKZTHRZf3DO5&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=196087d22b69045031b505d085dd23255&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=fa2b98e3c3464c7b9616f16b301613a8&tp=HR_MainCommerce",
+                                          "auction_offer_key": "fa2b98e3c3464c7b9616f16b301613a8"
+                                   },
+                                   {
+                                          "content_id": "70446329",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=70446329&geo=1775280&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=8&silo=5091&bucket=907712&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277063&managed=false&capped=false&gosox=7E6Ax3i8OaPBEp0SSB_676hrSisX4AWH_5guVC0aU_wvgKviE0XGzDeS0gJEHVAnlDQC7hK0hIacubvmHlQTUAIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTiBWh6GPmUk393ETW0Mkhxfi5gTo97RTf6FHFZwX01KUjyj8MQaRRCD8pE2SezvN1IlVmPepmwhcU9lAxzpQ_7FSv5m1b0uPe7D6P3EOdBji-t9M0sIG0LfDPKN2bapuMEIhqYqvlYP_dZv5qj0Z0bI&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1a298b2d45aa47ab895fb5e58bbac3337&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=9ce4277aa11c4083ba4fdd2ed1e4cab4&tp=HR_MainCommerce",
+                                          "auction_offer_key": "9ce4277aa11c4083ba4fdd2ed1e4cab4"
+                                   },
+                                   {
+                                          "content_id": "78556758",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=78556758&geo=1775280&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=8&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277063&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULXvCt8Edc7C0iIna_oXJpmdhRAYkFRolTp6Q0CwW8vg41X9GW9K-M6HKJsA2Rz8ZH2vl0An4Briu-R7Q5_gYkSmfDdek_kUxn3DhL_whkFykowrc3M49RExwJI5w--1p16Ke9AcTYoSkp_wWFTN4jzj5vyWXYofASfOjJEmqscDuCzwObIxeD5xxdSZigtI4KQ&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=16fe3e3f3103ce4928a00975d5f6aad8e&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=466a2a0441fa440da49b7b345eb0bc78&tp=HR_MainCommerce",
+                                          "auction_offer_key": "466a2a0441fa440da49b7b345eb0bc78"
+                                   },
+                                   {
+                                          "content_id": "66790678",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=66790678&geo=1775280&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=8&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277063&managed=true&capped=false&gosox=wMPhocQFhmQHNC3RMUS7q7YeNtRbu7cTMzeaD5cXWZd7AWfGJlXrOe9AUfFlWXOl1X9GW9K-M6HKJsA2Rz8ZH7_ajl_uT0VtljL20TKq0NiU04cUyfAlaK3Az72g_pJwJ1Nz8MlGRGUxPzdWJAjHN-zs4oSGFEQXlJo-Y33ZvQGNvzcKCp5Fd949FJa3XtLa&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=11d3bf3445e8fd37fcf2f81871d280d8c&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=b50a1555d195400bbb2aded0d6e5befc&tp=HR_MainCommerce",
+                                          "auction_offer_key": "b50a1555d195400bbb2aded0d6e5befc"
+                                   },
+                                   {
+                                          "content_id": "77945925",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=77945925&geo=1775280&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=8&silo=4322&bucket=932885&nrank=6&crank=5&clt=M&ttype=MobileCR&tm=261277063&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzVByBlFcmwBE-2P7LLhWDotrScX9VDqHWfQVQnljQ1gNbF0Msc8p4E_bzNP1myZDLT1AwyNK-Dltigrgijav1GLBWyygmGxKKnFJikVV6i1k&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1fb89d602026df362e0667a386c94df4d&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=c3888197492b41ba9847ebc349c11754&tp=HR_MainCommerce",
+                                          "auction_offer_key": "c3888197492b41ba9847ebc349c11754"
+                                   },
+                                   {
+                                          "content_id": "239142212",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=239142212&geo=1775280&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=8&silo=40643&bucket=944550&nrank=5&crank=6&clt=M&ttype=MobileCR&tm=261277063&managed=false&capped=false&gosox=kw6SeuInWWhZEELPAAOyb28ow2dQ5v3DrUiwIJOqd1Ez9VJxqPr6Z93u26JbGRY3mUhZbNWe7x0y18qEwzI4MdxCDVMBj-Q37HhBZu5-uSy6MtB_zsn6qDILveqL6N3vvuKl03kYH560_nZZP6jX_La-XyqjE79wv1RQbZRXVqD0Cvz4lVlgCtKi08ZoLhmErEVn-WdIlBCZgd3J3RyOii1yFs1gZ9hE3J99uCCJdHJDA8nOkJucfmJqZiaZDil7Iv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=14877a1dcdb6fcc99e4009cf9123f4f16&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=2c37b6f949a44a3eb106912d7546f604&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2c37b6f949a44a3eb106912d7546f604"
+                                   },
+                                   {
+                                          "content_id": "119704569",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=119704569&geo=1775280&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=8&silo=18569&bucket=934050&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261277063&managed=true&capped=false&gosox=otinle4FdYbwlOssKnpjLCjRL5XvKCpNdDWr4RIlB5GhDavGzkhz4zkWGr_0wOsiiMShykcf-t_lImP_P3J01rzwJ2Cli0nXvkD30FLY3GWIYoTTlbHSBYI5mXWufse2z6Yb7dyAHbpzjbV2vya8cy1yFs1gZ9hE3J99uCCJdHJDA8nOkJucfmJqZiaZDil7Iv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1c8c558233eb667d8bc777b04fca145f0&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=1006109c27f24fcdb48daa2189edbe3d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "1006109c27f24fcdb48daa2189edbe3d"
+                                   },
+                                   {
+                                          "content_id": "119931670",
+                                          "provider_display_name": "SuperTravel",
+                                          "internal_provider_name": "SnapTravel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Snap_Super_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "unavailable",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=SnapTravel&src=119931670&geo=1775280&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=8&silo=42117&bucket=958557&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=261277063&managed=true&capped=false&gosox=BZPgHOqxJW4qv9KrlTV3GmccB79KHcPwz8MkfX6nnahFW56ZaNfqyCZ36Q8HTA-tUJIWzkqrTbVNBiuK55Ap8oq_2Tf_PYfGFRk18W62EKjmGhwwlasAL4RTBdgoSehV8WdJz9IxbF-9Gj6Eg641HUf-UA47nQfZFhoeXIh_JNg&pm=BR&hac=NOT_AVAILABLE&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=7f3aec5e-6be5-49ce-97f4-7dab1bac0494&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_12&bh=true&cs=1b9291ee92af0c66f5f2384bdad47b2e2&area=QC_META_API&ik=93d3f748f8ed45c492b46f39c621db5c&dated=true&aok=30acd6241d2f418886b3007bc46f8589&tp=HR_MainCommerce",
+                                          "auction_offer_key": "30acd6241d2f418886b3007bc46f8589"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "8b0a71a8-3373-4a6a-ab2c-e924b585ac90",
+                     "description": "Mencari tempat menginap di Labuan Bajo? Coba lihat Sudamala Resort, Seraya, hotel mewah yang menyuguhkan daya tarik terbaik Labuan Bajo ke kamar Anda.\nKamar di Sudamala Resort, Seraya memiliki minibar, kulkas, dan penyejuk udara, dan para tamu tetap dapat menggunakan internet dengan tersedianya internet.\nAnda juga dapat menikmati kolam renang dan sarapan selama menginap di Seraya Island Bungalows Hotel.\nJika Anda mencari hal yang dapat dilakukan, coba lihat Magnolia Boutique Komodo, sebuah galeri seni yang populer dikunjungi para turis.\nKami yakin Anda akan menikmati menginap di Sudamala Resort, Seraya sambil menikmati apa yang Labuan Bajo tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g1777483-d1775280-Reviews-Sudamala_Resort_Seraya-Labuan_Bajo_Flores_East_Nusa_Tenggara.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g1777483-d1775280-Sudamala_Resort_Seraya-Labuan_Bajo_Flores_East_Nusa_Tenggara.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Labuan Bajo",
+                                   "abbrv": null,
+                                   "location_id": "1777483"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "island",
+                                                 "name": "Pulau"
+                                          }
+                                   ],
+                                   "name": "Flores",
+                                   "abbrv": null,
+                                   "location_id": "297729"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Nusa Tenggara Timur",
+                                   "abbrv": null,
+                                   "location_id": "297728"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Labuan Bajo",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 361 288555",
+                     "website": "http://www.sudamalaresorts.com/seraya/",
+                     "email": "reservations.seraya@sudamalaresorts.com",
+                     "address_obj": {
+                            "street1": "Seraya Kecil",
+                            "street2": "",
+                            "city": "Labuan Bajo",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "86754"
+                     },
+                     "address": "Seraya Kecil, Labuan Bajo, Flores 86754 Indonesia",
+                     "local_name": "Sudamala Resort, Seraya",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "beach",
+                                   "name": "Tepi pantai"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "airport_transportation",
+                                   "name": "Transportasi bandara"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Refrigerator",
+                                   "name": "Kulkas di kamar"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Poolside Bar",
+                                   "name": "Bar Tepi Kolam Renang"
+                            },
+                            {
+                                   "key": "Private Balcony",
+                                   "name": "Balkon Pribadi"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Beach",
+                                   "name": "Pantai Pribadi"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Bottled Water",
+                                   "name": "Air Minum Botol"
+                            },
+                            {
+                                   "key": "Canoeing - Amenities",
+                                   "name": "Bermain Kano"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Diving",
+                                   "name": "Menyelam"
+                            },
+                            {
+                                   "key": "English - Amenities",
+                                   "name": "Bahasa Inggris"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Massage",
+                                   "name": "Layanan Pijat"
+                            },
+                            {
+                                   "key": "Pool / Beach Towels",
+                                   "name": "Handuk Renang/Pantai"
+                            },
+                            {
+                                   "key": "24-Hour Security",
+                                   "name": "Petugas Keamanan 24 Jam"
+                            },
+                            {
+                                   "key": "Snack Bar",
+                                   "name": "Gerai Kudapan"
+                            },
+                            {
+                                   "key": "Snorkeling - Amenities",
+                                   "name": "Snorkeling"
+                            },
+                            {
+                                   "key": "Sun Loungers / Beach Chairs",
+                                   "name": "Ruang Duduk Terbuka/Kursi Pantai"
+                            },
+                            {
+                                   "key": "Sun Terrace",
+                                   "name": "Teras Terbuka"
+                            },
+                            {
+                                   "key": "Sun Umbrellas",
+                                   "name": "Payung Matahari"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Express Check-in / Check-out",
+                                   "name": "Check-in/Check-out Cepat"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "13",
+              "auction_key": "794371cdbe184dd1aef2a3e9c22c3404",
+              "impression_key": "93d3f748f8ed45c492b46f39c621db5c",
+              "pricing": "base"
+       }
+}

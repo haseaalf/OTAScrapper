@@ -1,0 +1,1 @@
+start "not_stop_words" cmd /k "C:\Users\MSI-GAMMING\Documents\COOLYEAH\.skripsi\Code\DataProcessing\.venv\Scripts\activate & python C:\Users\MSI-GAMMING\Documents\COOLYEAH\.skripsi\Code\DataProcessing\not_stop_words.py"

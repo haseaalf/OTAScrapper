@@ -1,0 +1,409 @@
+{
+       "data": [
+              {
+                     "location_id": "3750312",
+                     "name": "Swiss-Belhotel Harbour Bay",
+                     "latitude": "1.153527",
+                     "longitude": "104.000336",
+                     "num_reviews": "1023",
+                     "timezone": "Asia/Jakarta",
+                     "location_string": "Batam, Riau Archipelago, Riau",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/e4/9a/7e/meeting-room.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/e4/9a/7e/meeting-room.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "4000",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/e4/9a/7e/meeting-room.jpg",
+                                          "height": "2127"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e4/9a/7e/meeting-room.jpg",
+                                          "height": "292"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/e4/9a/7e/meeting-room.jpg",
+                                          "height": "133"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2021-04-23T02:03:10-0400",
+                            "caption": "Meeting Room",
+                            "id": "484743806",
+                            "helpful_votes": "0",
+                            "published_date": "2021-04-23T02:03:10-0400",
+                            "user": null
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/3750312?adults=2&checkin=2023-04-13&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.680812358856201",
+                     "ranking_geo": "Batam",
+                     "ranking_geo_id": "297717",
+                     "ranking_position": "4",
+                     "ranking_denominator": "245",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 4 dari 245 hotel di Batam",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "4.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$",
+                     "price": "Rp\u00a01.030.000 - Rp\u00a01.239.000",
+                     "hac_offers": {
+                            "availability": "pending",
+                            "offers": [
+                                   {
+                                          "content_id": "49218332",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=49218332&geo=3750312&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=261277961&managed=false&capped=false&gosox=HhV7zrzpnfvjUZZIN08TmWprTmIeft25FWx4aMIebi8aVeCgBVwyp1UDFnaGHYdsj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn_8cAP05TMJIFFnQ5FMcOuUNpl9R2Dv6yHCZ-p-_TGghnfKNgkN3IHHrNcENdMnv_zGYbv5dE2OZO30S39lUreOZUGrn0n1OzEIhxOmoBz9VIRamD7FlSySjzcTicS0Q24iHm5C-fq5HmCdztXKz8yx&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1fdfe05f13fea5f3244d884dcb3ae3663&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=0a3d6ceae7ee40dd8f5286a23e58b177&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0a3d6ceae7ee40dd8f5286a23e58b177"
+                                   },
+                                   {
+                                          "content_id": "47650808",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=47650808&geo=3750312&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=5091&bucket=907352&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=261277961&managed=false&capped=false&gosox=JMayawSx-Z9KtiUDyp2z-6hrSisX4AWH_5guVC0aU_wvgKviE0XGzDeS0gJEHVAnANe_psLCGmiHl9BIPvc1jgIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTgIqBCGsB6TnwHCk_Ex4RheuTKZYxgTwGMvCuOVoeux7t0YJoyxlTeWsYUKLnHIqIogJDD0cPz4hGkrhKX8MaTsNfyyisx8LAnZa1-KeFT_4SVWAQVv2_XCDfFJJn0c5FzIZrouHhskwowRyXr28VJ8&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1e9dab10c5d077e0feef7351739f230d0&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=3195d5c88408404f8929d9aa3ac59344&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3195d5c88408404f8929d9aa3ac59344"
+                                   },
+                                   {
+                                          "content_id": "52888301",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_link",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=52888301&geo=3750312&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=6128&bucket=933282&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=261277961&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12qRlnrvDPHjQ1PhkDTIy8lk1X9GW9K-M6HKJsA2Rz8ZHxDrbKqtypl-QENnWmY7dTGG96JqjL2ail-xbIEMdLpMC8ROwHvOPALyIcA5ZWMfcQ1_LKKzHwsCdlrX4p4VP_hJVYBBW_b9cIN8UkmfRzkXMhmui4eGyTCjBHJevbxUnw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1ef81f4658ba4016fb5766e115d3accee&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=2a478711f5d047eb8e5c9dce35351da3&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2a478711f5d047eb8e5c9dce35351da3"
+                                   },
+                                   {
+                                          "content_id": "60671559",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60671559&geo=3750312&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=45096&bucket=974633&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=261277961&managed=true&capped=false&gosox=F1gs1YbMVO5K2l_ab74-8oJoP0PCKnQwRY0hdgADkOB1V6nZpPDUUZH2u5Mcr_TH1X9GW9K-M6HKJsA2Rz8ZH4IIHjq3GPUIYjoxAODYIzn4pCuzdBCKJ2sH8SaCFVCLHh6FAo49MsZbJ3pD9Mlfs_Bqgu1dYNci6b07DF0OkF1a1YveZ7VChh3GEWjl3Wax&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=134c721a4712a56fc7ade04c1fc7f64c0&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=56caaa37fe7d4c7c85528be584895872&tp=HR_MainCommerce",
+                                          "auction_offer_key": "56caaa37fe7d4c7c85528be584895872"
+                                   },
+                                   {
+                                          "content_id": "174719927",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174719927&geo=3750312&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=40643&bucket=944550&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=261277961&managed=false&capped=false&gosox=UXAXN_74h6gyJ0znn-ukjO83zrtje4oVNwJths0bYOnu6n1TD3AdqyyimAI9T42yt6xtN-3jdyu6IybNcRNgFswNSBEjjKrLjEOya0czCIKfGyELBA1FvD1Ax1ANx2m1Qo2zIK4LNY9yyE2Eq41G0narAn50Wbis7jneE3f_EAzgDlcjDVC_bZIHfwk6O4x2iAkMPRw_PiEaSuEpfwxpOw1_LKKzHwsCdlrX4p4VP_hJVYBBW_b9cIN8UkmfRzkXMhmui4eGyTCjBHJevbxUnw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=103883904bfdeb21734a952f8475a7034&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=3fc177d75f764ceb9f08a34de6053f07&tp=HR_MainCommerce",
+                                          "auction_offer_key": "3fc177d75f764ceb9f08a34de6053f07"
+                                   },
+                                   {
+                                          "content_id": "50212807",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=50212807&geo=3750312&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=4322&bucket=932885&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=261277961&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p1Duw_az2ZDCT31zxZXvxyaWRnjB197B6pkV97JcAi8NfJMRni2Dk8OerJncRq5nzXOymwZrLffWtj2DZA0nZNC8FykMxQGF0KeR7Hysw1JQ7_QlKE9GKFCVQ3BGI2ju5fBqgu1dYNci6b07DF0OkF1a1YveZ7VChh3GEWjl3Wax&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=1b1e0e2d4d56ee8a1798d64fa6410f489&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=311d01720539456982803378314d21c5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "311d01720539456982803378314d21c5"
+                                   },
+                                   {
+                                          "content_id": "79236467",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=79236467&geo=3750312&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=18569&bucket=962380&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=261277961&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01sOLjtZHvYmmh3z3WL2G1jY73IRHN_g7UbYPOSSz51Brrjq-NmNE6les98GM7m-5Cv6MeSQno3e8NPMDqc-EQTThV-zBJlizCcqrWugKPfztIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=13&outDay=14&rooms=1&inMonth=4&inYear=2023&outMonth=4&outYear=2023&auid=5ed26fe1-2689-4b0f-a6e4-1c6c26ed4b58&def_d=true&bld=L_1,D_0,G_2,W_4,U_1,C_230413,T_13&bh=true&cs=195de662e8334735759f69cd5d351e5e8&area=QC_META_API&ik=edf418cdf15f4ebfba4406680a9ab828&dated=true&aok=8ecb7462eb3349339d61e99b117eaa63&tp=HR_MainCommerce",
+                                          "auction_offer_key": "8ecb7462eb3349339d61e99b117eaa63"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "4.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": []
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": []
+                     },
+                     "listing_key": "a554873b-c0c0-43d4-b725-e2e9fe987d46",
+                     "description": "Swiss-Belhotel Harbour Bay merupakan pilihan tepat saat mengunjungi Batam. Kombinasi ideal antara harga, kenyamanan, dan kepraktisan, tempat ini menawarkan suasana yang trendi dengan fasilitas yang di desain untuk wisatawan seperti Anda.\nSebagai \"rumah\" Anda, kamar hotel menawarkan tv layar datar dan penyejuk udara, dan mudah terhubung dengan internet karena wi-fi gratis tersedia.\nPara tamu memiliki akses layanan concierge dan layanan kamar selama menginap di Swiss-Belhotel Harbour Bay. Selain itu, Swiss-Belhotel Harbour Bay juga menawarkan kolam renang dan sarapan, yang akan membuat pengalaman menginap di Batam semakin berkesan.\nKarena jarak yang berdekatan dengan Batam Miniature House (4,0 km), para tamu Swiss-Belhotel Harbour Bay dapat menikmati salah satu lokasi Batam yang paling terkenal.\nSelama berada di sini, jangan lupa untuk mencicipi makanan makanan laut, seperti Golden Prawn 933, Wey Wey Live Seafood, dan RM Yong Kee, semuanya berdekatan dengan Swiss-Belhotel Harbour Bay.\nSelama berkunjung, jangan lupa untuk melihat tempat menarik yang populer seperti Klenteng Tua Pek Kong (1,9 km) dan Masjid Jabal Arafah (2,0 km), karena jaraknya berdekatan dengan hotel.\nAnda pasti akan menikmati menginap di Swiss-Belhotel Harbour Bay sambil menikmati semua yang Batam dapat tawarkan.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g297717-d3750312-Reviews-Swiss_Belhotel_Harbour_Bay-Batam_Riau_Archipelago_Riau_Islands_Province.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g297717-d3750312-Swiss_Belhotel_Harbour_Bay-Batam_Riau_Archipelago_Riau_Islands_Province.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "island",
+                                                 "name": "Pulau"
+                                          }
+                                   ],
+                                   "name": "Batam",
+                                   "abbrv": null,
+                                   "location_id": "297717"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Riau Archipelago",
+                                   "abbrv": null,
+                                   "location_id": "2347741"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "province",
+                                                 "name": "Provinsi"
+                                          }
+                                   ],
+                                   "name": "Riau",
+                                   "abbrv": null,
+                                   "location_id": "297716"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Batam",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "+62 778 7415888",
+                     "website": "http://www.swiss-belhotel.com/en/Indonesia/Batam/harbour-bay#hotel+information",
+                     "email": "batamsbhb@swiss-belhotel.com",
+                     "address_obj": {
+                            "street1": "Jl. Duyung",
+                            "street2": "Sei Jodoh, Batu Ampar,",
+                            "city": null,
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "29432"
+                     },
+                     "address": "Jl. Duyung Sei Jodoh, Batu Ampar,, Riau 29432 Indonesia",
+                     "local_name": "Swiss-Belhotel Harbour Bay",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "fitness_center",
+                                   "name": "Pusat kebugaran"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "free_breakfast",
+                                   "name": "Sudah termasuk sarapan"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "meeting_room",
+                                   "name": "Ruang rapat"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "business_services",
+                                   "name": "Pusat bisnis"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Banquet Room",
+                                   "name": "Ruang Pertemuan"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Family Rooms",
+                                   "name": "Ruang Keluarga"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Smoking Rooms Available",
+                                   "name": "Tersedia ruang merokok"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Conference Facilities",
+                                   "name": "Fasilitas Konferensi"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Breakfast Buffet",
+                                   "name": "Sarapan Prasmanan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Car Hire",
+                                   "name": "Penyewaan Mobil"
+                            },
+                            {
+                                   "key": "24-Hour Front Desk",
+                                   "name": "Resepsionis 24 Jam"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Taxi Service",
+                                   "name": "Layanan Taksi"
+                            }
+                     ]
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isPersistableOncePerGeo": false,
+                     "questionCircleTooltip": false,
+                     "isTravelAlertCuba": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "0",
+              "auction_key": "f11a7ab9166c43af8942005003cc1001",
+              "impression_key": "edf418cdf15f4ebfba4406680a9ab828",
+              "pricing": "base"
+       }
+}

@@ -1,0 +1,506 @@
+{
+       "data": [
+              {
+                     "location_id": "594928",
+                     "name": "The Elysian",
+                     "latitude": "-8.688069",
+                     "longitude": "115.158104",
+                     "num_reviews": "841",
+                     "timezone": "Asia/Makassar",
+                     "location_string": "Seminyak, Kecamatan Kuta, Bali",
+                     "photo": {
+                            "images": {
+                                   "small": {
+                                          "width": "150",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/d6/d0/9c/the-elysian.jpg",
+                                          "height": "150"
+                                   },
+                                   "thumbnail": {
+                                          "width": "50",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/d6/d0/9c/the-elysian.jpg",
+                                          "height": "50"
+                                   },
+                                   "original": {
+                                          "width": "1024",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/d6/d0/9c/the-elysian.jpg",
+                                          "height": "683"
+                                   },
+                                   "large": {
+                                          "width": "550",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/d6/d0/9c/the-elysian.jpg",
+                                          "height": "367"
+                                   },
+                                   "medium": {
+                                          "width": "250",
+                                          "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/d6/d0/9c/the-elysian.jpg",
+                                          "height": "167"
+                                   }
+                            },
+                            "is_blessed": true,
+                            "uploaded_date": "2022-09-14T23:26:22-0400",
+                            "caption": "Pool Cabana ",
+                            "id": "634835100",
+                            "helpful_votes": "0",
+                            "published_date": "2022-09-14T23:26:22-0400",
+                            "user": {
+                                   "user_id": null,
+                                   "member_id": "0",
+                                   "type": "user"
+                            }
+                     },
+                     "api_detail_url": "https://api.tripadvisor.com/api/internal/1.19/meta_hac/594928?adults=2&checkin=2023-03-28&currency=IDR&devicetype=mobile&locale=in&lod=extended&nights=1",
+                     "awards": [],
+                     "preferred_map_engine": "default",
+                     "raw_ranking": "4.749436378479004",
+                     "ranking_geo": "Seminyak",
+                     "ranking_geo_id": "469404",
+                     "ranking_position": "14",
+                     "ranking_denominator": "156",
+                     "ranking_category": "hotel",
+                     "ranking": "No. 14 dari 156 hotel di Seminyak",
+                     "subcategory_type": "hotel",
+                     "subcategory_type_label": "Hotel",
+                     "distance": null,
+                     "distance_string": null,
+                     "bearing": null,
+                     "rating": "5.0",
+                     "is_closed": false,
+                     "is_long_closed": false,
+                     "price_level": "$$$",
+                     "price": "Rp\u00a03.470.000 - Rp\u00a05.242.000",
+                     "hac_offers": {
+                            "availability": "available",
+                            "offers": [
+                                   {
+                                          "content_id": "33206044",
+                                          "provider_display_name": "Agoda.com",
+                                          "internal_provider_name": "Agoda",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Agoda.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "premium",
+                                          "display_price": "Rp\u00a02.482.769",
+                                          "display_price_int": "2482769",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Agoda&src=33206044&geo=594928&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=8&silo=5091&bucket=907532&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=259914836&managed=false&capped=false&gosox=MbwUIxhjHBYmJBNQS5sBYqhrSisX4AWH_5guVC0aU_xfB2pJjpikZ_5lAZtewateNnp07QXrwvOqEBPkZYB2GAIIXt3WLGB4tbiU65AEx0acuQZv7ee7jte9W8m5cCrfLURy9_Lozk1ujp4BWMrqTlZHmOcT70XGg3TMFRzcVs2eHmjpmorshKW0skhdBCZB_K9i3wpZ0kQDQISwLd5UqC432YfN3D-mI6o6U-li7pZb-3J6dmaVw-KFGuCq7AqHOz6P5sjW4nbe3pB-OhKilyveSfy6GztTy6pc1Zo-g0s&priceShown=2482769&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=471&rate=2482769.00&fees=521382.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_3ff911ada1054ae33ec18eab090147e9&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=107c8f13eead55b98aa3113f1221a74ed&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=bc58813ab45544d4ba93f82698e17bd5&tp=HR_MainCommerce",
+                                          "auction_offer_key": "bc58813ab45544d4ba93f82698e17bd5"
+                                   },
+                                   {
+                                          "content_id": "35073748",
+                                          "provider_display_name": "Hotels.com",
+                                          "internal_provider_name": "HotelsCom2",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Hotelscom_384x164.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a02.742.255",
+                                          "display_price_int": "2742255",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=HotelsCom2&src=35073748&geo=594928&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=8&silo=6128&bucket=933282&nrank=4&crank=3&clt=M&ttype=MobileCR&tm=259914836&managed=true&capped=false&gosox=WurpxRLVz6eq1YdifI3ULY5bECL7qWT7e7cDma8O12pSnmIeaLKVBWUsKDBnaSauEp2Pqq3zXxcQTRS0PqI9coIgS3uTGA-7CIP48dqad6WE_VaCR07PGibuxwEo6VB1KD7xUqkViZA7Wsq9hia4MnCuuZEyZoxnYX_kURVH40-Efjv6RBeoWWd1AB7pcg0CoC0pAp38PpH2ACYZeR4BtGvWHEO9Ji8XoU93Ewx4c7wJXL0vCrz6L3XkBFMju61kTEZuJn15lLYlX79uEBLybtlVEHKxPkhYtKzTwv9ScvM&priceShown=2742255&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2183&rate=2742255.00&fees=575874.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_88ee465423aaf007c418af561849d9c&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=137636adf77f242148ac3ede3db8da5f6&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=4a1bcc9762a94f3c8a28598cbb4a53fe&tp=HR_MainCommerce",
+                                          "auction_offer_key": "4a1bcc9762a94f3c8a28598cbb4a53fe"
+                                   },
+                                   {
+                                          "content_id": "174631558",
+                                          "provider_display_name": "Vio.com",
+                                          "internal_provider_name": "FindHotel",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/Vio_com.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a02.411.455",
+                                          "display_price_int": "2411455",
+                                          "strikethrough_price": "Rp\u00a02.742.255",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174631558&geo=594928&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=8&silo=40643&bucket=944550&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=259914836&managed=false&capped=false&gosox=UXAXN_74h6gyJ0znn-ukjNNlsWbJ09zjZpBfPWuOm2hpB6f3_9GyTr0hfKLFJ0k1c_jlcHCMXZJy6m-gYk3oJRhP-Li6YcH9gmZmk34fSJvO8tNn6ZwEb4CHcjmtVXA4h5uGmdD-yopsFjmAnDK460jtAIY-j_uAu2bwcuM-YlLfVXCwkFjltMi_SmCihcupXoCEAyLJLk05LgwFJ7U4lSkuHhWRZEjR3WR-jfn3sSKe4QI6UJMbN8u_Hc3wp4SbBhJS0hOJ4pgWI7e6UZKUs5TYs1hFoXwftGkceh6uFRI&priceShown=2411455&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=2411455.00&fees=506406.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_1327bd3e484c5d03ccb66b3b7a277826&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=12ed70bab0f7db09caf451777661ce259&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=576aeddda2074864a331f3b95b9f167d&tp=HR_MainCommerce",
+                                          "auction_offer_key": "576aeddda2074864a331f3b95b9f167d"
+                                   },
+                                   {
+                                          "content_id": "230458075",
+                                          "provider_display_name": "Etrip",
+                                          "internal_provider_name": "Etrip",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a02.411.455",
+                                          "display_price_int": "2411455",
+                                          "strikethrough_price": "Rp\u00a02.742.255",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=230458075&geo=594928&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=8&silo=44859&bucket=973414&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=259914836&managed=false&capped=false&gosox=n-P2oSBr5s2i6KMCRiEW5ATeWYudSVr2iE8LBkkaVLLW5xODtfoXW_HIASkO428x7zxKq1hnQ_08NByA5Xll2Gc7bjwy1yORP8Oxigw11Kny_690qvDslkiOz65FmPlgBXmGL4_vSzqPMmFB59JMn_dw3mS8wckBYVD-TwN3ypFK9n4bXVUb036mHmjKlU1lLjfZh83cP6YjqjpT6WLullv7cnp2ZpXD4oUa4KrsCoc7Po_myNbidt7ekH46EqKXK95J_LobO1PLqlzVmj6DSw&priceShown=2411455&pm=BR&hac=AVAILABLE&mbl=MEET&mbldelta=0&rate=2411455.00&fees=506406.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rdex=RDEX_693cf54c537b9a2735f8adc65aa8a426&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=12529f25c606b1ee16602735aa9ab0cfa&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=2c993edd1dbc437ca636842bf0f459b2&tp=HR_MainCommerce",
+                                          "auction_offer_key": "2c993edd1dbc437ca636842bf0f459b2"
+                                   },
+                                   {
+                                          "content_id": "34311215",
+                                          "provider_display_name": "Expedia",
+                                          "internal_provider_name": "Expedia",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/expedia2021_384164.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "available",
+                                          "display_style": "text_hidden",
+                                          "display_price": "Rp\u00a02.742.255",
+                                          "display_price_int": "2742255",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=Expedia&src=34311215&geo=594928&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=8&silo=4322&bucket=932885&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=259914836&managed=true&capped=false&gosox=7p5rJWWZhGBnge7dZxO-p7GoKY81_gzaZasrVcTSDcpaa893P3lOWIs7JiLqttSRFBJFMFrPZkzGCuE4wh7fuoBvf-98o8eKSl4JgCVSgnSKz7BS9j0Saa4wXaUTBxJnKsLqJv_NdrUbFzceJaGLqLBX2pcRLBRvhnIPKNliIC-czuJqbcuBva5npLa7wy7e5XdXooD4NWby_8HcUCJ8lVokqWuemoPTe3q4lnirp1zBEArpJA6CrqyNoQydyts6Oz6P5sjW4nbe3pB-OhKilyveSfy6GztTy6pc1Zo-g0s&priceShown=2742255&pm=BR&hac=AVAILABLE&mbl=LOSE&mbldelta=2183&rate=2742255.00&fees=575874.00&cur=IDR&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=130c464493b365c8b5ef081af72e7aeb3&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=e386cfd5bb234222af9b1f90760396b7&tp=HR_MainCommerce",
+                                          "auction_offer_key": "e386cfd5bb234222af9b1f90760396b7"
+                                   },
+                                   {
+                                          "content_id": "33397761",
+                                          "provider_display_name": "Booking.com",
+                                          "internal_provider_name": "BookingCom",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+                                          "treatment": "co_branded",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=33397761&geo=594928&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=8&silo=10473&bucket=903102&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=259914836&managed=false&capped=false&gosox=nmFqKJ4p4glLwoJYi90QyNI2gWmdiZ8Titqn9qycCA3cLf-0a9OSPa5L4nBgTa6Fj162sHvet-et20GQFSoDz0_oz4l8hMr0XNgWJG2yWn9WBx94wvl7MBIeD-F5f72INpl9R2Dv6yHCZ-p-_TGghj1KGpYNwSb3kaISjWnKNB__8oi9DfrhcZ2OKJjTTPw2vgNPhNAizgMLNUZaaWwMO0xGbiZ9eZS2JV-_bhAS8m7ZVRBysT5IWLSs08L_UnLz&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1c7b55aa9c222c0a0a17e4f6ebbdf5962&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=0e10b897c27e4ac5bb766b406d768f1a&tp=HR_MainCommerce",
+                                          "auction_offer_key": "0e10b897c27e4ac5bb766b406d768f1a"
+                                   },
+                                   {
+                                          "content_id": "60105424",
+                                          "provider_display_name": "eDreams",
+                                          "internal_provider_name": "BookingeDreamsWL",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=60105424&geo=594928&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=8&silo=45096&bucket=974633&nrank=3&crank=4&clt=M&ttype=MobileCR&tm=259914836&managed=true&capped=false&gosox=cx9J4jyEcSWNqNSzGUEcFwpHX3gUtlInobWI8G5-h-Kv7GDboA67-UIWVX82a0901X9GW9K-M6HKJsA2Rz8ZH4IIHjq3GPUIYjoxAODYIzmFFpZYBsxOHZ-GLn4AH_goSvGXWKlBtbsfHzbyywv9fbBXXr7P7NRI7q_TYT-2KcNJ0WNnAcFWNi2i4_4yeFVb&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1577709716e6e40e33738dfc2e31c2cd7&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=778269204bc44d5b9405a4d527b46583&tp=HR_MainCommerce",
+                                          "auction_offer_key": "778269204bc44d5b9405a4d527b46583"
+                                   },
+                                   {
+                                          "content_id": "64225080",
+                                          "provider_display_name": "Trip.com",
+                                          "internal_provider_name": "CtripTA",
+                                          "logo": "https://static.tacdn.com/img2/branding/hotels/trip_logo_tripadvisor.png",
+                                          "treatment": "none",
+                                          "is_bookable": false,
+                                          "availability": "pending",
+                                          "display_style": "text_hidden",
+                                          "link": "https://www.tripadvisor.com/Commerce?p=CtripTA&src=64225080&geo=594928&from=HotelDateSearch_api&slot=8&matchID=1&oos=0&cnt=8&silo=18569&bucket=962380&nrank=7&crank=8&clt=M&ttype=MobileCR&tm=259914836&managed=true&capped=false&gosox=dDx0XW1bxuPI_2i8E0m0GijRL5XvKCpNdDWr4RIlB5FacSMewYED-7T35JyZr_njiMShykcf-t_lImP_P3J01tgTFCzGLflsW59Bd0jEVpN74EcGxPsEuWMBH9CTE0V_QcsXmkdsIdNJIFgVU16awALeEoEgdUbZ1ssSUziceac_4hmAhbGytEnYN-Z55kaJIv6qVHZVUi6w_KP5Lzu8Cw&pm=BR&hac=INITIALIZED&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&auid=2117adbb-5f0d-479c-b0f0-f116a24b0ee2&def_d=true&bld=L_1,D_0,G_2,W_2,U_1,C_230328,T_18&bh=true&cs=1c84eeb64e5b58ff443e4b01e2927f5f0&area=QC_META_API&ik=f15808f2d87e4888b9f937b312e38cb8&dated=true&aok=87acb1ce81964ebf8660dbba1ddc8e77&tp=HR_MainCommerce",
+                                          "auction_offer_key": "87acb1ce81964ebf8660dbba1ddc8e77"
+                                   }
+                            ],
+                            "all_booking_offers": []
+                     },
+                     "hotel_class": "5.0",
+                     "hotel_class_attribution": "Properti ini diklasifikasikan menurut Giata.",
+                     "business_listings": {
+                            "desktop_contacts": [],
+                            "mobile_contacts": [
+                                   {
+                                          "value": "(0361) 730999",
+                                          "label": "Nomor telepon",
+                                          "type": "phone",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=594928&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLTM&tm=259914836&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkX4k4rqPwrNAUIOLCcOKexDM_da5yzVvLnh-DavtSpojRJcc7KAas8e6NvySvs9b1A&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=1&cs=1a461496c57bf38013562406acbdb5026"
+                                   },
+                                   {
+                                          "value": "info@theelysian.com",
+                                          "label": "Kirimkan e-mail kepada hotel",
+                                          "type": "email",
+                                          "offerless_commerce_track_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=594928&from=api&area=&slot=2&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLEM&tm=259914836&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkX4k4rqPwrNAUIOLCcOKexBlSNPkQZZnJIFzk1797NI7VpBjzf_psH2Gnlx4-8k3Gg&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=2&cs=1b32c5dce7c3b0aafae86c925d62e3970"
+                                   },
+                                   {
+                                          "value": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=594928&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=259914836&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkX4k4rqPwrNAUIOLCcOKexDO6hhfyFMF0ucLzSFa29CIchQjB_FN9aMC_ZMzEtNodA&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=3&cs=1522583e41eb3a863ea9ffabf456f01d8",
+                                          "label": "Situs Web hotel",
+                                          "type": "url"
+                                   }
+                            ]
+                     },
+                     "special_offers": {
+                            "desktop": [],
+                            "mobile": [
+                                   {
+                                          "headline": "Penawaran paket",
+                                          "url": "https://www.tripadvisor.co.id/ShowSpecialOffer-a_d.594928-a_offer.9369364-a_trafficSource.ba?adults=2&child_rm_ages=&inDay=28&inMonth=3&inYear=2023&outDay=29&outMonth=3&outYear=2023&rooms=1",
+                                          "offerless_click_tracking_url": "https://www.tripadvisor.co.id/Commerce?p=TABAIndependentHotels&src=0&geo=594928&from=api&area=OID:9369364%7COT:12&slot=1&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=SOIM&tm=259914836&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkX4k4rqPwrNAUIOLCcOKexBNcJN1Mai8FPFsycPC7BRPJhYLU5ZpZWk4gVq0aAAKaw&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&cs=198e06fe13655320a6e96f3d276fb4abd",
+                                          "coupon_id": null,
+                                          "coupon_type": "PACKAGE",
+                                          "bl_language": null,
+                                          "description": "",
+                                          "valid_start_date": "2022-11-01T00:00:00-04:00",
+                                          "valid_end_date": "2024-03-31T00:00:00-04:00",
+                                          "valid_days": "Penawaran berlaku untuk hari berikut: .",
+                                          "taxes": null
+                                   }
+                            ]
+                     },
+                     "listing_key": "4ad63b45-5ab8-46fe-b8e7-f06ad125d782",
+                     "description": "Jika anda mencari suasana hotel mewah di Seminyak, coba lihat The Elysian.\nThe Elysian Hotel menawarkan para tamu fasilitas beragam seperti tv layar datar, penyejuk udara, dan kulkas, dan mudah untuk terhubung dengan internet, karena tersedia wi-fi gratis.\nHotel menawarkan layanan kamar dan layanan concierge, sehingga kunjungan anda semakin spesial. Properti ini juga menyediakan kolam renang dan sarapan. Tamu yang menggunakan kendaraan memiliki akses parkir gratis.\nJika Anda suka makanan barbekyu, The Elysian Hotel terletak dekat Naughty Nuri's Seminyak, Warung Nia, dan Wacko Burger Cafe.\nJika Anda mencari hal yang dapat dilakukan, Purpa Fine Art Gallery dan Galeri Buddha merupakan ide yang bagus untuk menghabiskan waktu.\nPara staff di The Elysian tak sabar untuk melayani Anda saat Anda berkunjung kesana.\n",
+                     "web_url": "https://www.tripadvisor.co.id/Hotel_Review-g469404-d594928-Reviews-The_Elysian-Seminyak_Kuta_District_Bali.html",
+                     "write_review": "https://www.tripadvisor.co.id/UserReview-g469404-d594928-The_Elysian-Seminyak_Kuta_District_Bali.html",
+                     "ancestors": [
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "city",
+                                                 "name": "Kota"
+                                          }
+                                   ],
+                                   "name": "Seminyak",
+                                   "abbrv": null,
+                                   "location_id": "469404"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "district",
+                                                 "name": "Distrik"
+                                          }
+                                   ],
+                                   "name": "Kecamatan Kuta",
+                                   "abbrv": null,
+                                   "location_id": "13117159"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "islandgroup",
+                                                 "name": "Kepulauan"
+                                          }
+                                   ],
+                                   "name": "Bali",
+                                   "abbrv": null,
+                                   "location_id": "294226"
+                            },
+                            {
+                                   "subcategory": [
+                                          {
+                                                 "key": "country",
+                                                 "name": "Negara"
+                                          }
+                                   ],
+                                   "name": "Indonesia",
+                                   "abbrv": null,
+                                   "location_id": "294225"
+                            }
+                     ],
+                     "category": {
+                            "key": "hotel",
+                            "name": "Hotel"
+                     },
+                     "subcategory": [
+                            {
+                                   "key": "hotel",
+                                   "name": "Hotel"
+                            }
+                     ],
+                     "parent_display_name": "Seminyak",
+                     "guide_count": "0",
+                     "is_jfy_enabled": false,
+                     "nearest_metro_station": [],
+                     "phone": "0361730999",
+                     "website": "http://theelysian.com",
+                     "email": "info@theelysian.com",
+                     "address_obj": {
+                            "street1": "Jl. Sari Dewi No.18",
+                            "street2": "",
+                            "city": "Seminyak",
+                            "state": null,
+                            "country": "Indonesia",
+                            "postalcode": "80361"
+                     },
+                     "address": "Jl. Sari Dewi No.18, Seminyak 80361 Indonesia",
+                     "local_name": "The Elysian",
+                     "local_address": "",
+                     "local_lang_code": "id",
+                     "is_candidate_for_contact_info_suppression": false,
+                     "amenities": [
+                            {
+                                   "key": "swimming_pool",
+                                   "name": "Kolam Renang"
+                            },
+                            {
+                                   "key": "high_speed_internet_in_room",
+                                   "name": "Internet"
+                            },
+                            {
+                                   "key": "Free Internet",
+                                   "name": "Internet Gratis"
+                            },
+                            {
+                                   "key": "Wifi",
+                                   "name": "Wi-Fi"
+                            },
+                            {
+                                   "key": "free_wireless_internet_in_room",
+                                   "name": "Wi-Fi Gratis"
+                            },
+                            {
+                                   "key": "room_service",
+                                   "name": "Layanan kamar"
+                            },
+                            {
+                                   "key": "restaurant",
+                                   "name": "Restoran"
+                            },
+                            {
+                                   "key": "suites",
+                                   "name": "Suite"
+                            },
+                            {
+                                   "key": "Shuttle Bus Service",
+                                   "name": "Layanan Bus Antar Jemput"
+                            },
+                            {
+                                   "key": "bar_lounge",
+                                   "name": "Bar/Lounge"
+                            },
+                            {
+                                   "key": "spa",
+                                   "name": "Spa"
+                            },
+                            {
+                                   "key": "Laundry Service",
+                                   "name": "Layanan Cuci Pakaian"
+                            },
+                            {
+                                   "key": "concierge_desk",
+                                   "name": "Layanan concierge"
+                            },
+                            {
+                                   "key": "Multilingual Staff",
+                                   "name": "Staf Multibahasa"
+                            },
+                            {
+                                   "key": "Public Wifi",
+                                   "name": "Wi-Fi Umum"
+                            },
+                            {
+                                   "key": "Dry Cleaning",
+                                   "name": "Layanan Dry Cleaning"
+                            },
+                            {
+                                   "key": "Non-Smoking Rooms",
+                                   "name": "Kamar bebas rokok"
+                            },
+                            {
+                                   "key": "air_conditioning",
+                                   "name": "AC"
+                            },
+                            {
+                                   "key": "Minibar",
+                                   "name": "Minibar"
+                            },
+                            {
+                                   "key": "Safe",
+                                   "name": "Brankas"
+                            },
+                            {
+                                   "key": "Flatscreen TV",
+                                   "name": "TV Layar Datar"
+                            },
+                            {
+                                   "key": "Butler Service",
+                                   "name": "Kamar Dengan Pelayan"
+                            },
+                            {
+                                   "key": "Outdoor Pool",
+                                   "name": "Kolam renang luar ruangan"
+                            },
+                            {
+                                   "key": "Private Pool",
+                                   "name": "Kolam Renang Pribadi"
+                            },
+                            {
+                                   "key": "Parking",
+                                   "name": "Parkir"
+                            },
+                            {
+                                   "key": "Free Shuttle or Taxi Services",
+                                   "name": "Antar Jemput Gratis atau Layanan Taksi"
+                            },
+                            {
+                                   "key": "Housekeeping",
+                                   "name": "Layanan kebersihan kamar"
+                            },
+                            {
+                                   "key": "Breakfast in the Room",
+                                   "name": "Sarapan di Kamar"
+                            },
+                            {
+                                   "key": "24-Hour Check-in",
+                                   "name": "Check-in 24 Jam"
+                            },
+                            {
+                                   "key": "Couples Massage",
+                                   "name": "Pijat untuk Pasangan"
+                            },
+                            {
+                                   "key": "Facial Treatments",
+                                   "name": "Perawatan Wajah"
+                            },
+                            {
+                                   "key": "Foot Massage",
+                                   "name": "Pijat Kaki"
+                            },
+                            {
+                                   "key": "Complimentary Instant Cofffee",
+                                   "name": "Kopi Instan Gratis"
+                            },
+                            {
+                                   "key": "Full Body Massage",
+                                   "name": "Pijat Seluruh Tubuh"
+                            },
+                            {
+                                   "key": "Head Massage",
+                                   "name": "Pijat Kepala"
+                            },
+                            {
+                                   "key": "Indonesian - Amenities",
+                                   "name": "Bahasa Indonesia"
+                            },
+                            {
+                                   "key": "Ironing Service",
+                                   "name": "Layanan Setrika"
+                            },
+                            {
+                                   "key": "free_parking",
+                                   "name": "Parkir gratis"
+                            },
+                            {
+                                   "key": "Breakfast Available",
+                                   "name": "Tersedia Sarapan"
+                            },
+                            {
+                                   "key": "Baggage Storage",
+                                   "name": "Penyimpanan Bagasi"
+                            },
+                            {
+                                   "key": "Beach Access - Amenities",
+                                   "name": "Akses ke Pantai"
+                            }
+                     ],
+                     "owner_website": "/Commerce?p=TABAIndependentHotels&src=0&geo=594928&from=api&area=&slot=3&matchID=1&oos=0&cnt=1&silo=30355&bucket=875169&ubucket=875169&nrank=1&crank=1&clt=CLM&tm=259914836&managed=false&capped=false&gosox=5_3Y6UYwwGjgw_c7hEwIkX4k4rqPwrNAUIOLCcOKexDO6hhfyFMF0ucLzSFa29CIchQjB_FN9aMC_ZMzEtNodA&adults=2&child_rm_ages=&inDay=28&outDay=29&rooms=1&inMonth=3&inYear=2023&outMonth=3&outYear=2023&def_d=false&bapid=3&cs=1522583e41eb3a863ea9ffabf456f01d8"
+              }
+       ],
+       "paging": {
+              "previous": null,
+              "next": null,
+              "skipped": "0",
+              "results": "1",
+              "total_results": "1"
+       },
+       "status": {
+              "unfiltered_total_size": "1",
+              "pricing_disclaimer": "Harga adalah harga rata-rata per malam yang disediakan oleh mitra kami serta mungkin belum termasuk semua pajak dan biaya. Pajak dan biaya yang ditampilkan hanya merupakan perkiraan. Untuk selengkapnya, lihat di mitra kami.",
+              "special_messaging": {
+                     "icon_class": "special-offer-45deg",
+                     "primary_text": "<strong>Ingin menghemat uang?</strong> Kami mencari hingga di 200 situs untuk membantu Anda berhemat hingga 30%",
+                     "secondary_text": null,
+                     "buttonText": null,
+                     "message_type": "BRAND_MESSAGING_DEFAULT",
+                     "renderCollapsed": false,
+                     "isTravelAlertCuba": false,
+                     "questionCircleTooltip": false,
+                     "isPersistableOncePerGeo": false
+              },
+              "unavailable": "1",
+              "commerce_country_iso_code": "ID",
+              "no_prices": "0",
+              "autobroadened": false,
+              "progress": "63",
+              "auction_key": "fc8c6f52b8a44c6a928c17bad6ab8b76",
+              "impression_key": "f15808f2d87e4888b9f937b312e38cb8",
+              "pricing": "base"
+       }
+}
